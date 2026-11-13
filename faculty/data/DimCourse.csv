@@ -1,0 +1,45 @@
+﻿Course_ID,Course_Name,Faculty_ID,Course_Level,Credit_Points
+BUS101,Accounting,FAC-BUS,1,6
+BUS102,Principles of Marketing,FAC-BUS,1,6
+BUS103,Economics,FAC-BUS,1,6
+BUS104,Business Law,FAC-BUS,1,6
+BUS105,Management Principles,FAC-BUS,1,6
+BUS106,Statistics,FAC-BUS,1,6
+BUS201,Finance,FAC-BUS,2,6
+BUS202,Financial Reporting,FAC-BUS,2,6
+BUS203,Consumer Behaviour,FAC-BUS,2,6
+BUS204,Marketing Analytics,FAC-BUS,2,6
+BUS205,Business Ethics,FAC-BUS,2,6
+BUS206,Operations Management,FAC-BUS,2,6
+BUS301,Corporate Finance,FAC-BUS,3,6
+BUS302,Strategic Management,FAC-BUS,3,6
+BUS303,Decision Modelling,FAC-BUS,3,6
+BUS304,Business Research,FAC-BUS,3,6
+CMP101,Programming,FAC-CMP,1,6
+CMP102,Computing Fundamentals,FAC-CMP,1,6
+CMP103,Database Fundamentals,FAC-CMP,1,6
+CMP104,Web Systems,FAC-CMP,1,6
+CMP201,Data Visualisation,FAC-CMP,2,6
+CMP202,Database Design,FAC-CMP,2,6
+CMP203,Software Development,FAC-CMP,2,6
+CMP204,Cybersecurity,FAC-CMP,2,6
+CMP205,Systems Analysis,FAC-CMP,2,6
+CMP206,Probability and Statistics,FAC-CMP,2,6
+CMP301,Predictive Analytics,FAC-CMP,3,6
+CMP302,Data Engineering,FAC-CMP,3,6
+CMP303,Applied AI,FAC-CMP,3,6
+CMP304,Cloud Systems,FAC-CMP,3,6
+SCI101,Engineering Mathematics,FAC-SCI,1,6
+SCI102,Fundamentals of Physics,FAC-SCI,1,6
+SCI103,Environmental Systems,FAC-SCI,1,6
+SCI104,Statistics for Science,FAC-SCI,1,6
+SCI201,Environmental Chemistry,FAC-SCI,2,6
+SCI202,Research Methods,FAC-SCI,2,6
+SCI203,Earth Systems,FAC-SCI,2,6
+SCI204,Systems Design,FAC-SCI,2,6
+SCI205,Sustainability Policy,FAC-SCI,2,6
+SCI206,Project Management,FAC-SCI,2,6
+SCI301,Operations Research,FAC-SCI,3,6
+SCI302,Environmental Impact Assessment,FAC-SCI,3,6
+SCI303,Applied Laboratory Skills,FAC-SCI,3,6
+SCI304,Engineering Project,FAC-SCI,3,6

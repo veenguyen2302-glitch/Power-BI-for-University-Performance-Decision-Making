@@ -1,0 +1,535 @@
+﻿Support_ID,StudentTermKey,Support_Type,Referral_Reason,Referral_Date,First_Session_Date,Sessions_Attended,Support_Status,Follow_Up_Date,Follow_Up_Status
+SUP00001,AU-ST0002|2026-T1,Study planning,Prior failed result,2026-03-31,2026-04-04,5,Completed,2026-04-24,Follow-up recorded
+SUP00002,AU-ST0003|2025-T1,Study planning,Self-request / general support,2025-04-05,2025-04-10,1,Partially attended,2025-04-26,Follow-up recorded
+SUP00003,AU-ST0004|2026-T1,Peer tutoring,Low early attendance,2026-04-05,,0,Did not attend,,Not applicable
+SUP00004,AU-ST0006|2025-T1,Study planning,Prior failed result,2025-03-28,,0,Declined,,Not applicable
+SUP00005,AU-ST0006|2026-T2,Academic skills workshop,Prior failed result,2026-08-13,2026-08-15,3,Completed,2026-08-30,Follow-up recorded
+SUP00006,AU-ST0007|2025-T1,Peer tutoring,Low early attendance,2025-03-31,2025-04-07,2,Partially attended,2025-04-21,Follow-up recorded
+SUP00007,AU-ST0007|2025-T2,Peer tutoring,Prior failed result,2025-08-11,,0,Declined,,Not applicable
+SUP00008,AU-ST0007|2026-T1,Peer tutoring,Low early attendance,2026-03-30,2026-04-04,3,Completed,2026-04-23,Follow-up recorded
+SUP00009,AU-ST0007|2026-T2,Study planning,Low early attendance,2026-08-07,,0,Declined,,Not applicable
+SUP00010,AU-ST0009|2025-T2,Peer tutoring,Prior failed result,2025-08-11,2025-08-16,1,Partially attended,2025-09-05,Follow-up recorded
+SUP00011,AU-ST0010|2024-T2,Academic skills workshop,Self-request / general support,2024-08-09,2024-08-11,4,Completed,2024-08-25,Follow-up recorded
+SUP00012,AU-ST0013|2025-T2,Academic skills workshop,Self-request / general support,2025-08-10,2025-08-19,1,Partially attended,2025-09-02,Follow-up recorded
+SUP00013,AU-ST0016|2025-T1,Peer tutoring,Self-request / general support,2025-03-29,,0,Did not attend,,Not applicable
+SUP00014,AU-ST0017|2024-T2,Study planning,Prior low academic results,2024-08-17,2024-08-23,2,Partially attended,2024-09-16,Follow-up recorded
+SUP00015,AU-ST0017|2025-T1,Peer tutoring,Prior low academic results,2025-03-30,2025-04-02,2,Partially attended,2025-04-23,Follow-up recorded
+SUP00016,AU-ST0019|2024-T2,Academic skills workshop,Prior low academic results,2024-08-17,2024-08-20,4,Completed,2024-09-13,Follow-up recorded
+SUP00017,AU-ST0019|2025-T1,Study planning,Prior failed result,2025-03-30,2025-04-06,3,Completed,2025-05-01,Follow-up recorded
+SUP00018,AU-ST0019|2025-T2,Study planning,Prior low academic results,2025-08-11,2025-08-13,3,Completed,2025-09-04,Follow-up recorded
+SUP00019,AU-ST0019|2026-T1,Study planning,Low early attendance,2026-04-01,2026-04-09,4,Completed,2026-04-30,Follow-up recorded
+SUP00020,AU-ST0019|2026-T2,Peer tutoring,Prior failed result,2026-08-13,2026-08-17,2,Partially attended,2026-09-01,Follow-up recorded
+SUP00021,AU-ST0024|2026-T1,Peer tutoring,Low early attendance,2026-03-30,2026-04-05,2,Partially attended,2026-04-23,Follow-up recorded
+SUP00022,AU-ST0025|2025-T1,Study planning,Self-request / general support,2025-04-06,2025-04-10,3,Completed,2025-05-03,Follow-up recorded
+SUP00023,AU-ST0027|2025-T1,Peer tutoring,Low early attendance,2025-04-04,2025-04-12,3,Completed,2025-05-02,Follow-up recorded
+SUP00024,AU-ST0028|2024-T1,Peer tutoring,Low early attendance,2024-04-07,,0,Did not attend,,Not applicable
+SUP00025,AU-ST0028|2024-T2,Academic skills workshop,Prior failed result,2024-08-09,2024-08-18,3,Completed,2024-09-11,Follow-up recorded
+SUP00026,AU-ST0028|2025-T2,Peer tutoring,Prior low academic results,2025-08-17,2025-08-26,3,Completed,2025-09-15,Follow-up recorded
+SUP00027,AU-ST0030|2026-T1,Peer tutoring,Prior failed result,2026-04-05,,0,Declined,,Not applicable
+SUP00028,AU-ST0030|2026-T2,Study planning,Prior failed result,2026-08-08,,0,Declined,,Not applicable
+SUP00029,AU-ST0032|2025-T1,Academic skills workshop,Self-request / general support,2025-03-30,2025-04-04,3,Completed,2025-04-29,Follow-up recorded
+SUP00030,AU-ST0032|2025-T2,Study planning,Prior low academic results,2025-08-15,,0,Did not attend,,Not applicable
+SUP00031,AU-ST0033|2026-T2,Peer tutoring,Self-request / general support,2026-08-11,,0,Did not attend,,Not applicable
+SUP00032,AU-ST0034|2025-T2,Academic skills workshop,Low early attendance,2025-08-15,,0,Declined,,Not applicable
+SUP00033,AU-ST0035|2026-T2,Study planning,Low early attendance,2026-08-07,,0,Did not attend,,Not applicable
+SUP00034,AU-ST0036|2026-T2,Peer tutoring,Prior failed result,2026-08-11,2026-08-16,2,Partially attended,2026-09-10,Follow-up recorded
+SUP00035,AU-ST0037|2025-T2,Peer tutoring,Prior failed result,2025-08-14,,0,Did not attend,,Not applicable
+SUP00036,AU-ST0038|2024-T1,Peer tutoring,Self-request / general support,2024-04-05,2024-04-13,5,Completed,2024-04-28,Follow-up recorded
+SUP00037,AU-ST0038|2025-T2,Academic skills workshop,Prior failed result,2025-08-16,2025-08-24,2,Partially attended,2025-09-16,Follow-up recorded
+SUP00038,AU-ST0038|2026-T1,Peer tutoring,Prior low academic results,2026-04-03,2026-04-09,5,Completed,2026-04-25,Follow-up recorded
+SUP00039,AU-ST0039|2025-T1,Academic skills workshop,Self-request / general support,2025-04-06,2025-04-11,2,Partially attended,2025-05-05,Follow-up recorded
+SUP00040,AU-ST0042|2025-T2,Peer tutoring,Prior low academic results,2025-08-09,2025-08-12,3,Completed,2025-09-04,Follow-up recorded
+SUP00041,AU-ST0044|2025-T2,Academic skills workshop,Self-request / general support,2025-08-17,2025-08-26,4,Completed,2025-09-18,Follow-up recorded
+SUP00042,AU-ST0044|2026-T1,Peer tutoring,Self-request / general support,2026-04-04,2026-04-13,5,Completed,2026-05-09,Follow-up recorded
+SUP00043,AU-ST0045|2025-T1,Peer tutoring,Self-request / general support,2025-03-29,,0,Declined,,Not applicable
+SUP00044,AU-ST0048|2025-T2,Peer tutoring,Self-request / general support,2025-08-10,2025-08-13,4,Completed,2025-08-27,Follow-up recorded
+SUP00045,AU-ST0048|2026-T1,Peer tutoring,Self-request / general support,2026-04-02,2026-04-09,5,Completed,2026-04-27,Follow-up recorded
+SUP00046,AU-ST0050|2024-T2,Academic skills workshop,Prior failed result,2024-08-09,,0,Declined,,Not applicable
+SUP00047,AU-ST0050|2025-T1,Academic skills workshop,Prior failed result,2025-04-02,2025-04-10,4,Completed,2025-05-04,Follow-up recorded
+SUP00048,AU-ST0050|2025-T2,Peer tutoring,Low early attendance,2025-08-11,2025-08-20,1,Partially attended,2025-09-10,Follow-up recorded
+SUP00049,AU-ST0050|2026-T2,Academic skills workshop,Prior failed result,2026-08-10,2026-08-12,5,Completed,2026-09-01,Follow-up recorded
+SUP00050,AU-ST0051|2025-T2,Peer tutoring,Prior low academic results,2025-08-15,2025-08-21,3,Completed,2025-09-11,Follow-up recorded
+SUP00051,AU-ST0051|2026-T1,Study planning,Prior failed result,2026-03-28,,0,Did not attend,,Not applicable
+SUP00052,AU-ST0053|2024-T1,Academic skills workshop,Self-request / general support,2024-04-07,2024-04-14,3,Completed,2024-05-01,Follow-up recorded
+SUP00053,AU-ST0053|2024-T2,Peer tutoring,Low early attendance,2024-08-15,2024-08-23,4,Completed,2024-09-10,Follow-up recorded
+SUP00054,AU-ST0053|2025-T1,Academic skills workshop,Prior failed result,2025-03-30,,0,Declined,,Not applicable
+SUP00055,AU-ST0053|2025-T2,Peer tutoring,Low early attendance,2025-08-13,2025-08-22,3,Completed,2025-09-16,Follow-up recorded
+SUP00056,AU-ST0053|2026-T1,Peer tutoring,Prior failed result,2026-04-01,,0,Declined,,Not applicable
+SUP00057,AU-ST0055|2026-T2,Academic skills workshop,Low early attendance,2026-08-16,,0,Declined,,Not applicable
+SUP00058,AU-ST0056|2026-T2,Academic skills workshop,Low early attendance,2026-08-13,,0,Declined,,Not applicable
+SUP00059,AU-ST0058|2026-T1,Study planning,Self-request / general support,2026-03-31,,0,Declined,,Not applicable
+SUP00060,AU-ST0059|2024-T1,Peer tutoring,Self-request / general support,2024-03-30,,0,Declined,,Not applicable
+SUP00061,AU-ST0059|2025-T1,Peer tutoring,Prior failed result,2025-03-31,2025-04-04,2,Partially attended,2025-04-26,Follow-up recorded
+SUP00062,AU-ST0059|2025-T2,Study planning,Prior failed result,2025-08-12,2025-08-14,2,Partially attended,2025-08-31,Follow-up recorded
+SUP00063,AU-ST0060|2025-T1,Academic skills workshop,Self-request / general support,2025-04-04,2025-04-13,3,Completed,2025-05-03,Follow-up recorded
+SUP00064,AU-ST0061|2025-T1,Study planning,Prior low academic results,2025-03-30,,0,Declined,,Not applicable
+SUP00065,AU-ST0065|2026-T1,Study planning,Low early attendance,2026-04-03,,0,Declined,,Not applicable
+SUP00066,AU-ST0065|2026-T2,Peer tutoring,Low early attendance,2026-08-10,2026-08-16,5,Completed,2026-09-04,Follow-up recorded
+SUP00067,AU-ST0069|2026-T2,Study planning,Prior failed result,2026-08-10,,0,Declined,,Not applicable
+SUP00068,AU-ST0072|2025-T2,Study planning,Prior failed result,2025-08-16,2025-08-22,5,Completed,2025-09-10,Follow-up recorded
+SUP00069,AU-ST0072|2026-T2,Peer tutoring,Prior failed result,2026-08-16,,0,Did not attend,,Not applicable
+SUP00070,AU-ST0073|2025-T1,Academic skills workshop,Low early attendance,2025-03-29,2025-04-07,2,Partially attended,2025-04-21,Follow-up recorded
+SUP00071,AU-ST0073|2025-T2,Peer tutoring,Low early attendance,2025-08-16,2025-08-22,1,Partially attended,2025-09-15,Follow-up recorded
+SUP00072,AU-ST0073|2026-T1,Study planning,Low early attendance,2026-04-02,2026-04-11,3,Completed,2026-04-30,Follow-up recorded
+SUP00073,AU-ST0073|2026-T2,Peer tutoring,Prior failed result,2026-08-13,,0,Declined,,Not applicable
+SUP00074,AU-ST0074|2025-T2,Peer tutoring,Prior failed result,2025-08-08,2025-08-16,4,Completed,2025-09-01,Follow-up recorded
+SUP00075,AU-ST0076|2025-T2,Peer tutoring,Self-request / general support,2025-08-08,,0,Did not attend,,Not applicable
+SUP00076,AU-ST0076|2026-T2,Academic skills workshop,Prior low academic results,2026-08-14,,0,Declined,,Not applicable
+SUP00077,AU-ST0077|2026-T1,Study planning,Prior failed result,2026-04-05,,0,Declined,,Not applicable
+SUP00078,AU-ST0077|2026-T2,Study planning,Prior failed result,2026-08-16,2026-08-20,5,Completed,2026-09-11,Follow-up recorded
+SUP00079,AU-ST0078|2024-T1,Peer tutoring,Self-request / general support,2024-03-30,,0,Did not attend,,Not applicable
+SUP00080,AU-ST0078|2025-T1,Peer tutoring,Prior failed result,2025-03-28,2025-04-03,4,Completed,2025-04-17,Follow-up recorded
+SUP00081,AU-ST0078|2025-T2,Peer tutoring,Low early attendance,2025-08-12,,0,Declined,,Not applicable
+SUP00082,AU-ST0078|2026-T2,Academic skills workshop,Low early attendance,2026-08-13,,0,Declined,,Not applicable
+SUP00083,AU-ST0079|2024-T2,Study planning,Self-request / general support,2024-08-17,2024-08-23,3,Completed,2024-09-09,Follow-up recorded
+SUP00084,AU-ST0079|2025-T2,Study planning,Low early attendance,2025-08-08,2025-08-16,4,Completed,2025-09-06,Follow-up recorded
+SUP00085,AU-ST0080|2025-T1,Peer tutoring,Self-request / general support,2025-04-06,,0,Declined,,Not applicable
+SUP00086,AU-ST0080|2025-T2,Academic skills workshop,Prior failed result,2025-08-12,2025-08-20,3,Completed,2025-09-11,Follow-up recorded
+SUP00087,AU-ST0081|2025-T2,Study planning,Prior failed result,2025-08-14,,0,Did not attend,,Not applicable
+SUP00088,AU-ST0081|2026-T1,Academic skills workshop,Prior failed result,2026-03-29,,0,Did not attend,,Not applicable
+SUP00089,AU-ST0087|2026-T1,Study planning,Prior failed result,2026-04-03,2026-04-10,3,Completed,2026-05-03,Follow-up recorded
+SUP00090,AU-ST0090|2024-T2,Peer tutoring,Prior failed result,2024-08-15,,0,Declined,,Not applicable
+SUP00091,AU-ST0090|2025-T1,Study planning,Prior low academic results,2025-04-05,2025-04-10,5,Completed,2025-04-29,Follow-up recorded
+SUP00092,AU-ST0090|2025-T2,Peer tutoring,Prior low academic results,2025-08-13,,0,Did not attend,,Not applicable
+SUP00093,AU-ST0090|2026-T1,Academic skills workshop,Prior failed result,2026-03-29,,0,Did not attend,,Not applicable
+SUP00094,AU-ST0093|2026-T1,Peer tutoring,Prior failed result,2026-04-02,2026-04-08,2,Partially attended,2026-04-24,Follow-up recorded
+SUP00095,AU-ST0094|2025-T2,Study planning,Prior failed result,2025-08-17,2025-08-23,1,Partially attended,2025-09-16,Follow-up recorded
+SUP00096,AU-ST0095|2025-T1,Academic skills workshop,Low early attendance,2025-03-29,2025-04-06,3,Completed,2025-04-23,Follow-up recorded
+SUP00097,AU-ST0097|2026-T1,Academic skills workshop,Prior failed result,2026-04-05,2026-04-08,4,Completed,2026-04-26,Follow-up recorded
+SUP00098,AU-ST0098|2024-T2,Peer tutoring,Prior failed result,2024-08-16,2024-08-25,1,Partially attended,2024-09-19,Follow-up recorded
+SUP00099,AU-ST0098|2025-T2,Study planning,Low early attendance,2025-08-13,2025-08-21,1,Partially attended,2025-09-13,Follow-up recorded
+SUP00100,AU-ST0098|2026-T1,Academic skills workshop,Low early attendance,2026-03-28,2026-04-01,1,Partially attended,2026-04-23,Follow-up recorded
+SUP00101,AU-ST0098|2026-T2,Academic skills workshop,Low early attendance,2026-08-16,2026-08-25,2,Partially attended,2026-09-10,Follow-up recorded
+SUP00102,AU-ST0099|2026-T1,Academic skills workshop,Self-request / general support,2026-04-02,2026-04-05,4,Completed,2026-04-23,Follow-up recorded
+SUP00103,AU-ST0100|2025-T1,Academic skills workshop,Prior failed result,2025-04-06,2025-04-08,3,Completed,2025-04-29,Follow-up recorded
+SUP00104,AU-ST0100|2025-T2,Academic skills workshop,Low early attendance,2025-08-10,,0,Did not attend,,Not applicable
+SUP00105,AU-ST0101|2025-T2,Study planning,Prior failed result,2025-08-17,2025-08-24,3,Completed,2025-09-19,Follow-up recorded
+SUP00106,AU-ST0105|2025-T2,Peer tutoring,Low early attendance,2025-08-13,2025-08-18,4,Completed,2025-09-06,Follow-up recorded
+SUP00107,AU-ST0105|2026-T1,Academic skills workshop,Low early attendance,2026-03-27,2026-04-05,3,Completed,2026-04-23,Follow-up recorded
+SUP00108,AU-ST0105|2026-T2,Peer tutoring,Prior failed result,2026-08-15,2026-08-21,1,Partially attended,2026-09-07,Follow-up recorded
+SUP00109,AU-ST0106|2026-T2,Peer tutoring,Low early attendance,2026-08-12,2026-08-14,5,Completed,2026-09-08,Follow-up recorded
+SUP00110,AU-ST0107|2026-T2,Study planning,Prior low academic results,2026-08-08,,0,Declined,,Not applicable
+SUP00111,AU-ST0109|2024-T2,Peer tutoring,Low early attendance,2024-08-09,2024-08-18,2,Partially attended,2024-09-06,Follow-up recorded
+SUP00112,AU-ST0109|2025-T1,Study planning,Prior failed result,2025-03-28,2025-04-01,1,Partially attended,2025-04-26,Follow-up recorded
+SUP00113,AU-ST0109|2026-T1,Study planning,Prior failed result,2026-04-02,2026-04-06,1,Partially attended,2026-04-20,Follow-up recorded
+SUP00114,AU-ST0110|2025-T2,Academic skills workshop,Low early attendance,2025-08-10,2025-08-17,4,Completed,2025-09-08,Follow-up recorded
+SUP00115,AU-ST0114|2025-T1,Study planning,Low early attendance,2025-03-31,2025-04-03,1,Partially attended,2025-04-28,Follow-up recorded
+SUP00116,AU-ST0114|2026-T1,Peer tutoring,Prior failed result,2026-04-02,,0,Did not attend,,Not applicable
+SUP00117,AU-ST0115|2026-T2,Academic skills workshop,Prior failed result,2026-08-09,,0,Did not attend,,Not applicable
+SUP00118,AU-ST0116|2026-T1,Peer tutoring,Low early attendance,2026-04-04,2026-04-06,2,Partially attended,2026-04-28,Follow-up recorded
+SUP00119,AU-ST0118|2025-T2,Peer tutoring,Prior failed result,2025-08-12,2025-08-18,5,Completed,2025-09-02,Follow-up recorded
+SUP00120,AU-ST0121|2025-T2,Peer tutoring,Prior low academic results,2025-08-10,2025-08-14,4,Completed,2025-09-09,Follow-up recorded
+SUP00121,AU-ST0121|2026-T2,Peer tutoring,Prior low academic results,2026-08-12,2026-08-16,1,Partially attended,2026-09-07,Follow-up recorded
+SUP00122,AU-ST0122|2026-T1,Peer tutoring,Self-request / general support,2026-04-02,2026-04-04,5,Completed,2026-04-20,Follow-up recorded
+SUP00123,AU-ST0124|2024-T2,Study planning,Self-request / general support,2024-08-15,2024-08-23,3,Completed,2024-09-06,Follow-up recorded
+SUP00124,AU-ST0126|2024-T2,Academic skills workshop,Prior low academic results,2024-08-16,,0,Did not attend,,Not applicable
+SUP00125,AU-ST0126|2026-T2,Peer tutoring,Prior failed result,2026-08-14,2026-08-19,1,Partially attended,2026-09-02,Follow-up recorded
+SUP00126,AU-ST0128|2025-T2,Study planning,Prior failed result,2025-08-13,2025-08-16,2,Partially attended,2025-09-03,Follow-up recorded
+SUP00127,AU-ST0129|2026-T1,Study planning,Prior failed result,2026-04-02,2026-04-04,4,Completed,2026-04-27,Follow-up recorded
+SUP00128,AU-ST0130|2026-T1,Academic skills workshop,Self-request / general support,2026-03-29,2026-04-06,3,Completed,2026-05-02,Follow-up recorded
+SUP00129,AU-ST0132|2024-T2,Academic skills workshop,Prior low academic results,2024-08-09,2024-08-14,2,Partially attended,2024-09-01,Follow-up recorded
+SUP00130,AU-ST0132|2025-T2,Academic skills workshop,Prior failed result,2025-08-15,2025-08-18,4,Completed,2025-09-02,Follow-up recorded
+SUP00131,AU-ST0133|2026-T1,Study planning,Prior failed result,2026-03-31,2026-04-07,4,Completed,2026-04-25,Follow-up recorded
+SUP00132,AU-ST0133|2026-T2,Peer tutoring,Prior failed result,2026-08-07,,0,Declined,,Not applicable
+SUP00133,AU-ST0134|2026-T1,Peer tutoring,Prior low academic results,2026-04-01,2026-04-08,3,Completed,2026-04-26,Follow-up recorded
+SUP00134,AU-ST0138|2025-T1,Peer tutoring,Low early attendance,2025-03-30,2025-04-02,1,Partially attended,2025-04-18,Follow-up recorded
+SUP00135,AU-ST0138|2025-T2,Peer tutoring,Low early attendance,2025-08-09,2025-08-18,4,Completed,2025-09-09,Follow-up recorded
+SUP00136,AU-ST0140|2024-T1,Academic skills workshop,Low early attendance,2024-04-01,,0,Did not attend,,Not applicable
+SUP00137,AU-ST0140|2024-T2,Peer tutoring,Prior failed result,2024-08-13,2024-08-21,4,Completed,2024-09-14,Follow-up recorded
+SUP00138,AU-ST0140|2026-T1,Peer tutoring,Low early attendance,2026-04-04,2026-04-13,1,Partially attended,2026-05-08,Follow-up recorded
+SUP00139,AU-ST0140|2026-T2,Peer tutoring,Low early attendance,2026-08-14,2026-08-17,5,Completed,2026-09-07,Follow-up recorded
+SUP00140,AU-ST0141|2024-T2,Study planning,Low early attendance,2024-08-11,2024-08-19,1,Partially attended,2024-09-07,Follow-up recorded
+SUP00141,AU-ST0141|2025-T2,Peer tutoring,Prior failed result,2025-08-11,2025-08-18,3,Completed,2025-09-04,Follow-up recorded
+SUP00142,AU-ST0141|2026-T1,Peer tutoring,Prior failed result,2026-04-01,2026-04-06,5,Completed,2026-04-20,Follow-up recorded
+SUP00143,AU-ST0141|2026-T2,Peer tutoring,Prior failed result,2026-08-10,,0,Did not attend,,Not applicable
+SUP00144,AU-ST0142|2026-T2,Peer tutoring,Prior low academic results,2026-08-11,,0,Did not attend,,Not applicable
+SUP00145,AU-ST0143|2024-T1,Peer tutoring,Self-request / general support,2024-03-30,,0,Did not attend,,Not applicable
+SUP00146,AU-ST0143|2025-T1,Peer tutoring,Prior low academic results,2025-03-30,2025-04-04,3,Completed,2025-04-18,Follow-up recorded
+SUP00147,AU-ST0144|2026-T2,Peer tutoring,Prior failed result,2026-08-11,2026-08-15,2,Partially attended,2026-09-03,Follow-up recorded
+SUP00148,AU-ST0145|2024-T2,Peer tutoring,Low early attendance,2024-08-15,2024-08-18,1,Partially attended,2024-09-05,Follow-up recorded
+SUP00149,AU-ST0145|2025-T2,Study planning,Prior failed result,2025-08-14,2025-08-21,1,Partially attended,2025-09-16,Follow-up recorded
+SUP00150,AU-ST0145|2026-T2,Peer tutoring,Prior failed result,2026-08-15,2026-08-17,3,Completed,2026-09-09,Follow-up recorded
+SUP00151,AU-ST0146|2025-T2,Academic skills workshop,Prior low academic results,2025-08-09,2025-08-16,3,Completed,2025-09-05,Follow-up recorded
+SUP00152,AU-ST0146|2026-T1,Study planning,Prior low academic results,2026-04-02,,0,Declined,,Not applicable
+SUP00153,AU-ST0146|2026-T2,Study planning,Prior failed result,2026-08-14,2026-08-17,3,Completed,2026-09-11,Follow-up recorded
+SUP00154,AU-ST0147|2026-T2,Peer tutoring,Prior failed result,2026-08-07,2026-08-15,2,Partially attended,2026-09-05,Follow-up recorded
+SUP00155,AU-ST0148|2025-T1,Study planning,Prior failed result,2025-04-04,2025-04-12,1,Partially attended,2025-05-07,Follow-up recorded
+SUP00156,AU-ST0149|2025-T1,Academic skills workshop,Low early attendance,2025-04-03,2025-04-09,4,Completed,2025-05-02,Follow-up recorded
+SUP00157,AU-ST0149|2026-T1,Academic skills workshop,Prior failed result,2026-03-27,2026-03-30,1,Partially attended,2026-04-25,Follow-up recorded
+SUP00158,AU-ST0149|2026-T2,Study planning,Prior failed result,2026-08-09,2026-08-16,3,Completed,2026-09-08,Follow-up recorded
+SUP00159,AU-ST0152|2025-T2,Peer tutoring,Low early attendance,2025-08-14,,0,Did not attend,,Not applicable
+SUP00160,AU-ST0152|2026-T1,Study planning,Prior failed result,2026-03-28,2026-04-03,3,Completed,2026-04-21,Follow-up recorded
+SUP00161,AU-ST0153|2026-T2,Study planning,Low early attendance,2026-08-12,2026-08-21,1,Partially attended,2026-09-14,Follow-up recorded
+SUP00162,AU-ST0154|2025-T2,Academic skills workshop,Low early attendance,2025-08-08,2025-08-15,1,Partially attended,2025-09-03,Follow-up recorded
+SUP00163,AU-ST0154|2026-T1,Peer tutoring,Prior failed result,2026-04-02,,0,Did not attend,,Not applicable
+SUP00164,AU-ST0154|2026-T2,Academic skills workshop,Prior failed result,2026-08-08,2026-08-10,4,Completed,2026-09-03,Follow-up recorded
+SUP00165,AU-ST0155|2026-T1,Academic skills workshop,Prior low academic results,2026-04-05,2026-04-10,3,Completed,2026-05-05,Follow-up recorded
+SUP00166,AU-ST0155|2026-T2,Study planning,Prior low academic results,2026-08-10,2026-08-17,2,Partially attended,2026-09-10,Follow-up recorded
+SUP00167,AU-ST0156|2025-T1,Study planning,Low early attendance,2025-04-04,2025-04-10,1,Partially attended,2025-04-29,Follow-up recorded
+SUP00168,AU-ST0157|2025-T1,Study planning,Prior failed result,2025-03-31,2025-04-06,4,Completed,2025-04-20,Follow-up recorded
+SUP00169,AU-ST0157|2026-T1,Study planning,Low early attendance,2026-04-04,2026-04-12,5,Completed,2026-05-04,Follow-up recorded
+SUP00170,AU-ST0158|2025-T2,Academic skills workshop,Low early attendance,2025-08-17,2025-08-20,1,Partially attended,2025-09-07,Follow-up recorded
+SUP00171,AU-ST0158|2026-T1,Study planning,Low early attendance,2026-03-29,2026-04-05,1,Partially attended,2026-04-29,Follow-up recorded
+SUP00172,AU-ST0158|2026-T2,Peer tutoring,Low early attendance,2026-08-08,2026-08-12,1,Partially attended,2026-09-05,Follow-up recorded
+SUP00173,AU-ST0160|2025-T1,Academic skills workshop,Prior failed result,2025-04-06,2025-04-09,2,Partially attended,2025-04-26,Follow-up recorded
+SUP00174,AU-ST0160|2025-T2,Study planning,Prior low academic results,2025-08-16,,0,Declined,,Not applicable
+SUP00175,AU-ST0160|2026-T1,Peer tutoring,Self-request / general support,2026-04-04,2026-04-06,5,Completed,2026-04-20,Follow-up recorded
+SUP00176,AU-ST0161|2026-T1,Study planning,Prior low academic results,2026-04-02,,0,Did not attend,,Not applicable
+SUP00177,AU-ST0162|2025-T2,Study planning,Prior failed result,2025-08-14,,0,Declined,,Not applicable
+SUP00178,AU-ST0162|2026-T2,Academic skills workshop,Prior low academic results,2026-08-12,2026-08-19,1,Partially attended,2026-09-11,Follow-up recorded
+SUP00179,AU-ST0163|2026-T1,Peer tutoring,Prior failed result,2026-03-28,,0,Declined,,Not applicable
+SUP00180,AU-ST0164|2025-T2,Academic skills workshop,Prior low academic results,2025-08-12,2025-08-16,1,Partially attended,2025-09-02,Follow-up recorded
+SUP00181,AU-ST0166|2026-T1,Study planning,Prior low academic results,2026-04-03,2026-04-05,1,Partially attended,2026-04-20,Follow-up recorded
+SUP00182,AU-ST0167|2026-T2,Study planning,Low early attendance,2026-08-16,,0,Did not attend,,Not applicable
+SUP00183,AU-ST0171|2026-T2,Peer tutoring,Prior low academic results,2026-08-13,2026-08-22,3,Completed,2026-09-15,Follow-up recorded
+SUP00184,AU-ST0173|2026-T1,Study planning,Low early attendance,2026-03-31,2026-04-06,5,Completed,2026-04-27,Follow-up recorded
+SUP00185,AU-ST0173|2026-T2,Study planning,Low early attendance,2026-08-14,2026-08-23,2,Partially attended,2026-09-17,Follow-up recorded
+SUP00186,AU-ST0176|2024-T1,Peer tutoring,Self-request / general support,2024-03-31,2024-04-04,1,Partially attended,2024-04-21,Follow-up recorded
+SUP00187,AU-ST0176|2025-T1,Academic skills workshop,Low early attendance,2025-04-04,2025-04-07,3,Completed,2025-05-01,Follow-up recorded
+SUP00188,AU-ST0176|2026-T2,Academic skills workshop,Low early attendance,2026-08-11,2026-08-17,2,Partially attended,2026-09-11,Follow-up recorded
+SUP00189,AU-ST0177|2026-T1,Academic skills workshop,Prior failed result,2026-03-30,,0,Did not attend,,Not applicable
+SUP00190,AU-ST0179|2026-T1,Peer tutoring,Low early attendance,2026-03-31,2026-04-02,1,Partially attended,2026-04-24,Follow-up recorded
+SUP00191,AU-ST0180|2026-T2,Study planning,Low early attendance,2026-08-09,2026-08-16,2,Partially attended,2026-09-11,Follow-up recorded
+SUP00192,AU-ST0183|2024-T2,Academic skills workshop,Self-request / general support,2024-08-18,,0,Did not attend,,Not applicable
+SUP00193,AU-ST0183|2025-T2,Peer tutoring,Prior failed result,2025-08-17,2025-08-21,4,Completed,2025-09-07,Follow-up recorded
+SUP00194,AU-ST0183|2026-T1,Peer tutoring,Prior low academic results,2026-04-03,2026-04-08,5,Completed,2026-04-28,Follow-up recorded
+SUP00195,AU-ST0184|2026-T2,Academic skills workshop,Prior failed result,2026-08-12,2026-08-21,4,Completed,2026-09-10,Follow-up recorded
+SUP00196,AU-ST0186|2025-T1,Study planning,Self-request / general support,2025-03-31,,0,Did not attend,,Not applicable
+SUP00197,AU-ST0186|2025-T2,Academic skills workshop,Prior low academic results,2025-08-14,2025-08-21,4,Completed,2025-09-12,Follow-up recorded
+SUP00198,AU-ST0187|2025-T2,Peer tutoring,Prior failed result,2025-08-08,2025-08-17,4,Completed,2025-09-03,Follow-up recorded
+SUP00199,AU-ST0188|2026-T1,Peer tutoring,Low early attendance,2026-03-28,2026-03-30,3,Completed,2026-04-23,Follow-up recorded
+SUP00200,AU-ST0190|2025-T2,Peer tutoring,Low early attendance,2025-08-12,2025-08-20,4,Completed,2025-09-10,Follow-up recorded
+SUP00201,AU-ST0190|2026-T2,Peer tutoring,Prior failed result,2026-08-08,2026-08-11,3,Completed,2026-09-06,Follow-up recorded
+SUP00202,AU-ST0191|2026-T2,Peer tutoring,Prior failed result,2026-08-12,,0,Did not attend,,Not applicable
+SUP00203,AU-ST0192|2026-T1,Peer tutoring,Low early attendance,2026-04-04,2026-04-09,2,Partially attended,2026-05-02,Follow-up recorded
+SUP00204,AU-ST0194|2026-T1,Peer tutoring,Self-request / general support,2026-03-28,,0,Did not attend,,Not applicable
+SUP00205,AU-ST0196|2026-T1,Academic skills workshop,Prior failed result,2026-04-02,2026-04-06,5,Completed,2026-04-25,Follow-up recorded
+SUP00206,AU-ST0197|2025-T2,Peer tutoring,Low early attendance,2025-08-12,2025-08-15,2,Partially attended,2025-09-03,Follow-up recorded
+SUP00207,AU-ST0199|2026-T2,Academic skills workshop,Prior low academic results,2026-08-11,,0,Declined,,Not applicable
+SUP00208,AU-ST0202|2025-T1,Academic skills workshop,Prior low academic results,2025-04-06,2025-04-15,4,Completed,2025-05-01,Follow-up recorded
+SUP00209,AU-ST0203|2025-T2,Study planning,Low early attendance,2025-08-12,2025-08-14,5,Completed,2025-09-05,Follow-up recorded
+SUP00210,AU-ST0203|2026-T1,Peer tutoring,Low early attendance,2026-04-03,2026-04-06,4,Completed,2026-04-29,Follow-up recorded
+SUP00211,AU-ST0203|2026-T2,Peer tutoring,Prior failed result,2026-08-07,2026-08-15,2,Partially attended,2026-09-05,Follow-up recorded
+SUP00212,AU-ST0204|2026-T1,Peer tutoring,Prior failed result,2026-03-29,,0,Did not attend,,Not applicable
+SUP00213,AU-ST0205|2026-T1,Academic skills workshop,Prior failed result,2026-04-01,2026-04-08,2,Partially attended,2026-04-25,Follow-up recorded
+SUP00214,AU-ST0206|2025-T1,Academic skills workshop,Self-request / general support,2025-04-05,2025-04-10,4,Completed,2025-04-30,Follow-up recorded
+SUP00215,AU-ST0206|2025-T2,Study planning,Self-request / general support,2025-08-16,2025-08-22,2,Partially attended,2025-09-08,Follow-up recorded
+SUP00216,AU-ST0206|2026-T2,Academic skills workshop,Prior low academic results,2026-08-08,2026-08-17,2,Partially attended,2026-09-10,Follow-up recorded
+SUP00217,AU-ST0207|2025-T2,Study planning,Prior failed result,2025-08-14,,0,Declined,,Not applicable
+SUP00218,AU-ST0209|2025-T2,Academic skills workshop,Low early attendance,2025-08-17,2025-08-24,3,Completed,2025-09-09,Follow-up recorded
+SUP00219,AU-ST0209|2026-T1,Peer tutoring,Low early attendance,2026-03-28,,0,Did not attend,,Not applicable
+SUP00220,AU-ST0209|2026-T2,Peer tutoring,Prior failed result,2026-08-15,,0,Declined,,Not applicable
+SUP00221,AU-ST0210|2026-T1,Study planning,Low early attendance,2026-04-01,2026-04-04,5,Completed,2026-04-29,Follow-up recorded
+SUP00222,AU-ST0210|2026-T2,Peer tutoring,Low early attendance,2026-08-07,2026-08-12,1,Partially attended,2026-08-26,Follow-up recorded
+SUP00223,AU-ST0212|2025-T1,Peer tutoring,Self-request / general support,2025-03-31,2025-04-09,3,Completed,2025-05-01,Follow-up recorded
+SUP00224,AU-ST0213|2026-T1,Academic skills workshop,Prior failed result,2026-04-01,2026-04-05,5,Completed,2026-04-29,Follow-up recorded
+SUP00225,AU-ST0214|2026-T1,Peer tutoring,Prior low academic results,2026-03-30,2026-04-02,5,Completed,2026-04-26,Follow-up recorded
+SUP00226,AU-ST0216|2025-T2,Peer tutoring,Self-request / general support,2025-08-10,2025-08-15,1,Partially attended,2025-09-10,Follow-up recorded
+SUP00227,AU-ST0217|2024-T2,Study planning,Prior failed result,2024-08-15,,0,Did not attend,,Not applicable
+SUP00228,AU-ST0217|2026-T2,Peer tutoring,Self-request / general support,2026-08-11,,0,Did not attend,,Not applicable
+SUP00229,AU-ST0218|2025-T1,Peer tutoring,Low early attendance,2025-04-06,2025-04-08,2,Partially attended,2025-04-30,Follow-up recorded
+SUP00230,AU-ST0218|2025-T2,Study planning,Prior failed result,2025-08-14,,0,Declined,,Not applicable
+SUP00231,AU-ST0218|2026-T2,Academic skills workshop,Low early attendance,2026-08-07,,0,Declined,,Not applicable
+SUP00232,AU-ST0220|2026-T1,Academic skills workshop,Prior low academic results,2026-04-05,2026-04-12,3,Completed,2026-05-06,Follow-up recorded
+SUP00233,AU-ST0220|2026-T2,Academic skills workshop,Prior low academic results,2026-08-07,2026-08-16,1,Partially attended,2026-09-09,Follow-up recorded
+SUP00234,AU-ST0221|2026-T2,Peer tutoring,Prior low academic results,2026-08-09,2026-08-12,4,Completed,2026-08-31,Follow-up recorded
+SUP00235,AU-ST0222|2026-T1,Peer tutoring,Low early attendance,2026-03-28,2026-03-31,3,Completed,2026-04-26,Follow-up recorded
+SUP00236,AU-ST0222|2026-T2,Peer tutoring,Prior failed result,2026-08-12,2026-08-21,3,Completed,2026-09-14,Follow-up recorded
+SUP00237,AU-ST0224|2026-T1,Academic skills workshop,Low early attendance,2026-04-04,2026-04-08,1,Partially attended,2026-04-28,Follow-up recorded
+SUP00238,AU-ST0225|2025-T2,Study planning,Prior low academic results,2025-08-15,2025-08-22,3,Completed,2025-09-14,Follow-up recorded
+SUP00239,AU-ST0225|2026-T1,Peer tutoring,Prior low academic results,2026-03-30,2026-04-01,2,Partially attended,2026-04-16,Follow-up recorded
+SUP00240,AU-ST0226|2024-T2,Peer tutoring,Low early attendance,2024-08-11,2024-08-14,3,Completed,2024-09-07,Follow-up recorded
+SUP00241,AU-ST0226|2025-T1,Study planning,Low early attendance,2025-03-28,,0,Declined,,Not applicable
+SUP00242,AU-ST0226|2026-T2,Peer tutoring,Low early attendance,2026-08-08,2026-08-11,5,Completed,2026-08-30,Follow-up recorded
+SUP00243,AU-ST0228|2025-T2,Peer tutoring,Low early attendance,2025-08-15,2025-08-17,4,Completed,2025-09-01,Follow-up recorded
+SUP00244,AU-ST0229|2026-T1,Academic skills workshop,Self-request / general support,2026-03-30,,0,Did not attend,,Not applicable
+SUP00245,AU-ST0232|2025-T1,Study planning,Self-request / general support,2025-04-04,2025-04-07,5,Completed,2025-04-30,Follow-up recorded
+SUP00246,AU-ST0232|2025-T2,Academic skills workshop,Prior failed result,2025-08-15,2025-08-22,5,Completed,2025-09-13,Follow-up recorded
+SUP00247,AU-ST0232|2026-T1,Peer tutoring,Low early attendance,2026-03-29,,0,Declined,,Not applicable
+SUP00248,AU-ST0232|2026-T2,Peer tutoring,Low early attendance,2026-08-12,2026-08-14,1,Partially attended,2026-08-29,Follow-up recorded
+SUP00249,AU-ST0233|2025-T1,Study planning,Prior failed result,2025-04-01,2025-04-06,5,Completed,2025-04-25,Follow-up recorded
+SUP00250,AU-ST0236|2026-T2,Study planning,Low early attendance,2026-08-14,2026-08-23,3,Completed,2026-09-16,Follow-up recorded
+SUP00251,AU-ST0237|2026-T1,Peer tutoring,Prior failed result,2026-03-31,,0,Did not attend,,Not applicable
+SUP00252,AU-ST0239|2024-T2,Study planning,Low early attendance,2024-08-15,2024-08-21,3,Completed,2024-09-08,Follow-up recorded
+SUP00253,AU-ST0239|2025-T1,Peer tutoring,Low early attendance,2025-04-02,2025-04-08,1,Partially attended,2025-05-04,Follow-up recorded
+SUP00254,AU-ST0242|2024-T2,Peer tutoring,Prior failed result,2024-08-16,2024-08-19,4,Completed,2024-09-09,Follow-up recorded
+SUP00255,AU-ST0243|2025-T2,Study planning,Low early attendance,2025-08-17,,0,Did not attend,,Not applicable
+SUP00256,AU-ST0243|2026-T1,Peer tutoring,Low early attendance,2026-04-02,2026-04-08,3,Completed,2026-04-25,Follow-up recorded
+SUP00257,AU-ST0244|2024-T2,Study planning,Prior failed result,2024-08-10,2024-08-14,4,Completed,2024-09-06,Follow-up recorded
+SUP00258,AU-ST0244|2026-T1,Peer tutoring,Self-request / general support,2026-04-04,,0,Declined,,Not applicable
+SUP00259,AU-ST0244|2026-T2,Study planning,Prior low academic results,2026-08-08,,0,Did not attend,,Not applicable
+SUP00260,AU-ST0248|2025-T2,Study planning,Low early attendance,2025-08-13,,0,Declined,,Not applicable
+SUP00261,AU-ST0249|2026-T1,Academic skills workshop,Self-request / general support,2026-03-29,2026-04-06,4,Completed,2026-04-30,Follow-up recorded
+SUP00262,AU-ST0251|2026-T1,Peer tutoring,Low early attendance,2026-04-03,,0,Declined,,Not applicable
+SUP00263,AU-ST0252|2026-T2,Peer tutoring,Low early attendance,2026-08-10,,0,Declined,,Not applicable
+SUP00264,AU-ST0253|2025-T1,Peer tutoring,Low early attendance,2025-04-03,2025-04-10,1,Partially attended,2025-04-30,Follow-up recorded
+SUP00265,AU-ST0253|2025-T2,Academic skills workshop,Low early attendance,2025-08-15,,0,Did not attend,,Not applicable
+SUP00266,AU-ST0253|2026-T1,Study planning,Low early attendance,2026-04-04,2026-04-07,3,Completed,2026-04-30,Follow-up recorded
+SUP00267,AU-ST0253|2026-T2,Study planning,Prior failed result,2026-08-11,2026-08-18,2,Partially attended,2026-09-07,Follow-up recorded
+SUP00268,AU-ST0256|2025-T2,Study planning,Self-request / general support,2025-08-14,2025-08-16,1,Partially attended,2025-08-30,Follow-up recorded
+SUP00269,AU-ST0256|2026-T2,Peer tutoring,Prior low academic results,2026-08-11,2026-08-13,5,Completed,2026-08-31,Follow-up recorded
+SUP00270,AU-ST0258|2026-T1,Peer tutoring,Low early attendance,2026-03-28,2026-04-06,4,Completed,2026-04-21,Follow-up recorded
+SUP00271,AU-ST0258|2026-T2,Academic skills workshop,Prior failed result,2026-08-13,2026-08-21,5,Completed,2026-09-16,Follow-up recorded
+SUP00272,AU-ST0260|2025-T2,Peer tutoring,Prior failed result,2025-08-17,2025-08-22,2,Partially attended,2025-09-07,Follow-up recorded
+SUP00273,AU-ST0260|2026-T1,Study planning,Prior low academic results,2026-03-29,,0,Declined,,Not applicable
+SUP00274,AU-ST0262|2026-T1,Academic skills workshop,Self-request / general support,2026-04-03,2026-04-11,1,Partially attended,2026-05-01,Follow-up recorded
+SUP00275,AU-ST0262|2026-T2,Peer tutoring,Self-request / general support,2026-08-13,2026-08-20,1,Partially attended,2026-09-13,Follow-up recorded
+SUP00276,AU-ST0263|2026-T2,Academic skills workshop,Self-request / general support,2026-08-08,2026-08-11,2,Partially attended,2026-09-01,Follow-up recorded
+SUP00277,AU-ST0264|2025-T1,Peer tutoring,Prior failed result,2025-03-28,2025-04-06,4,Completed,2025-05-01,Follow-up recorded
+SUP00278,AU-ST0264|2025-T2,Study planning,Prior low academic results,2025-08-16,2025-08-20,1,Partially attended,2025-09-12,Follow-up recorded
+SUP00279,AU-ST0265|2025-T2,Study planning,Prior low academic results,2025-08-15,2025-08-19,4,Completed,2025-09-04,Follow-up recorded
+SUP00280,AU-ST0268|2024-T2,Peer tutoring,Prior low academic results,2024-08-17,,0,Did not attend,,Not applicable
+SUP00281,AU-ST0268|2025-T1,Academic skills workshop,Prior low academic results,2025-03-29,,0,Did not attend,,Not applicable
+SUP00282,AU-ST0268|2026-T1,Study planning,Prior failed result,2026-04-05,2026-04-12,4,Completed,2026-04-29,Follow-up recorded
+SUP00283,AU-ST0269|2026-T1,Peer tutoring,Prior failed result,2026-04-05,,0,Did not attend,,Not applicable
+SUP00284,AU-ST0270|2025-T1,Peer tutoring,Prior low academic results,2025-04-02,2025-04-08,4,Completed,2025-04-27,Follow-up recorded
+SUP00285,AU-ST0271|2025-T1,Peer tutoring,Prior failed result,2025-03-31,2025-04-05,1,Partially attended,2025-04-24,Follow-up recorded
+SUP00286,AU-ST0271|2026-T2,Academic skills workshop,Prior low academic results,2026-08-14,,0,Declined,,Not applicable
+SUP00287,AU-ST0272|2024-T2,Academic skills workshop,Low early attendance,2024-08-17,2024-08-19,5,Completed,2024-09-08,Follow-up recorded
+SUP00288,AU-ST0272|2025-T1,Peer tutoring,Low early attendance,2025-04-05,2025-04-10,5,Completed,2025-04-29,Follow-up recorded
+SUP00289,AU-ST0272|2025-T2,Peer tutoring,Low early attendance,2025-08-12,,0,Did not attend,,Not applicable
+SUP00290,AU-ST0272|2026-T1,Peer tutoring,Prior failed result,2026-03-27,,0,Did not attend,,Not applicable
+SUP00291,AU-ST0273|2026-T2,Peer tutoring,Low early attendance,2026-08-15,,0,Declined,,Not applicable
+SUP00292,AU-ST0274|2025-T2,Academic skills workshop,Prior failed result,2025-08-17,,0,Declined,,Not applicable
+SUP00293,AU-ST0275|2025-T1,Academic skills workshop,Prior low academic results,2025-04-04,,0,Did not attend,,Not applicable
+SUP00294,AU-ST0275|2026-T2,Peer tutoring,Prior low academic results,2026-08-10,2026-08-14,2,Partially attended,2026-08-31,Follow-up recorded
+SUP00295,AU-ST0278|2026-T1,Peer tutoring,Low early attendance,2026-04-02,2026-04-06,1,Partially attended,2026-04-23,Follow-up recorded
+SUP00296,AU-ST0279|2025-T1,Peer tutoring,Self-request / general support,2025-03-28,2025-04-02,3,Completed,2025-04-20,Follow-up recorded
+SUP00297,AU-ST0279|2025-T2,Academic skills workshop,Prior failed result,2025-08-17,2025-08-26,1,Partially attended,2025-09-10,Follow-up recorded
+SUP00298,AU-ST0279|2026-T2,Academic skills workshop,Prior failed result,2026-08-11,2026-08-14,5,Completed,2026-08-31,Follow-up recorded
+SUP00299,AU-ST0280|2025-T2,Study planning,Self-request / general support,2025-08-16,2025-08-20,1,Partially attended,2025-09-06,Follow-up recorded
+SUP00300,AU-ST0281|2025-T2,Peer tutoring,Low early attendance,2025-08-16,2025-08-18,1,Partially attended,2025-09-06,Follow-up recorded
+SUP00301,AU-ST0281|2026-T2,Study planning,Prior low academic results,2026-08-11,2026-08-20,2,Partially attended,2026-09-14,Follow-up recorded
+SUP00302,AU-ST0282|2024-T2,Academic skills workshop,Prior low academic results,2024-08-11,2024-08-18,5,Completed,2024-09-02,Follow-up recorded
+SUP00303,AU-ST0282|2025-T1,Study planning,Low early attendance,2025-04-05,2025-04-12,4,Completed,2025-05-01,Follow-up recorded
+SUP00304,AU-ST0282|2026-T1,Peer tutoring,Prior failed result,2026-04-02,,0,Did not attend,,Not applicable
+SUP00305,AU-ST0282|2026-T2,Study planning,Low early attendance,2026-08-12,,0,Declined,,Not applicable
+SUP00306,AU-ST0283|2024-T1,Peer tutoring,Low early attendance,2024-04-03,,0,Declined,,Not applicable
+SUP00307,AU-ST0283|2024-T2,Study planning,Low early attendance,2024-08-12,2024-08-19,1,Partially attended,2024-09-11,Follow-up recorded
+SUP00308,AU-ST0283|2025-T2,Academic skills workshop,Low early attendance,2025-08-14,2025-08-22,1,Partially attended,2025-09-17,Follow-up recorded
+SUP00309,AU-ST0285|2024-T2,Peer tutoring,Prior failed result,2024-08-10,2024-08-13,1,Partially attended,2024-09-04,Follow-up recorded
+SUP00310,AU-ST0287|2026-T2,Peer tutoring,Prior low academic results,2026-08-10,,0,Declined,,Not applicable
+SUP00311,AU-ST0288|2025-T2,Peer tutoring,Low early attendance,2025-08-17,2025-08-22,4,Completed,2025-09-08,Follow-up recorded
+SUP00312,AU-ST0288|2026-T1,Peer tutoring,Low early attendance,2026-03-30,2026-04-06,1,Partially attended,2026-04-25,Follow-up recorded
+SUP00313,AU-ST0294|2025-T2,Study planning,Prior low academic results,2025-08-12,2025-08-16,4,Completed,2025-09-08,Follow-up recorded
+SUP00314,AU-ST0296|2026-T2,Peer tutoring,Prior low academic results,2026-08-08,,0,Declined,,Not applicable
+SUP00315,AU-ST0299|2026-T1,Study planning,Prior failed result,2026-04-01,2026-04-09,3,Completed,2026-04-23,Follow-up recorded
+SUP00316,AU-ST0300|2025-T1,Study planning,Low early attendance,2025-04-04,2025-04-09,4,Completed,2025-05-05,Follow-up recorded
+SUP00317,AU-ST0300|2026-T1,Peer tutoring,Prior low academic results,2026-03-31,2026-04-08,4,Completed,2026-05-04,Follow-up recorded
+SUP00318,AU-ST0301|2025-T2,Academic skills workshop,Low early attendance,2025-08-09,2025-08-12,5,Completed,2025-09-04,Follow-up recorded
+SUP00319,AU-ST0301|2026-T2,Academic skills workshop,Prior failed result,2026-08-14,,0,Did not attend,,Not applicable
+SUP00320,AU-ST0302|2026-T2,Peer tutoring,Self-request / general support,2026-08-07,,0,Declined,,Not applicable
+SUP00321,AU-ST0305|2026-T1,Academic skills workshop,Low early attendance,2026-03-30,2026-04-04,4,Completed,2026-04-30,Follow-up recorded
+SUP00322,AU-ST0305|2026-T2,Study planning,Prior low academic results,2026-08-15,2026-08-18,2,Partially attended,2026-09-01,Follow-up recorded
+SUP00323,AU-ST0306|2024-T2,Peer tutoring,Prior low academic results,2024-08-11,2024-08-14,3,Completed,2024-09-04,Follow-up recorded
+SUP00324,AU-ST0306|2025-T1,Peer tutoring,Prior failed result,2025-03-28,2025-03-30,3,Completed,2025-04-17,Follow-up recorded
+SUP00325,AU-ST0306|2026-T2,Study planning,Prior failed result,2026-08-12,,0,Declined,,Not applicable
+SUP00326,AU-ST0308|2025-T2,Academic skills workshop,Low early attendance,2025-08-10,2025-08-18,5,Completed,2025-09-10,Follow-up recorded
+SUP00327,AU-ST0309|2026-T2,Study planning,Prior failed result,2026-08-11,2026-08-19,3,Completed,2026-09-13,Follow-up recorded
+SUP00328,AU-ST0310|2024-T2,Academic skills workshop,Prior low academic results,2024-08-09,,0,Declined,,Not applicable
+SUP00329,AU-ST0310|2025-T2,Study planning,Prior low academic results,2025-08-14,2025-08-17,2,Partially attended,2025-09-06,Follow-up recorded
+SUP00330,AU-ST0311|2024-T2,Peer tutoring,Prior failed result,2024-08-18,2024-08-24,3,Completed,2024-09-14,Follow-up recorded
+SUP00331,AU-ST0311|2025-T1,Academic skills workshop,Low early attendance,2025-03-28,2025-04-05,4,Completed,2025-04-25,Follow-up recorded
+SUP00332,AU-ST0311|2026-T2,Peer tutoring,Low early attendance,2026-08-11,,0,Did not attend,,Not applicable
+SUP00333,AU-ST0313|2024-T1,Academic skills workshop,Low early attendance,2024-04-03,2024-04-06,5,Completed,2024-04-26,Follow-up recorded
+SUP00334,AU-ST0314|2026-T1,Academic skills workshop,Prior low academic results,2026-03-29,2026-04-07,5,Completed,2026-04-22,Follow-up recorded
+SUP00335,AU-ST0315|2024-T1,Academic skills workshop,Self-request / general support,2024-04-01,2024-04-10,5,Completed,2024-05-06,Follow-up recorded
+SUP00336,AU-ST0316|2024-T1,Peer tutoring,Low early attendance,2024-04-01,2024-04-06,4,Completed,2024-04-28,Follow-up recorded
+SUP00337,AU-ST0316|2025-T1,Peer tutoring,Self-request / general support,2025-04-01,2025-04-06,4,Completed,2025-04-27,Follow-up recorded
+SUP00338,AU-ST0316|2025-T2,Study planning,Self-request / general support,2025-08-12,2025-08-18,1,Partially attended,2025-09-06,Follow-up recorded
+SUP00339,AU-ST0320|2025-T1,Academic skills workshop,Prior failed result,2025-03-31,2025-04-06,1,Partially attended,2025-04-21,Follow-up recorded
+SUP00340,AU-ST0324|2025-T2,Peer tutoring,Prior low academic results,2025-08-10,,0,Declined,,Not applicable
+SUP00341,AU-ST0324|2026-T2,Peer tutoring,Self-request / general support,2026-08-11,2026-08-13,4,Completed,2026-09-07,Follow-up recorded
+SUP00342,AU-ST0325|2024-T1,Academic skills workshop,Low early attendance,2024-04-05,,0,Declined,,Not applicable
+SUP00343,AU-ST0325|2025-T1,Study planning,Prior failed result,2025-03-30,,0,Did not attend,,Not applicable
+SUP00344,AU-ST0325|2026-T1,Peer tutoring,Low early attendance,2026-03-28,2026-04-04,5,Completed,2026-04-23,Follow-up recorded
+SUP00345,AU-ST0331|2026-T2,Peer tutoring,Prior low academic results,2026-08-16,,0,Did not attend,,Not applicable
+SUP00346,AU-ST0332|2026-T2,Academic skills workshop,Low early attendance,2026-08-10,,0,Declined,,Not applicable
+SUP00347,AU-ST0334|2026-T2,Peer tutoring,Low early attendance,2026-08-16,,0,Declined,,Not applicable
+SUP00348,AU-ST0335|2025-T2,Peer tutoring,Prior failed result,2025-08-17,,0,Did not attend,,Not applicable
+SUP00349,AU-ST0335|2026-T1,Peer tutoring,Prior failed result,2026-04-01,,0,Declined,,Not applicable
+SUP00350,AU-ST0336|2024-T2,Study planning,Prior low academic results,2024-08-14,,0,Declined,,Not applicable
+SUP00351,AU-ST0336|2025-T2,Peer tutoring,Self-request / general support,2025-08-10,2025-08-18,3,Completed,2025-09-10,Follow-up recorded
+SUP00352,AU-ST0336|2026-T1,Peer tutoring,Self-request / general support,2026-04-02,2026-04-11,2,Partially attended,2026-05-07,Follow-up recorded
+SUP00353,AU-ST0337|2024-T2,Peer tutoring,Prior failed result,2024-08-12,2024-08-20,1,Partially attended,2024-09-15,Follow-up recorded
+SUP00354,AU-ST0337|2025-T1,Peer tutoring,Prior low academic results,2025-04-05,2025-04-09,4,Completed,2025-04-24,Follow-up recorded
+SUP00355,AU-ST0337|2025-T2,Peer tutoring,Prior low academic results,2025-08-08,2025-08-11,2,Partially attended,2025-08-27,Follow-up recorded
+SUP00356,AU-ST0337|2026-T1,Peer tutoring,Low early attendance,2026-04-02,2026-04-04,3,Completed,2026-04-21,Follow-up recorded
+SUP00357,AU-ST0337|2026-T2,Peer tutoring,Prior failed result,2026-08-08,2026-08-15,3,Completed,2026-08-31,Follow-up recorded
+SUP00358,AU-ST0338|2025-T2,Peer tutoring,Self-request / general support,2025-08-13,2025-08-22,5,Completed,2025-09-15,Follow-up recorded
+SUP00359,AU-ST0343|2024-T1,Peer tutoring,Self-request / general support,2024-04-03,,0,Declined,,Not applicable
+SUP00360,AU-ST0343|2025-T1,Peer tutoring,Self-request / general support,2025-04-03,,0,Declined,,Not applicable
+SUP00361,AU-ST0343|2025-T2,Peer tutoring,Self-request / general support,2025-08-13,2025-08-21,4,Completed,2025-09-13,Follow-up recorded
+SUP00362,AU-ST0344|2025-T1,Peer tutoring,Prior failed result,2025-03-30,2025-04-04,5,Completed,2025-04-22,Follow-up recorded
+SUP00363,AU-ST0344|2026-T2,Study planning,Prior failed result,2026-08-16,2026-08-20,5,Completed,2026-09-08,Follow-up recorded
+SUP00364,AU-ST0345|2024-T2,Peer tutoring,Prior failed result,2024-08-15,2024-08-19,2,Partially attended,2024-09-07,Follow-up recorded
+SUP00365,AU-ST0345|2025-T2,Study planning,Prior failed result,2025-08-13,,0,Did not attend,,Not applicable
+SUP00366,AU-ST0347|2025-T2,Peer tutoring,Prior failed result,2025-08-16,,0,Did not attend,,Not applicable
+SUP00367,AU-ST0347|2026-T1,Study planning,Low early attendance,2026-04-02,2026-04-11,2,Partially attended,2026-05-05,Follow-up recorded
+SUP00368,AU-ST0347|2026-T2,Academic skills workshop,Prior failed result,2026-08-15,2026-08-20,1,Partially attended,2026-09-03,Follow-up recorded
+SUP00369,AU-ST0350|2024-T1,Peer tutoring,Self-request / general support,2024-04-04,2024-04-08,2,Partially attended,2024-04-28,Follow-up recorded
+SUP00370,AU-ST0350|2025-T1,Peer tutoring,Self-request / general support,2025-04-05,2025-04-07,5,Completed,2025-04-21,Follow-up recorded
+SUP00371,AU-ST0350|2026-T1,Peer tutoring,Prior low academic results,2026-04-05,2026-04-10,4,Completed,2026-05-01,Follow-up recorded
+SUP00372,AU-ST0351|2026-T2,Academic skills workshop,Self-request / general support,2026-08-10,2026-08-12,2,Partially attended,2026-09-04,Follow-up recorded
+SUP00373,AU-ST0355|2024-T2,Academic skills workshop,Low early attendance,2024-08-17,2024-08-21,4,Completed,2024-09-10,Follow-up recorded
+SUP00374,AU-ST0355|2025-T1,Study planning,Low early attendance,2025-04-01,2025-04-03,3,Completed,2025-04-27,Follow-up recorded
+SUP00375,AU-ST0355|2026-T2,Peer tutoring,Low early attendance,2026-08-13,2026-08-15,3,Completed,2026-09-07,Follow-up recorded
+SUP00376,AU-ST0356|2025-T1,Study planning,Prior failed result,2025-03-31,2025-04-04,4,Completed,2025-04-18,Follow-up recorded
+SUP00377,AU-ST0356|2025-T2,Peer tutoring,Prior low academic results,2025-08-12,2025-08-14,2,Partially attended,2025-09-09,Follow-up recorded
+SUP00378,AU-ST0356|2026-T1,Peer tutoring,Prior low academic results,2026-03-28,2026-04-06,4,Completed,2026-04-26,Follow-up recorded
+SUP00379,AU-ST0356|2026-T2,Peer tutoring,Low early attendance,2026-08-09,,0,Declined,,Not applicable
+SUP00380,AU-ST0357|2025-T2,Peer tutoring,Prior failed result,2025-08-13,,0,Declined,,Not applicable
+SUP00381,AU-ST0358|2026-T2,Peer tutoring,Prior low academic results,2026-08-13,2026-08-17,5,Completed,2026-09-12,Follow-up recorded
+SUP00382,AU-ST0359|2024-T2,Peer tutoring,Self-request / general support,2024-08-13,2024-08-19,2,Partially attended,2024-09-04,Follow-up recorded
+SUP00383,AU-ST0360|2025-T1,Study planning,Low early attendance,2025-04-05,2025-04-07,3,Completed,2025-04-25,Follow-up recorded
+SUP00384,AU-ST0360|2025-T2,Study planning,Prior failed result,2025-08-13,2025-08-18,3,Completed,2025-09-03,Follow-up recorded
+SUP00385,AU-ST0360|2026-T1,Peer tutoring,Prior low academic results,2026-04-02,2026-04-07,3,Completed,2026-04-29,Follow-up recorded
+SUP00386,AU-ST0360|2026-T2,Academic skills workshop,Prior failed result,2026-08-14,2026-08-19,1,Partially attended,2026-09-13,Follow-up recorded
+SUP00387,AU-ST0361|2025-T1,Study planning,Prior failed result,2025-03-29,2025-04-05,4,Completed,2025-04-22,Follow-up recorded
+SUP00388,AU-ST0363|2025-T1,Academic skills workshop,Self-request / general support,2025-03-30,,0,Did not attend,,Not applicable
+SUP00389,AU-ST0363|2025-T2,Peer tutoring,Self-request / general support,2025-08-17,,0,Did not attend,,Not applicable
+SUP00390,AU-ST0365|2025-T1,Study planning,Prior failed result,2025-04-01,2025-04-07,2,Partially attended,2025-04-30,Follow-up recorded
+SUP00391,AU-ST0365|2025-T2,Peer tutoring,Prior failed result,2025-08-12,,0,Did not attend,,Not applicable
+SUP00392,AU-ST0366|2025-T1,Study planning,Prior low academic results,2025-04-01,2025-04-03,3,Completed,2025-04-21,Follow-up recorded
+SUP00393,AU-ST0366|2025-T2,Study planning,Prior failed result,2025-08-16,2025-08-23,4,Completed,2025-09-11,Follow-up recorded
+SUP00394,AU-ST0366|2026-T1,Peer tutoring,Prior low academic results,2026-03-29,2026-04-02,1,Partially attended,2026-04-28,Follow-up recorded
+SUP00395,AU-ST0368|2026-T1,Peer tutoring,Prior low academic results,2026-03-29,2026-04-05,2,Partially attended,2026-04-23,Follow-up recorded
+SUP00396,AU-ST0368|2026-T2,Study planning,Prior failed result,2026-08-07,,0,Did not attend,,Not applicable
+SUP00397,AU-ST0370|2026-T2,Peer tutoring,Prior failed result,2026-08-16,,0,Declined,,Not applicable
+SUP00398,AU-ST0371|2026-T1,Study planning,Prior failed result,2026-04-04,,0,Declined,,Not applicable
+SUP00399,AU-ST0371|2026-T2,Study planning,Low early attendance,2026-08-09,2026-08-13,1,Partially attended,2026-08-30,Follow-up recorded
+SUP00400,AU-ST0372|2024-T1,Peer tutoring,Self-request / general support,2024-04-07,,0,Did not attend,,Not applicable
+SUP00401,AU-ST0373|2026-T2,Peer tutoring,Prior failed result,2026-08-11,2026-08-18,4,Completed,2026-09-06,Follow-up recorded
+SUP00402,AU-ST0375|2026-T1,Academic skills workshop,Prior low academic results,2026-04-04,2026-04-12,4,Completed,2026-04-27,Follow-up recorded
+SUP00403,AU-ST0377|2025-T1,Study planning,Low early attendance,2025-04-06,,0,Did not attend,,Not applicable
+SUP00404,AU-ST0377|2025-T2,Peer tutoring,Low early attendance,2025-08-12,2025-08-15,5,Completed,2025-08-31,Follow-up recorded
+SUP00405,AU-ST0378|2026-T1,Academic skills workshop,Prior failed result,2026-04-05,2026-04-08,2,Partially attended,2026-04-28,Follow-up recorded
+SUP00406,AU-ST0381|2024-T1,Peer tutoring,Low early attendance,2024-04-07,2024-04-11,4,Completed,2024-05-04,Follow-up recorded
+SUP00407,AU-ST0381|2025-T1,Peer tutoring,Prior failed result,2025-03-31,2025-04-05,5,Completed,2025-04-22,Follow-up recorded
+SUP00408,AU-ST0382|2025-T2,Peer tutoring,Low early attendance,2025-08-08,,0,Did not attend,,Not applicable
+SUP00409,AU-ST0382|2026-T1,Academic skills workshop,Prior low academic results,2026-03-28,2026-04-02,4,Completed,2026-04-23,Follow-up recorded
+SUP00410,AU-ST0382|2026-T2,Peer tutoring,Low early attendance,2026-08-07,2026-08-14,5,Completed,2026-08-28,Follow-up recorded
+SUP00411,AU-ST0383|2024-T2,Peer tutoring,Low early attendance,2024-08-14,2024-08-17,3,Completed,2024-09-03,Follow-up recorded
+SUP00412,AU-ST0383|2025-T1,Study planning,Prior failed result,2025-03-31,2025-04-05,5,Completed,2025-05-01,Follow-up recorded
+SUP00413,AU-ST0383|2025-T2,Study planning,Self-request / general support,2025-08-15,2025-08-24,4,Completed,2025-09-10,Follow-up recorded
+SUP00414,AU-ST0384|2025-T2,Study planning,Low early attendance,2025-08-12,,0,Did not attend,,Not applicable
+SUP00415,AU-ST0384|2026-T1,Academic skills workshop,Low early attendance,2026-04-03,2026-04-06,1,Partially attended,2026-05-01,Follow-up recorded
+SUP00416,AU-ST0386|2025-T2,Study planning,Prior failed result,2025-08-15,2025-08-24,2,Partially attended,2025-09-10,Follow-up recorded
+SUP00417,AU-ST0386|2026-T1,Study planning,Prior failed result,2026-03-28,2026-04-04,2,Partially attended,2026-04-29,Follow-up recorded
+SUP00418,AU-ST0386|2026-T2,Study planning,Prior failed result,2026-08-09,,0,Declined,,Not applicable
+SUP00419,AU-ST0387|2024-T2,Peer tutoring,Low early attendance,2024-08-13,2024-08-17,1,Partially attended,2024-09-12,Follow-up recorded
+SUP00420,AU-ST0387|2025-T1,Peer tutoring,Prior low academic results,2025-03-29,2025-04-03,5,Completed,2025-04-21,Follow-up recorded
+SUP00421,AU-ST0387|2026-T2,Study planning,Self-request / general support,2026-08-08,2026-08-10,2,Partially attended,2026-09-03,Follow-up recorded
+SUP00422,AU-ST0388|2025-T1,Peer tutoring,Prior low academic results,2025-04-04,,0,Declined,,Not applicable
+SUP00423,AU-ST0388|2026-T2,Peer tutoring,Low early attendance,2026-08-14,,0,Did not attend,,Not applicable
+SUP00424,AU-ST0389|2025-T1,Peer tutoring,Prior failed result,2025-03-28,2025-03-30,2,Partially attended,2025-04-21,Follow-up recorded
+SUP00425,AU-ST0389|2025-T2,Academic skills workshop,Prior failed result,2025-08-13,,0,Declined,,Not applicable
+SUP00426,AU-ST0390|2025-T2,Study planning,Self-request / general support,2025-08-13,2025-08-19,2,Partially attended,2025-09-11,Follow-up recorded
+SUP00427,AU-ST0392|2026-T1,Peer tutoring,Prior failed result,2026-04-01,2026-04-08,1,Partially attended,2026-04-30,Follow-up recorded
+SUP00428,AU-ST0393|2025-T1,Peer tutoring,Low early attendance,2025-03-30,,0,Declined,,Not applicable
+SUP00429,AU-ST0393|2025-T2,Academic skills workshop,Low early attendance,2025-08-12,2025-08-17,1,Partially attended,2025-09-12,Follow-up recorded
+SUP00430,AU-ST0393|2026-T2,Peer tutoring,Low early attendance,2026-08-16,,0,Did not attend,,Not applicable
+SUP00431,AU-ST0396|2026-T2,Peer tutoring,Prior low academic results,2026-08-15,2026-08-24,1,Partially attended,2026-09-14,Follow-up recorded
+SUP00432,AU-ST0398|2025-T1,Study planning,Low early attendance,2025-03-31,2025-04-05,4,Completed,2025-04-25,Follow-up recorded
+SUP00433,AU-ST0403|2026-T2,Peer tutoring,Self-request / general support,2026-08-08,,0,Declined,,Not applicable
+SUP00434,AU-ST0404|2025-T1,Study planning,Low early attendance,2025-03-31,2025-04-09,3,Completed,2025-04-25,Follow-up recorded
+SUP00435,AU-ST0404|2025-T2,Peer tutoring,Low early attendance,2025-08-08,2025-08-13,5,Completed,2025-08-30,Follow-up recorded
+SUP00436,AU-ST0406|2024-T2,Peer tutoring,Low early attendance,2024-08-12,2024-08-21,4,Completed,2024-09-09,Follow-up recorded
+SUP00437,AU-ST0406|2025-T2,Study planning,Prior failed result,2025-08-10,,0,Did not attend,,Not applicable
+SUP00438,AU-ST0406|2026-T1,Study planning,Prior failed result,2026-04-05,2026-04-07,2,Partially attended,2026-04-30,Follow-up recorded
+SUP00439,AU-ST0407|2025-T1,Peer tutoring,Prior failed result,2025-04-02,2025-04-09,3,Completed,2025-05-04,Follow-up recorded
+SUP00440,AU-ST0411|2025-T1,Peer tutoring,Low early attendance,2025-03-29,2025-04-02,3,Completed,2025-04-20,Follow-up recorded
+SUP00441,AU-ST0411|2025-T2,Academic skills workshop,Prior low academic results,2025-08-12,2025-08-18,5,Completed,2025-09-03,Follow-up recorded
+SUP00442,AU-ST0411|2026-T1,Peer tutoring,Prior failed result,2026-03-30,2026-04-01,2,Partially attended,2026-04-22,Follow-up recorded
+SUP00443,AU-ST0412|2024-T2,Academic skills workshop,Prior failed result,2024-08-11,,0,Did not attend,,Not applicable
+SUP00444,AU-ST0412|2025-T1,Peer tutoring,Low early attendance,2025-03-29,,0,Did not attend,,Not applicable
+SUP00445,AU-ST0412|2025-T2,Study planning,Low early attendance,2025-08-09,,0,Declined,,Not applicable
+SUP00446,AU-ST0412|2026-T1,Academic skills workshop,Low early attendance,2026-04-04,2026-04-08,2,Partially attended,2026-05-02,Follow-up recorded
+SUP00447,AU-ST0415|2026-T2,Study planning,Low early attendance,2026-08-10,,0,Declined,,Not applicable
+SUP00448,AU-ST0416|2024-T2,Peer tutoring,Prior failed result,2024-08-14,,0,Did not attend,,Not applicable
+SUP00449,AU-ST0416|2025-T1,Academic skills workshop,Low early attendance,2025-03-29,2025-04-07,5,Completed,2025-04-22,Follow-up recorded
+SUP00450,AU-ST0416|2025-T2,Peer tutoring,Prior failed result,2025-08-13,2025-08-20,1,Partially attended,2025-09-08,Follow-up recorded
+SUP00451,AU-ST0417|2026-T1,Study planning,Prior low academic results,2026-04-04,,0,Declined,,Not applicable
+SUP00452,AU-ST0419|2025-T2,Study planning,Low early attendance,2025-08-09,2025-08-12,3,Completed,2025-08-29,Follow-up recorded
+SUP00453,AU-ST0420|2025-T2,Peer tutoring,Low early attendance,2025-08-17,2025-08-26,4,Completed,2025-09-12,Follow-up recorded
+SUP00454,AU-ST0421|2025-T2,Peer tutoring,Prior failed result,2025-08-08,2025-08-16,1,Partially attended,2025-09-10,Follow-up recorded
+SUP00455,AU-ST0423|2026-T2,Peer tutoring,Prior low academic results,2026-08-12,2026-08-18,3,Completed,2026-09-07,Follow-up recorded
+SUP00456,AU-ST0424|2026-T1,Study planning,Self-request / general support,2026-03-28,2026-04-02,2,Partially attended,2026-04-23,Follow-up recorded
+SUP00457,AU-ST0426|2026-T1,Peer tutoring,Low early attendance,2026-04-05,2026-04-12,1,Partially attended,2026-05-04,Follow-up recorded
+SUP00458,AU-ST0428|2024-T1,Peer tutoring,Low early attendance,2024-04-04,,0,Declined,,Not applicable
+SUP00459,AU-ST0428|2024-T2,Academic skills workshop,Low early attendance,2024-08-13,,0,Did not attend,,Not applicable
+SUP00460,AU-ST0428|2025-T1,Academic skills workshop,Prior failed result,2025-03-28,2025-04-05,2,Partially attended,2025-04-23,Follow-up recorded
+SUP00461,AU-ST0429|2025-T1,Peer tutoring,Prior low academic results,2025-04-06,2025-04-11,3,Completed,2025-04-29,Follow-up recorded
+SUP00462,AU-ST0429|2026-T2,Peer tutoring,Low early attendance,2026-08-15,,0,Did not attend,,Not applicable
+SUP00463,AU-ST0431|2025-T2,Peer tutoring,Self-request / general support,2025-08-11,2025-08-13,4,Completed,2025-08-27,Follow-up recorded
+SUP00464,AU-ST0433|2026-T1,Study planning,Self-request / general support,2026-04-04,2026-04-11,3,Completed,2026-05-06,Follow-up recorded
+SUP00465,AU-ST0439|2024-T2,Peer tutoring,Low early attendance,2024-08-16,,0,Did not attend,,Not applicable
+SUP00466,AU-ST0439|2025-T1,Peer tutoring,Low early attendance,2025-03-30,2025-04-08,3,Completed,2025-04-24,Follow-up recorded
+SUP00467,AU-ST0439|2025-T2,Study planning,Low early attendance,2025-08-08,2025-08-14,1,Partially attended,2025-09-03,Follow-up recorded
+SUP00468,AU-ST0439|2026-T1,Academic skills workshop,Prior failed result,2026-03-31,2026-04-02,5,Completed,2026-04-24,Follow-up recorded
+SUP00469,AU-ST0440|2025-T2,Study planning,Low early attendance,2025-08-13,,0,Declined,,Not applicable
+SUP00470,AU-ST0440|2026-T2,Academic skills workshop,Low early attendance,2026-08-10,2026-08-19,3,Completed,2026-09-10,Follow-up recorded
+SUP00471,AU-ST0441|2025-T2,Study planning,Self-request / general support,2025-08-16,2025-08-20,2,Partially attended,2025-09-04,Follow-up recorded
+SUP00472,AU-ST0442|2026-T2,Study planning,Self-request / general support,2026-08-13,2026-08-18,3,Completed,2026-09-05,Follow-up recorded
+SUP00473,AU-ST0443|2025-T2,Academic skills workshop,Prior failed result,2025-08-12,,0,Declined,,Not applicable
+SUP00474,AU-ST0443|2026-T1,Academic skills workshop,Prior failed result,2026-03-30,2026-04-03,2,Partially attended,2026-04-22,Follow-up recorded
+SUP00475,AU-ST0446|2024-T2,Academic skills workshop,Prior failed result,2024-08-15,2024-08-20,3,Completed,2024-09-06,Follow-up recorded
+SUP00476,AU-ST0446|2025-T1,Academic skills workshop,Low early attendance,2025-04-04,2025-04-08,3,Completed,2025-05-03,Follow-up recorded
+SUP00477,AU-ST0446|2026-T1,Study planning,Low early attendance,2026-03-28,2026-03-30,5,Completed,2026-04-24,Follow-up recorded
+SUP00478,AU-ST0447|2026-T2,Study planning,Low early attendance,2026-08-14,,0,Did not attend,,Not applicable
+SUP00479,AU-ST0454|2026-T2,Study planning,Prior low academic results,2026-08-10,2026-08-18,3,Completed,2026-09-07,Follow-up recorded
+SUP00480,AU-ST0455|2024-T2,Study planning,Prior failed result,2024-08-12,2024-08-15,3,Completed,2024-09-10,Follow-up recorded
+SUP00481,AU-ST0455|2025-T1,Study planning,Prior failed result,2025-04-04,2025-04-11,1,Partially attended,2025-04-30,Follow-up recorded
+SUP00482,AU-ST0455|2026-T1,Study planning,Low early attendance,2026-03-27,,0,Declined,,Not applicable
+SUP00483,AU-ST0460|2025-T1,Peer tutoring,Low early attendance,2025-03-28,2025-04-05,4,Completed,2025-04-28,Follow-up recorded
+SUP00484,AU-ST0460|2025-T2,Study planning,Prior failed result,2025-08-17,2025-08-25,1,Partially attended,2025-09-12,Follow-up recorded
+SUP00485,AU-ST0460|2026-T1,Study planning,Prior failed result,2026-04-01,,0,Declined,,Not applicable
+SUP00486,AU-ST0460|2026-T2,Academic skills workshop,Low early attendance,2026-08-16,,0,Declined,,Not applicable
+SUP00487,AU-ST0461|2025-T2,Peer tutoring,Prior failed result,2025-08-16,2025-08-22,3,Completed,2025-09-06,Follow-up recorded
+SUP00488,AU-ST0461|2026-T2,Study planning,Prior failed result,2026-08-14,2026-08-20,5,Completed,2026-09-13,Follow-up recorded
+SUP00489,AU-ST0462|2024-T2,Academic skills workshop,Prior low academic results,2024-08-12,2024-08-21,4,Completed,2024-09-04,Follow-up recorded
+SUP00490,AU-ST0462|2025-T2,Study planning,Prior failed result,2025-08-15,2025-08-17,1,Partially attended,2025-09-12,Follow-up recorded
+SUP00491,AU-ST0464|2026-T1,Study planning,Prior failed result,2026-03-29,2026-04-05,2,Partially attended,2026-04-30,Follow-up recorded
+SUP00492,AU-ST0464|2026-T2,Academic skills workshop,Prior failed result,2026-08-12,2026-08-14,2,Partially attended,2026-09-01,Follow-up recorded
+SUP00493,AU-ST0465|2025-T2,Peer tutoring,Low early attendance,2025-08-17,,0,Did not attend,,Not applicable
+SUP00494,AU-ST0467|2024-T1,Study planning,Low early attendance,2024-03-29,2024-04-05,3,Completed,2024-04-26,Follow-up recorded
+SUP00495,AU-ST0467|2024-T2,Academic skills workshop,Low early attendance,2024-08-12,2024-08-16,1,Partially attended,2024-09-09,Follow-up recorded
+SUP00496,AU-ST0467|2025-T2,Academic skills workshop,Low early attendance,2025-08-13,2025-08-22,1,Partially attended,2025-09-06,Follow-up recorded
+SUP00497,AU-ST0467|2026-T2,Study planning,Low early attendance,2026-08-11,,0,Declined,,Not applicable
+SUP00498,AU-ST0468|2024-T2,Peer tutoring,Low early attendance,2024-08-11,,0,Declined,,Not applicable
+SUP00499,AU-ST0468|2025-T1,Study planning,Prior failed result,2025-03-28,,0,Did not attend,,Not applicable
+SUP00500,AU-ST0468|2026-T1,Peer tutoring,Low early attendance,2026-04-04,,0,Declined,,Not applicable
+SUP00501,AU-ST0469|2026-T2,Academic skills workshop,Prior failed result,2026-08-13,2026-08-18,2,Partially attended,2026-09-06,Follow-up recorded
+SUP00502,AU-ST0470|2024-T2,Study planning,Prior low academic results,2024-08-11,,0,Did not attend,,Not applicable
+SUP00503,AU-ST0470|2026-T1,Peer tutoring,Prior failed result,2026-03-29,,0,Declined,,Not applicable
+SUP00504,AU-ST0470|2026-T2,Study planning,Self-request / general support,2026-08-08,2026-08-16,1,Partially attended,2026-09-04,Follow-up recorded
+SUP00505,AU-ST0471|2025-T1,Peer tutoring,Prior low academic results,2025-03-29,2025-04-07,4,Completed,2025-04-27,Follow-up recorded
+SUP00506,AU-ST0471|2025-T2,Peer tutoring,Self-request / general support,2025-08-12,2025-08-18,3,Completed,2025-09-01,Follow-up recorded
+SUP00507,AU-ST0472|2025-T1,Academic skills workshop,Low early attendance,2025-03-31,2025-04-07,5,Completed,2025-04-28,Follow-up recorded
+SUP00508,AU-ST0474|2024-T1,Peer tutoring,Low early attendance,2024-04-03,,0,Did not attend,,Not applicable
+SUP00509,AU-ST0474|2024-T2,Study planning,Low early attendance,2024-08-16,2024-08-20,5,Completed,2024-09-08,Follow-up recorded
+SUP00510,AU-ST0474|2025-T1,Academic skills workshop,Prior low academic results,2025-03-31,2025-04-08,5,Completed,2025-05-04,Follow-up recorded
+SUP00511,AU-ST0474|2025-T2,Study planning,Prior low academic results,2025-08-11,2025-08-15,5,Completed,2025-09-02,Follow-up recorded
+SUP00512,AU-ST0474|2026-T2,Peer tutoring,Low early attendance,2026-08-12,2026-08-19,3,Completed,2026-09-04,Follow-up recorded
+SUP00513,AU-ST0476|2025-T1,Peer tutoring,Low early attendance,2025-03-30,,0,Did not attend,,Not applicable
+SUP00514,AU-ST0479|2026-T1,Study planning,Prior low academic results,2026-04-05,2026-04-12,5,Completed,2026-05-05,Follow-up recorded
+SUP00515,AU-ST0480|2024-T2,Study planning,Self-request / general support,2024-08-16,,0,Did not attend,,Not applicable
+SUP00516,AU-ST0481|2025-T1,Study planning,Low early attendance,2025-04-01,2025-04-09,3,Completed,2025-04-25,Follow-up recorded
+SUP00517,AU-ST0481|2025-T2,Peer tutoring,Low early attendance,2025-08-16,,0,Declined,,Not applicable
+SUP00518,AU-ST0481|2026-T1,Study planning,Prior failed result,2026-03-31,2026-04-05,4,Completed,2026-04-23,Follow-up recorded
+SUP00519,AU-ST0481|2026-T2,Peer tutoring,Prior failed result,2026-08-08,2026-08-16,1,Partially attended,2026-09-09,Follow-up recorded
+SUP00520,AU-ST0482|2026-T1,Peer tutoring,Low early attendance,2026-04-04,2026-04-10,1,Partially attended,2026-04-26,Follow-up recorded
+SUP00521,AU-ST0483|2025-T1,Peer tutoring,Prior failed result,2025-04-05,2025-04-11,2,Partially attended,2025-04-27,Follow-up recorded
+SUP00522,AU-ST0486|2025-T2,Peer tutoring,Prior failed result,2025-08-10,2025-08-19,4,Completed,2025-09-02,Follow-up recorded
+SUP00523,AU-ST0486|2026-T1,Study planning,Self-request / general support,2026-04-02,,0,Did not attend,,Not applicable
+SUP00524,AU-ST0487|2025-T2,Peer tutoring,Low early attendance,2025-08-11,2025-08-16,4,Completed,2025-09-10,Follow-up recorded
+SUP00525,AU-ST0487|2026-T1,Peer tutoring,Prior failed result,2026-03-27,2026-04-01,1,Partially attended,2026-04-24,Follow-up recorded
+SUP00526,AU-ST0487|2026-T2,Study planning,Low early attendance,2026-08-13,,0,Declined,,Not applicable
+SUP00527,AU-ST0490|2026-T2,Academic skills workshop,Low early attendance,2026-08-08,2026-08-13,2,Partially attended,2026-08-31,Follow-up recorded
+SUP00528,AU-ST0492|2025-T2,Study planning,Prior failed result,2025-08-16,2025-08-19,2,Partially attended,2025-09-07,Follow-up recorded
+SUP00529,AU-ST0492|2026-T1,Peer tutoring,Prior failed result,2026-03-30,2026-04-07,1,Partially attended,2026-04-21,Follow-up recorded
+SUP00530,AU-ST0494|2024-T2,Peer tutoring,Low early attendance,2024-08-12,2024-08-15,1,Partially attended,2024-09-06,Follow-up recorded
+SUP00531,AU-ST0494|2025-T1,Study planning,Prior failed result,2025-04-04,2025-04-10,4,Completed,2025-05-03,Follow-up recorded
+SUP00532,AU-ST0494|2025-T2,Study planning,Prior failed result,2025-08-09,2025-08-17,3,Completed,2025-09-06,Follow-up recorded
+SUP00533,AU-ST0496|2026-T2,Academic skills workshop,Self-request / general support,2026-08-08,2026-08-14,1,Partially attended,2026-08-28,Follow-up recorded
+SUP00534,AU-ST0500|2026-T1,Study planning,Low early attendance,2026-04-01,2026-04-09,5,Completed,2026-05-04,Follow-up recorded

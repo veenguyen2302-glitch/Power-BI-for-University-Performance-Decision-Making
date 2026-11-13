@@ -1,0 +1,1419 @@
+﻿StudentTermKey,Term_ID,Risk_Band_At_Term_Start,Support_Participation,Term_GPA,Next_Term_GPA,Next_Term_GPA_Change
+AU-ST0001|2024-T1,2024-T1,No prior results,Not participated,3.5,2.0,-1.5
+AU-ST0001|2024-T2,2024-T2,Low,Not participated,2.0,3.0,1.0
+AU-ST0001|2025-T1,2025-T1,Moderate,Not participated,3.0,1.0,-2.0
+AU-ST0001|2025-T2,2025-T2,Moderate,Not participated,1.0,3.0,2.0
+AU-ST0001|2026-T1,2026-T1,High,Not participated,3.0,3.0,0.0
+AU-ST0002|2025-T2,2025-T2,No prior results,Not participated,0.0,3.0,3.0
+AU-ST0002|2026-T1,2026-T1,High,Participated,3.0,1.0,-2.0
+AU-ST0003|2024-T1,2024-T1,No prior results,Not participated,3.75,3.5,-0.25
+AU-ST0003|2024-T2,2024-T2,Low,Not participated,3.5,3.25,-0.25
+AU-ST0003|2025-T1,2025-T1,Low,Participated,3.25,3.5,0.25
+AU-ST0003|2025-T2,2025-T2,Low,Not participated,3.5,4.0,0.5
+AU-ST0003|2026-T1,2026-T1,Low,Not participated,4.0,3.67,-0.33
+AU-ST0004|2026-T1,2026-T1,No prior results,Not participated,3.0,1.5,-1.5
+AU-ST0006|2024-T1,2024-T1,No prior results,Not participated,1.75,0.5,-1.25
+AU-ST0006|2024-T2,2024-T2,Moderate,Not participated,0.5,3.0,2.5
+AU-ST0006|2025-T1,2025-T1,High,Not participated,3.0,2.67,-0.33
+AU-ST0006|2025-T2,2025-T2,Low,Not participated,2.67,0.5,-2.17
+AU-ST0006|2026-T1,2026-T1,Moderate,Not participated,0.5,1.33,0.83
+AU-ST0007|2024-T2,2024-T2,No prior results,Not participated,0.0,0.5,0.5
+AU-ST0007|2025-T1,2025-T1,High,Participated,0.5,2.33,1.83
+AU-ST0007|2025-T2,2025-T2,High,Not participated,2.33,2.0,-0.33
+AU-ST0007|2026-T1,2026-T1,Moderate,Participated,2.0,1.0,-1.0
+AU-ST0008|2024-T1,2024-T1,No prior results,Not participated,3.33,3.5,0.17
+AU-ST0008|2024-T2,2024-T2,Low,Not participated,3.5,3.5,0.0
+AU-ST0008|2025-T1,2025-T1,Low,Not participated,3.5,3.75,0.25
+AU-ST0008|2025-T2,2025-T2,Low,Not participated,3.75,3.0,-0.75
+AU-ST0008|2026-T1,2026-T1,Low,Not participated,3.0,2.0,-1.0
+AU-ST0009|2025-T1,2025-T1,No prior results,Not participated,1.0,1.33,0.33
+AU-ST0009|2025-T2,2025-T2,High,Participated,1.33,0.5,-0.83
+AU-ST0010|2024-T1,2024-T1,No prior results,Not participated,3.0,2.0,-1.0
+AU-ST0010|2024-T2,2024-T2,Low,Participated,2.0,1.0,-1.0
+AU-ST0010|2025-T1,2025-T1,Moderate,Not participated,1.0,3.0,2.0
+AU-ST0011|2024-T1,2024-T1,No prior results,Not participated,0.0,0.0,0.0
+AU-ST0012|2024-T1,2024-T1,No prior results,Not participated,2.33,2.33,0.0
+AU-ST0012|2024-T2,2024-T2,Moderate,Not participated,2.33,1.0,-1.33
+AU-ST0012|2025-T1,2025-T1,Moderate,Not participated,1.0,2.67,1.67
+AU-ST0012|2025-T2,2025-T2,High,Not participated,2.67,2.0,-0.67
+AU-ST0012|2026-T1,2026-T1,Low,Not participated,2.0,1.0,-1.0
+AU-ST0013|2025-T2,2025-T2,No prior results,Participated,1.5,1.5,0.0
+AU-ST0013|2026-T1,2026-T1,High,Not participated,1.5,1.25,-0.25
+AU-ST0015|2024-T1,2024-T1,No prior results,Not participated,0.0,2.33,2.33
+AU-ST0015|2024-T2,2024-T2,High,Not participated,2.33,1.75,-0.58
+AU-ST0015|2025-T1,2025-T1,Moderate,Not participated,1.75,2.0,0.25
+AU-ST0016|2025-T1,2025-T1,No prior results,Not participated,3.0,3.5,0.5
+AU-ST0016|2025-T2,2025-T2,Low,Not participated,3.5,2.67,-0.83
+AU-ST0016|2026-T1,2026-T1,Low,Not participated,2.67,2.0,-0.67
+AU-ST0017|2024-T1,2024-T1,No prior results,Not participated,1.5,3.75,2.25
+AU-ST0017|2024-T2,2024-T2,High,Participated,3.75,3.33,-0.42
+AU-ST0017|2025-T1,2025-T1,Moderate,Participated,3.33,3.67,0.34
+AU-ST0017|2025-T2,2025-T2,Low,Not participated,3.67,2.33,-1.34
+AU-ST0017|2026-T1,2026-T1,Low,Not participated,2.33,3.0,0.67
+AU-ST0018|2024-T2,2024-T2,No prior results,Not participated,4.0,4.0,0.0
+AU-ST0018|2025-T1,2025-T1,Low,Not participated,4.0,3.5,-0.5
+AU-ST0018|2025-T2,2025-T2,Low,Not participated,3.5,3.0,-0.5
+AU-ST0018|2026-T1,2026-T1,Low,Not participated,3.0,3.5,0.5
+AU-ST0019|2024-T1,2024-T1,No prior results,Not participated,1.67,1.33,-0.34
+AU-ST0019|2024-T2,2024-T2,High,Participated,1.33,2.0,0.67
+AU-ST0019|2025-T1,2025-T1,High,Participated,2.0,1.0,-1.0
+AU-ST0019|2025-T2,2025-T2,Moderate,Participated,1.0,1.33,0.33
+AU-ST0019|2026-T1,2026-T1,High,Participated,1.33,0.5,-0.83
+AU-ST0020|2026-T1,2026-T1,No prior results,Not participated,1.33,2.0,0.67
+AU-ST0021|2026-T1,2026-T1,No prior results,Not participated,1.25,2.75,1.5
+AU-ST0022|2025-T2,2025-T2,Low,Not participated,2.0,2.5,0.5
+AU-ST0022|2026-T1,2026-T1,Moderate,Not participated,2.5,3.5,1.0
+AU-ST0023|2025-T2,2025-T2,No prior results,Not participated,3.0,2.0,-1.0
+AU-ST0023|2026-T1,2026-T1,Low,Not participated,2.0,2.0,0.0
+AU-ST0024|2025-T1,2025-T1,No prior results,Not participated,0.5,0.0,-0.5
+AU-ST0024|2025-T2,2025-T2,High,Not participated,0.0,0.0,0.0
+AU-ST0024|2026-T1,2026-T1,High,Participated,0.0,3.0,3.0
+AU-ST0026|2026-T1,2026-T1,No prior results,Not participated,0.0,0.0,0.0
+AU-ST0027|2024-T1,2024-T1,No prior results,Not participated,0.5,2.0,1.5
+AU-ST0027|2024-T2,2024-T2,High,Not participated,2.0,1.5,-0.5
+AU-ST0027|2025-T1,2025-T1,Moderate,Participated,1.5,1.5,0.0
+AU-ST0027|2025-T2,2025-T2,High,Not participated,1.5,0.0,-1.5
+AU-ST0027|2026-T1,2026-T1,High,Not participated,0.0,1.0,1.0
+AU-ST0028|2024-T1,2024-T1,No prior results,Not participated,0.0,2.0,2.0
+AU-ST0028|2024-T2,2024-T2,High,Participated,2.0,2.33,0.33
+AU-ST0028|2025-T1,2025-T1,Moderate,Not participated,2.33,0.75,-1.58
+AU-ST0029|2025-T1,2025-T1,No prior results,Not participated,2.25,3.5,1.25
+AU-ST0029|2025-T2,2025-T2,Moderate,Not participated,3.5,3.25,-0.25
+AU-ST0029|2026-T1,2026-T1,Low,Not participated,3.25,1.75,-1.5
+AU-ST0030|2025-T1,2025-T1,No prior results,Not participated,1.0,1.25,0.25
+AU-ST0030|2025-T2,2025-T2,High,Not participated,1.25,1.75,0.5
+AU-ST0030|2026-T1,2026-T1,High,Not participated,1.75,2.33,0.58
+AU-ST0032|2024-T1,2024-T1,No prior results,Not participated,3.5,3.0,-0.5
+AU-ST0032|2024-T2,2024-T2,Low,Not participated,3.0,2.33,-0.67
+AU-ST0032|2025-T1,2025-T1,Low,Participated,2.33,3.5,1.17
+AU-ST0032|2025-T2,2025-T2,Moderate,Not participated,3.5,3.33,-0.17
+AU-ST0032|2026-T1,2026-T1,Low,Not participated,3.33,3.67,0.34
+AU-ST0033|2026-T1,2026-T1,No prior results,Not participated,3.33,3.25,-0.08
+AU-ST0034|2025-T1,2025-T1,No prior results,Not participated,2.0,0.0,-2.0
+AU-ST0034|2025-T2,2025-T2,Moderate,Not participated,0.0,0.0,0.0
+AU-ST0035|2025-T1,2025-T1,No prior results,Not participated,0.0,0.0,0.0
+AU-ST0035|2025-T2,2025-T2,High,Not participated,0.0,0.5,0.5
+AU-ST0035|2026-T1,2026-T1,High,Not participated,0.5,1.5,1.0
+AU-ST0036|2024-T2,2024-T2,No prior results,Not participated,0.0,0.5,0.5
+AU-ST0036|2025-T1,2025-T1,High,Not participated,0.5,2.33,1.83
+AU-ST0036|2025-T2,2025-T2,High,Not participated,2.33,0.5,-1.83
+AU-ST0036|2026-T1,2026-T1,Moderate,Not participated,0.5,2.25,1.75
+AU-ST0037|2024-T2,2024-T2,No prior results,Not participated,0.0,0.0,0.0
+AU-ST0037|2025-T1,2025-T1,High,Not participated,0.0,1.5,1.5
+AU-ST0038|2024-T1,2024-T1,No prior results,Participated,2.25,3.0,0.75
+AU-ST0038|2024-T2,2024-T2,Moderate,Not participated,3.0,0.5,-2.5
+AU-ST0038|2025-T1,2025-T1,Low,Not participated,0.5,1.5,1.0
+AU-ST0038|2025-T2,2025-T2,High,Participated,1.5,1.0,-0.5
+AU-ST0038|2026-T1,2026-T1,High,Participated,1.0,0.5,-0.5
+AU-ST0039|2025-T1,2025-T1,No prior results,Participated,3.25,3.75,0.5
+AU-ST0039|2025-T2,2025-T2,Low,Not participated,3.75,3.75,0.0
+AU-ST0039|2026-T1,2026-T1,Low,Not participated,3.75,4.0,0.25
+AU-ST0041|2025-T2,2025-T2,No prior results,Not participated,1.0,2.5,1.5
+AU-ST0041|2026-T1,2026-T1,High,Not participated,2.5,1.0,-1.5
+AU-ST0042|2025-T1,2025-T1,No prior results,Not participated,2.0,3.0,1.0
+AU-ST0042|2025-T2,2025-T2,Moderate,Participated,3.0,2.0,-1.0
+AU-ST0042|2026-T1,2026-T1,Low,Not participated,2.0,3.0,1.0
+AU-ST0043|2026-T1,2026-T1,No prior results,Not participated,3.5,4.0,0.5
+AU-ST0044|2025-T1,2025-T1,No prior results,Not participated,3.67,3.25,-0.42
+AU-ST0044|2025-T2,2025-T2,Low,Participated,3.25,3.5,0.25
+AU-ST0044|2026-T1,2026-T1,Low,Participated,3.5,2.25,-1.25
+AU-ST0045|2024-T1,2024-T1,No prior results,Not participated,4.0,4.0,0.0
+AU-ST0045|2024-T2,2024-T2,Low,Not participated,4.0,4.0,0.0
+AU-ST0045|2025-T1,2025-T1,Low,Not participated,4.0,3.5,-0.5
+AU-ST0045|2025-T2,2025-T2,Low,Not participated,3.5,4.0,0.5
+AU-ST0045|2026-T1,2026-T1,Low,Not participated,4.0,1.5,-2.5
+AU-ST0046|2024-T1,2024-T1,No prior results,Not participated,0.25,0.0,-0.25
+AU-ST0047|2026-T1,2026-T1,No prior results,Not participated,1.75,2.33,0.58
+AU-ST0048|2024-T2,2024-T2,No prior results,Not participated,3.0,4.0,1.0
+AU-ST0048|2025-T1,2025-T1,Low,Not participated,4.0,4.0,0.0
+AU-ST0048|2025-T2,2025-T2,Low,Participated,4.0,2.0,-2.0
+AU-ST0048|2026-T1,2026-T1,Low,Participated,2.0,3.0,1.0
+AU-ST0049|2026-T1,2026-T1,No prior results,Not participated,3.0,1.75,-1.25
+AU-ST0050|2024-T1,2024-T1,No prior results,Not participated,0.33,0.67,0.34
+AU-ST0050|2024-T2,2024-T2,High,Not participated,0.67,0.25,-0.42
+AU-ST0050|2025-T1,2025-T1,High,Participated,0.25,2.5,2.25
+AU-ST0050|2025-T2,2025-T2,High,Participated,2.5,0.33,-2.17
+AU-ST0050|2026-T1,2026-T1,High,Not participated,0.33,0.0,-0.33
+AU-ST0051|2024-T2,2024-T2,No prior results,Not participated,0.0,2.25,2.25
+AU-ST0051|2025-T1,2025-T1,High,Not participated,2.25,2.0,-0.25
+AU-ST0051|2025-T2,2025-T2,Moderate,Participated,2.0,1.25,-0.75
+AU-ST0051|2026-T1,2026-T1,Moderate,Not participated,1.25,1.0,-0.25
+AU-ST0052|2026-T1,2026-T1,No prior results,Not participated,3.5,3.0,-0.5
+AU-ST0053|2024-T1,2024-T1,No prior results,Participated,0.33,0.5,0.17
+AU-ST0053|2024-T2,2024-T2,High,Participated,0.5,2.0,1.5
+AU-ST0053|2025-T1,2025-T1,High,Not participated,2.0,0.5,-1.5
+AU-ST0053|2025-T2,2025-T2,Moderate,Participated,0.5,1.0,0.5
+AU-ST0055|2026-T1,2026-T1,No prior results,Not participated,0.0,0.0,0.0
+AU-ST0056|2024-T1,2024-T1,No prior results,Not participated,3.0,2.5,-0.5
+AU-ST0056|2024-T2,2024-T2,Low,Not participated,2.5,2.0,-0.5
+AU-ST0056|2025-T1,2025-T1,Low,Not participated,2.0,1.0,-1.0
+AU-ST0056|2025-T2,2025-T2,Moderate,Not participated,1.0,2.0,1.0
+AU-ST0056|2026-T1,2026-T1,High,Not participated,2.0,3.5,1.5
+AU-ST0057|2024-T1,2024-T1,No prior results,Not participated,1.75,1.33,-0.42
+AU-ST0057|2024-T2,2024-T2,Moderate,Not participated,1.33,1.5,0.17
+AU-ST0057|2025-T1,2025-T1,High,Not participated,1.5,1.0,-0.5
+AU-ST0058|2026-T1,2026-T1,No prior results,Not participated,2.25,1.67,-0.58
+AU-ST0059|2024-T1,2024-T1,No prior results,Not participated,3.0,1.5,-1.5
+AU-ST0059|2024-T2,2024-T2,Low,Not participated,1.5,0.0,-1.5
+AU-ST0059|2025-T1,2025-T1,High,Participated,0.0,2.0,2.0
+AU-ST0059|2025-T2,2025-T2,High,Participated,2.0,0.0,-2.0
+AU-ST0059|2026-T1,2026-T1,Moderate,Not participated,0.0,2.0,2.0
+AU-ST0060|2025-T1,2025-T1,No prior results,Participated,0.67,2.5,1.83
+AU-ST0060|2025-T2,2025-T2,High,Not participated,2.5,2.0,-0.5
+AU-ST0060|2026-T1,2026-T1,Low,Not participated,2.0,1.33,-0.67
+AU-ST0061|2024-T2,2024-T2,No prior results,Not participated,2.0,1.25,-0.75
+AU-ST0061|2025-T1,2025-T1,Moderate,Not participated,1.25,0.75,-0.5
+AU-ST0061|2025-T2,2025-T2,High,Not participated,0.75,0.0,-0.75
+AU-ST0061|2026-T1,2026-T1,High,Not participated,0.0,1.67,1.67
+AU-ST0062|2026-T1,2026-T1,No prior results,Not participated,2.25,2.0,-0.25
+AU-ST0063|2026-T1,2026-T1,No prior results,Not participated,2.25,2.75,0.5
+AU-ST0064|2025-T1,2025-T1,No prior results,Not participated,2.67,3.25,0.58
+AU-ST0064|2025-T2,2025-T2,Low,Not participated,3.25,4.0,0.75
+AU-ST0064|2026-T1,2026-T1,Low,Not participated,4.0,4.0,0.0
+AU-ST0065|2026-T1,2026-T1,No prior results,Not participated,0.5,0.75,0.25
+AU-ST0066|2025-T2,2025-T2,No prior results,Not participated,2.67,2.33,-0.34
+AU-ST0066|2026-T1,2026-T1,Moderate,Not participated,2.33,0.25,-2.08
+AU-ST0068|2025-T1,2025-T1,No prior results,Not participated,3.5,3.0,-0.5
+AU-ST0068|2025-T2,2025-T2,Low,Not participated,3.0,3.33,0.33
+AU-ST0068|2026-T1,2026-T1,Low,Not participated,3.33,3.5,0.17
+AU-ST0069|2025-T2,2025-T2,No prior results,Not participated,2.75,0.67,-2.08
+AU-ST0069|2026-T1,2026-T1,Low,Not participated,0.67,0.5,-0.17
+AU-ST0070|2024-T1,2024-T1,No prior results,Not participated,2.5,1.0,-1.5
+AU-ST0070|2024-T2,2024-T2,Low,Not participated,1.0,2.0,1.0
+AU-ST0070|2025-T1,2025-T1,High,Not participated,2.0,4.0,2.0
+AU-ST0070|2025-T2,2025-T2,Moderate,Not participated,4.0,2.0,-2.0
+AU-ST0070|2026-T1,2026-T1,Low,Not participated,2.0,4.0,2.0
+AU-ST0071|2024-T1,2024-T1,No prior results,Not participated,2.33,3.0,0.67
+AU-ST0071|2024-T2,2024-T2,Moderate,Not participated,3.0,2.33,-0.67
+AU-ST0071|2026-T1,2026-T1,Moderate,Not participated,3.33,2.25,-1.08
+AU-ST0072|2024-T2,2024-T2,No prior results,Not participated,2.33,0.75,-1.58
+AU-ST0072|2025-T1,2025-T1,Moderate,Not participated,0.75,1.0,0.25
+AU-ST0072|2025-T2,2025-T2,High,Participated,1.0,1.0,0.0
+AU-ST0072|2026-T1,2026-T1,High,Not participated,1.0,0.67,-0.33
+AU-ST0073|2024-T1,2024-T1,No prior results,Not participated,0.5,0.75,0.25
+AU-ST0073|2024-T2,2024-T2,High,Not participated,0.75,1.0,0.25
+AU-ST0073|2025-T1,2025-T1,High,Participated,1.0,0.67,-0.33
+AU-ST0073|2025-T2,2025-T2,High,Participated,0.67,0.67,0.0
+AU-ST0073|2026-T1,2026-T1,High,Participated,0.67,2.0,1.33
+AU-ST0074|2025-T1,2025-T1,No prior results,Not participated,2.0,3.0,1.0
+AU-ST0074|2025-T2,2025-T2,Moderate,Participated,3.0,3.0,0.0
+AU-ST0074|2026-T1,2026-T1,Low,Not participated,3.0,2.0,-1.0
+AU-ST0075|2026-T1,2026-T1,No prior results,Not participated,3.0,1.0,-2.0
+AU-ST0076|2025-T2,2025-T2,No prior results,Not participated,1.5,2.0,0.5
+AU-ST0076|2026-T1,2026-T1,High,Not participated,2.0,2.0,0.0
+AU-ST0077|2025-T1,2025-T1,No prior results,Not participated,1.33,0.33,-1.0
+AU-ST0077|2025-T2,2025-T2,High,Not participated,0.33,1.5,1.17
+AU-ST0077|2026-T1,2026-T1,High,Not participated,1.5,1.5,0.0
+AU-ST0078|2024-T1,2024-T1,No prior results,Not participated,0.5,0.0,-0.5
+AU-ST0078|2024-T2,2024-T2,High,Not participated,0.0,1.5,1.5
+AU-ST0078|2025-T1,2025-T1,High,Participated,1.5,0.0,-1.5
+AU-ST0078|2025-T2,2025-T2,High,Not participated,0.0,1.0,1.0
+AU-ST0078|2026-T1,2026-T1,High,Not participated,1.0,0.0,-1.0
+AU-ST0079|2024-T2,2024-T2,No prior results,Participated,1.5,1.0,-0.5
+AU-ST0079|2025-T1,2025-T1,High,Not participated,1.0,0.67,-0.33
+AU-ST0079|2025-T2,2025-T2,High,Participated,0.67,1.5,0.83
+AU-ST0079|2026-T1,2026-T1,High,Not participated,1.5,0.0,-1.5
+AU-ST0080|2025-T1,2025-T1,No prior results,Not participated,0.33,1.0,0.67
+AU-ST0081|2024-T1,2024-T1,No prior results,Not participated,1.5,1.25,-0.25
+AU-ST0081|2024-T2,2024-T2,High,Not participated,1.25,1.25,0.0
+AU-ST0081|2025-T1,2025-T1,High,Not participated,1.25,0.0,-1.25
+AU-ST0081|2025-T2,2025-T2,High,Not participated,0.0,1.67,1.67
+AU-ST0081|2026-T1,2026-T1,High,Not participated,1.67,3.0,1.33
+AU-ST0082|2025-T1,2025-T1,No prior results,Not participated,3.5,3.0,-0.5
+AU-ST0082|2025-T2,2025-T2,Low,Not participated,3.0,4.0,1.0
+AU-ST0082|2026-T1,2026-T1,Low,Not participated,4.0,3.5,-0.5
+AU-ST0083|2025-T1,2025-T1,No prior results,Not participated,3.0,2.5,-0.5
+AU-ST0083|2025-T2,2025-T2,Low,Not participated,2.5,2.0,-0.5
+AU-ST0083|2026-T1,2026-T1,Low,Not participated,2.0,2.0,0.0
+AU-ST0084|2025-T2,2025-T2,No prior results,Not participated,4.0,2.75,-1.25
+AU-ST0084|2026-T1,2026-T1,Low,Not participated,2.75,2.0,-0.75
+AU-ST0085|2026-T1,2026-T1,No prior results,Not participated,2.0,2.5,0.5
+AU-ST0086|2024-T1,2024-T1,No prior results,Not participated,4.0,3.0,-1.0
+AU-ST0086|2024-T2,2024-T2,Low,Not participated,3.0,3.25,0.25
+AU-ST0086|2025-T1,2025-T1,Low,Not participated,3.25,1.67,-1.58
+AU-ST0086|2025-T2,2025-T2,Low,Not participated,1.67,3.0,1.33
+AU-ST0086|2026-T1,2026-T1,High,Not participated,3.0,2.25,-0.75
+AU-ST0087|2025-T1,2025-T1,No prior results,Not participated,1.5,1.33,-0.17
+AU-ST0087|2025-T2,2025-T2,High,Not participated,1.33,2.67,1.34
+AU-ST0087|2026-T1,2026-T1,High,Participated,2.67,1.67,-1.0
+AU-ST0089|2024-T2,2024-T2,No prior results,Not participated,2.0,2.25,0.25
+AU-ST0089|2025-T1,2025-T1,Moderate,Not participated,2.25,1.0,-1.25
+AU-ST0089|2025-T2,2025-T2,Moderate,Not participated,1.0,2.25,1.25
+AU-ST0089|2026-T1,2026-T1,High,Not participated,2.25,1.0,-1.25
+AU-ST0090|2024-T1,2024-T1,No prior results,Not participated,1.25,1.33,0.08
+AU-ST0090|2024-T2,2024-T2,High,Not participated,1.33,1.67,0.34
+AU-ST0090|2025-T1,2025-T1,High,Participated,1.67,1.5,-0.17
+AU-ST0090|2025-T2,2025-T2,High,Not participated,1.5,2.0,0.5
+AU-ST0090|2026-T1,2026-T1,High,Not participated,2.0,2.67,0.67
+AU-ST0091|2025-T2,2025-T2,No prior results,Not participated,1.0,2.5,1.5
+AU-ST0091|2026-T1,2026-T1,High,Not participated,2.5,0.0,-2.5
+AU-ST0092|2024-T2,2024-T2,No prior results,Not participated,2.33,2.5,0.17
+AU-ST0092|2025-T1,2025-T1,Moderate,Not participated,2.5,2.5,0.0
+AU-ST0092|2025-T2,2025-T2,Low,Not participated,2.5,2.25,-0.25
+AU-ST0092|2026-T1,2026-T1,Low,Not participated,2.25,3.67,1.42
+AU-ST0093|2025-T1,2025-T1,No prior results,Not participated,3.25,1.25,-2.0
+AU-ST0093|2025-T2,2025-T2,Low,Not participated,1.25,3.25,2.0
+AU-ST0093|2026-T1,2026-T1,High,Participated,3.25,1.5,-1.75
+AU-ST0094|2024-T2,2024-T2,No prior results,Not participated,0.33,1.25,0.92
+AU-ST0094|2025-T1,2025-T1,High,Not participated,1.25,1.33,0.08
+AU-ST0094|2025-T2,2025-T2,High,Participated,1.33,2.33,1.0
+AU-ST0094|2026-T1,2026-T1,High,Not participated,2.33,2.33,0.0
+AU-ST0096|2024-T1,2024-T1,No prior results,Not participated,1.75,1.0,-0.75
+AU-ST0096|2024-T2,2024-T2,Moderate,Not participated,1.0,2.33,1.33
+AU-ST0096|2025-T1,2025-T1,High,Not participated,2.33,2.0,-0.33
+AU-ST0096|2025-T2,2025-T2,Moderate,Not participated,2.0,2.0,0.0
+AU-ST0096|2026-T1,2026-T1,Moderate,Not participated,2.0,2.75,0.75
+AU-ST0097|2025-T2,2025-T2,No prior results,Not participated,0.5,1.0,0.5
+AU-ST0097|2026-T1,2026-T1,High,Participated,1.0,1.0,0.0
+AU-ST0098|2024-T1,2024-T1,No prior results,Not participated,0.0,0.0,0.0
+AU-ST0098|2024-T2,2024-T2,High,Participated,0.0,1.0,1.0
+AU-ST0098|2025-T1,2025-T1,High,Not participated,1.0,0.0,-1.0
+AU-ST0098|2025-T2,2025-T2,High,Participated,0.0,0.0,0.0
+AU-ST0098|2026-T1,2026-T1,High,Participated,0.0,0.0,0.0
+AU-ST0099|2024-T1,2024-T1,No prior results,Not participated,2.75,3.67,0.92
+AU-ST0099|2024-T2,2024-T2,Moderate,Not participated,3.67,1.75,-1.92
+AU-ST0099|2025-T1,2025-T1,Low,Not participated,1.75,2.67,0.92
+AU-ST0099|2025-T2,2025-T2,Moderate,Not participated,2.67,3.67,1.0
+AU-ST0099|2026-T1,2026-T1,Low,Participated,3.67,3.0,-0.67
+AU-ST0100|2024-T2,2024-T2,No prior results,Not participated,1.0,1.0,0.0
+AU-ST0100|2025-T1,2025-T1,High,Participated,1.0,0.5,-0.5
+AU-ST0100|2025-T2,2025-T2,High,Not participated,0.5,0.5,0.0
+AU-ST0100|2026-T1,2026-T1,High,Not participated,0.5,0.5,0.0
+AU-ST0101|2025-T1,2025-T1,No prior results,Not participated,0.0,0.0,0.0
+AU-ST0101|2025-T2,2025-T2,High,Participated,0.0,0.0,0.0
+AU-ST0102|2025-T1,2025-T1,No prior results,Not participated,4.0,3.75,-0.25
+AU-ST0102|2025-T2,2025-T2,Low,Not participated,3.75,4.0,0.25
+AU-ST0102|2026-T1,2026-T1,Low,Not participated,4.0,4.0,0.0
+AU-ST0103|2025-T1,2025-T1,No prior results,Not participated,2.25,3.5,1.25
+AU-ST0103|2025-T2,2025-T2,Moderate,Not participated,3.5,3.75,0.25
+AU-ST0103|2026-T1,2026-T1,Low,Not participated,3.75,2.67,-1.08
+AU-ST0104|2025-T1,2025-T1,No prior results,Not participated,2.67,3.67,1.0
+AU-ST0104|2025-T2,2025-T2,Low,Not participated,3.67,2.67,-1.0
+AU-ST0104|2026-T1,2026-T1,Low,Not participated,2.67,3.0,0.33
+AU-ST0105|2025-T1,2025-T1,No prior results,Not participated,0.0,1.75,1.75
+AU-ST0105|2025-T2,2025-T2,High,Participated,1.75,0.5,-1.25
+AU-ST0105|2026-T1,2026-T1,Moderate,Participated,0.5,1.0,0.5
+AU-ST0106|2025-T2,2025-T2,No prior results,Not participated,2.33,1.67,-0.66
+AU-ST0106|2026-T1,2026-T1,Moderate,Not participated,1.67,3.0,1.33
+AU-ST0107|2025-T1,2025-T1,No prior results,Not participated,3.0,3.5,0.5
+AU-ST0107|2025-T2,2025-T2,Low,Not participated,3.5,2.5,-1.0
+AU-ST0107|2026-T1,2026-T1,Low,Not participated,2.5,3.5,1.0
+AU-ST0109|2024-T1,2024-T1,No prior results,Not participated,1.0,0.25,-0.75
+AU-ST0109|2024-T2,2024-T2,High,Participated,0.25,0.0,-0.25
+AU-ST0109|2025-T1,2025-T1,High,Participated,0.0,1.25,1.25
+AU-ST0109|2025-T2,2025-T2,High,Not participated,1.25,0.5,-0.75
+AU-ST0109|2026-T1,2026-T1,High,Participated,0.5,2.67,2.17
+AU-ST0110|2025-T1,2025-T1,No prior results,Not participated,1.0,2.67,1.67
+AU-ST0110|2025-T2,2025-T2,High,Participated,2.67,2.75,0.08
+AU-ST0110|2026-T1,2026-T1,Moderate,Not participated,2.75,1.75,-1.0
+AU-ST0112|2024-T2,2024-T2,No prior results,Not participated,0.67,0.25,-0.42
+AU-ST0114|2024-T1,2024-T1,No prior results,Not participated,1.0,1.33,0.33
+AU-ST0114|2024-T2,2024-T2,High,Not participated,1.33,0.5,-0.83
+AU-ST0114|2025-T1,2025-T1,High,Participated,0.5,1.75,1.25
+AU-ST0114|2025-T2,2025-T2,High,Not participated,1.75,0.33,-1.42
+AU-ST0114|2026-T1,2026-T1,Moderate,Not participated,0.33,1.25,0.92
+AU-ST0115|2026-T1,2026-T1,No prior results,Not participated,1.33,1.0,-0.33
+AU-ST0116|2026-T1,2026-T1,No prior results,Participated,3.0,2.5,-0.5
+AU-ST0117|2024-T1,2024-T1,No prior results,Not participated,3.0,3.0,0.0
+AU-ST0117|2024-T2,2024-T2,Low,Not participated,3.0,4.0,1.0
+AU-ST0117|2025-T1,2025-T1,Low,Not participated,4.0,2.0,-2.0
+AU-ST0117|2025-T2,2025-T2,Low,Not participated,2.0,3.0,1.0
+AU-ST0117|2026-T1,2026-T1,Moderate,Not participated,3.0,3.0,0.0
+AU-ST0118|2025-T1,2025-T1,No prior results,Not participated,0.0,0.5,0.5
+AU-ST0118|2025-T2,2025-T2,High,Participated,0.5,0.5,0.0
+AU-ST0118|2026-T1,2026-T1,High,Not participated,0.5,0.5,0.0
+AU-ST0119|2025-T1,2025-T1,High,Not participated,0.75,0.33,-0.42
+AU-ST0120|2025-T2,2025-T2,No prior results,Not participated,3.5,1.25,-2.25
+AU-ST0121|2024-T2,2024-T2,No prior results,Not participated,1.75,2.25,0.5
+AU-ST0121|2025-T1,2025-T1,Moderate,Not participated,2.25,3.0,0.75
+AU-ST0121|2025-T2,2025-T2,Moderate,Participated,3.0,2.0,-1.0
+AU-ST0121|2026-T1,2026-T1,Low,Not participated,2.0,1.33,-0.67
+AU-ST0122|2025-T2,2025-T2,No prior results,Not participated,2.67,3.25,0.58
+AU-ST0122|2026-T1,2026-T1,Low,Participated,3.25,2.0,-1.25
+AU-ST0125|2024-T1,2024-T1,No prior results,Not participated,3.0,3.0,0.0
+AU-ST0125|2024-T2,2024-T2,Low,Not participated,3.0,3.0,0.0
+AU-ST0125|2025-T1,2025-T1,Low,Not participated,3.0,2.25,-0.75
+AU-ST0125|2025-T2,2025-T2,Low,Not participated,2.25,2.0,-0.25
+AU-ST0125|2026-T1,2026-T1,Moderate,Not participated,2.0,3.25,1.25
+AU-ST0126|2024-T1,2024-T1,No prior results,Not participated,1.75,1.0,-0.75
+AU-ST0126|2024-T2,2024-T2,Moderate,Not participated,1.0,1.33,0.33
+AU-ST0126|2025-T1,2025-T1,High,Not participated,1.33,0.67,-0.66
+AU-ST0126|2025-T2,2025-T2,High,Not participated,0.67,0.33,-0.34
+AU-ST0126|2026-T1,2026-T1,High,Not participated,0.33,1.25,0.92
+AU-ST0128|2025-T1,2025-T1,No prior results,Not participated,1.0,1.25,0.25
+AU-ST0128|2025-T2,2025-T2,High,Participated,1.25,1.5,0.25
+AU-ST0128|2026-T1,2026-T1,High,Not participated,1.5,2.33,0.83
+AU-ST0129|2025-T2,2025-T2,No prior results,Not participated,1.67,2.0,0.33
+AU-ST0129|2026-T1,2026-T1,High,Participated,2.0,2.33,0.33
+AU-ST0130|2026-T1,2026-T1,Low,Participated,2.0,3.0,1.0
+AU-ST0132|2024-T1,2024-T1,No prior results,Not participated,2.25,1.75,-0.5
+AU-ST0132|2024-T2,2024-T2,Moderate,Participated,1.75,1.0,-0.75
+AU-ST0132|2025-T1,2025-T1,Moderate,Not participated,1.0,3.25,2.25
+AU-ST0132|2025-T2,2025-T2,High,Participated,3.25,2.5,-0.75
+AU-ST0132|2026-T1,2026-T1,Low,Not participated,2.5,1.75,-0.75
+AU-ST0133|2026-T1,2026-T1,High,Participated,0.33,0.5,0.17
+AU-ST0134|2024-T1,2024-T1,No prior results,Not participated,2.67,1.0,-1.67
+AU-ST0134|2024-T2,2024-T2,Low,Not participated,1.0,1.5,0.5
+AU-ST0134|2025-T1,2025-T1,High,Not participated,1.5,2.0,0.5
+AU-ST0134|2025-T2,2025-T2,High,Not participated,2.0,1.0,-1.0
+AU-ST0134|2026-T1,2026-T1,Moderate,Participated,1.0,0.75,-0.25
+AU-ST0135|2025-T2,2025-T2,No prior results,Not participated,3.25,3.0,-0.25
+AU-ST0135|2026-T1,2026-T1,Low,Not participated,3.0,1.67,-1.33
+AU-ST0136|2026-T1,2026-T1,No prior results,Not participated,1.0,3.0,2.0
+AU-ST0137|2025-T2,2025-T2,No prior results,Not participated,3.0,4.0,1.0
+AU-ST0137|2026-T1,2026-T1,Low,Not participated,4.0,1.5,-2.5
+AU-ST0138|2024-T1,2024-T1,No prior results,Not participated,3.5,2.0,-1.5
+AU-ST0138|2024-T2,2024-T2,Low,Not participated,2.0,1.0,-1.0
+AU-ST0138|2025-T1,2025-T1,Moderate,Participated,1.0,3.0,2.0
+AU-ST0138|2025-T2,2025-T2,High,Participated,3.0,1.0,-2.0
+AU-ST0139|2026-T1,2026-T1,No prior results,Not participated,1.25,1.0,-0.25
+AU-ST0140|2024-T1,2024-T1,No prior results,Not participated,1.25,0.33,-0.92
+AU-ST0140|2024-T2,2024-T2,High,Participated,0.33,1.0,0.67
+AU-ST0140|2025-T1,2025-T1,High,Not participated,1.0,2.0,1.0
+AU-ST0140|2025-T2,2025-T2,High,Not participated,2.0,0.0,-2.0
+AU-ST0140|2026-T1,2026-T1,Moderate,Participated,0.0,1.25,1.25
+AU-ST0141|2024-T1,2024-T1,No prior results,Not participated,1.0,1.0,0.0
+AU-ST0141|2024-T2,2024-T2,High,Participated,1.0,0.0,-1.0
+AU-ST0141|2025-T1,2025-T1,High,Not participated,0.0,0.0,0.0
+AU-ST0141|2025-T2,2025-T2,High,Participated,0.0,1.0,1.0
+AU-ST0141|2026-T1,2026-T1,High,Participated,1.0,1.0,0.0
+AU-ST0142|2024-T1,2024-T1,No prior results,Not participated,0.67,2.25,1.58
+AU-ST0142|2024-T2,2024-T2,High,Not participated,2.25,2.0,-0.25
+AU-ST0142|2025-T1,2025-T1,Moderate,Not participated,2.0,0.67,-1.33
+AU-ST0142|2025-T2,2025-T2,Moderate,Not participated,0.67,2.0,1.33
+AU-ST0142|2026-T1,2026-T1,High,Not participated,2.0,0.67,-1.33
+AU-ST0143|2024-T1,2024-T1,No prior results,Not participated,0.5,3.0,2.5
+AU-ST0143|2024-T2,2024-T2,High,Not participated,3.0,0.0,-3.0
+AU-ST0143|2025-T1,2025-T1,Moderate,Participated,0.0,1.0,1.0
+AU-ST0143|2025-T2,2025-T2,High,Not participated,1.0,2.0,1.0
+AU-ST0144|2026-T1,2026-T1,No prior results,Not participated,1.33,1.0,-0.33
+AU-ST0145|2024-T1,2024-T1,No prior results,Not participated,1.5,1.0,-0.5
+AU-ST0145|2024-T2,2024-T2,High,Participated,1.0,1.0,0.0
+AU-ST0145|2025-T1,2025-T1,High,Not participated,1.0,0.67,-0.33
+AU-ST0145|2025-T2,2025-T2,High,Participated,0.67,0.67,0.0
+AU-ST0145|2026-T1,2026-T1,High,Not participated,0.67,0.5,-0.17
+AU-ST0146|2025-T1,2025-T1,No prior results,Not participated,1.33,2.25,0.92
+AU-ST0146|2025-T2,2025-T2,High,Participated,2.25,1.67,-0.58
+AU-ST0146|2026-T1,2026-T1,Moderate,Not participated,1.67,1.67,0.0
+AU-ST0147|2026-T1,2026-T1,No prior results,Not participated,0.0,0.75,0.75
+AU-ST0148|2024-T1,2024-T1,No prior results,Not participated,2.25,0.33,-1.92
+AU-ST0148|2024-T2,2024-T2,Moderate,Not participated,0.33,2.25,1.92
+AU-ST0148|2025-T1,2025-T1,High,Participated,2.25,1.75,-0.5
+AU-ST0148|2025-T2,2025-T2,Moderate,Not participated,1.75,1.67,-0.08
+AU-ST0148|2026-T1,2026-T1,Moderate,Not participated,1.67,2.0,0.33
+AU-ST0149|2024-T2,2024-T2,No prior results,Not participated,2.0,0.75,-1.25
+AU-ST0149|2025-T1,2025-T1,High,Participated,0.75,1.75,1.0
+AU-ST0149|2025-T2,2025-T2,High,Not participated,1.75,1.25,-0.5
+AU-ST0149|2026-T1,2026-T1,Moderate,Participated,1.25,2.33,1.08
+AU-ST0150|2025-T1,2025-T1,No prior results,Not participated,3.0,3.0,0.0
+AU-ST0150|2025-T2,2025-T2,Low,Not participated,3.0,2.0,-1.0
+AU-ST0150|2026-T1,2026-T1,Low,Not participated,2.0,4.0,2.0
+AU-ST0151|2026-T1,2026-T1,No prior results,Not participated,3.25,2.33,-0.92
+AU-ST0152|2025-T1,2025-T1,No prior results,Not participated,1.0,0.5,-0.5
+AU-ST0152|2025-T2,2025-T2,High,Not participated,0.5,1.5,1.0
+AU-ST0152|2026-T1,2026-T1,High,Participated,1.5,1.0,-0.5
+AU-ST0153|2026-T1,2026-T1,No prior results,Not participated,3.0,3.0,0.0
+AU-ST0154|2025-T1,2025-T1,No prior results,Not participated,0.75,0.25,-0.5
+AU-ST0154|2025-T2,2025-T2,High,Participated,0.25,0.67,0.42
+AU-ST0154|2026-T1,2026-T1,High,Not participated,0.67,1.25,0.58
+AU-ST0155|2025-T2,2025-T2,No prior results,Not participated,1.0,1.0,0.0
+AU-ST0155|2026-T1,2026-T1,High,Participated,1.0,1.0,0.0
+AU-ST0156|2024-T2,2024-T2,No prior results,Not participated,0.5,0.0,-0.5
+AU-ST0156|2025-T1,2025-T1,High,Participated,0.0,1.0,1.0
+AU-ST0156|2025-T2,2025-T2,High,Not participated,1.0,2.5,1.5
+AU-ST0156|2026-T1,2026-T1,High,Not participated,2.5,1.0,-1.5
+AU-ST0157|2024-T2,2024-T2,No prior results,Not participated,1.0,0.33,-0.67
+AU-ST0157|2025-T1,2025-T1,High,Participated,0.33,3.5,3.17
+AU-ST0157|2025-T2,2025-T2,High,Not participated,3.5,0.67,-2.83
+AU-ST0157|2026-T1,2026-T1,Low,Participated,0.67,2.0,1.33
+AU-ST0158|2025-T1,2025-T1,No prior results,Not participated,1.5,1.0,-0.5
+AU-ST0158|2025-T2,2025-T2,High,Participated,1.0,0.5,-0.5
+AU-ST0158|2026-T1,2026-T1,High,Participated,0.5,0.0,-0.5
+AU-ST0159|2024-T2,2024-T2,No prior results,Not participated,2.0,1.25,-0.75
+AU-ST0159|2025-T1,2025-T1,Moderate,Not participated,1.25,3.0,1.75
+AU-ST0159|2025-T2,2025-T2,High,Not participated,3.0,2.5,-0.5
+AU-ST0159|2026-T1,2026-T1,Low,Not participated,2.5,2.5,0.0
+AU-ST0160|2024-T1,2024-T1,No prior results,Not participated,2.0,1.0,-1.0
+AU-ST0160|2024-T2,2024-T2,Moderate,Not participated,1.0,2.0,1.0
+AU-ST0160|2025-T1,2025-T1,High,Participated,2.0,4.0,2.0
+AU-ST0160|2025-T2,2025-T2,Moderate,Not participated,4.0,3.5,-0.5
+AU-ST0160|2026-T1,2026-T1,Low,Participated,3.5,3.5,0.0
+AU-ST0161|2024-T2,2024-T2,No prior results,Not participated,2.0,1.75,-0.25
+AU-ST0161|2025-T1,2025-T1,Moderate,Not participated,1.75,2.33,0.58
+AU-ST0161|2025-T2,2025-T2,Moderate,Not participated,2.33,2.67,0.34
+AU-ST0161|2026-T1,2026-T1,High,Not participated,2.67,2.33,-0.34
+AU-ST0162|2024-T1,2024-T1,No prior results,Not participated,2.67,2.75,0.08
+AU-ST0162|2024-T2,2024-T2,Low,Not participated,2.75,1.67,-1.08
+AU-ST0162|2025-T1,2025-T1,Low,Not participated,1.67,1.25,-0.42
+AU-ST0162|2025-T2,2025-T2,High,Not participated,1.25,2.33,1.08
+AU-ST0162|2026-T1,2026-T1,High,Not participated,2.33,2.25,-0.08
+AU-ST0163|2024-T1,2024-T1,No prior results,Not participated,2.5,2.67,0.17
+AU-ST0163|2024-T2,2024-T2,Low,Not participated,2.67,2.0,-0.67
+AU-ST0163|2025-T1,2025-T1,Low,Not participated,2.0,1.5,-0.5
+AU-ST0163|2025-T2,2025-T2,Moderate,Not participated,1.5,3.75,2.25
+AU-ST0163|2026-T1,2026-T1,High,Not participated,3.75,3.0,-0.75
+AU-ST0164|2024-T2,2024-T2,No prior results,Not participated,2.67,2.25,-0.42
+AU-ST0164|2025-T1,2025-T1,Moderate,Not participated,2.25,2.25,0.0
+AU-ST0164|2025-T2,2025-T2,Moderate,Participated,2.25,2.67,0.42
+AU-ST0164|2026-T1,2026-T1,Moderate,Not participated,2.67,1.5,-1.17
+AU-ST0165|2024-T1,2024-T1,No prior results,Not participated,2.67,0.0,-2.67
+AU-ST0165|2024-T2,2024-T2,Low,Not participated,0.0,1.0,1.0
+AU-ST0165|2025-T1,2025-T1,High,Not participated,1.0,1.0,0.0
+AU-ST0165|2025-T2,2025-T2,High,Not participated,1.0,1.67,0.67
+AU-ST0165|2026-T1,2026-T1,High,Not participated,1.67,1.0,-0.67
+AU-ST0166|2025-T2,2025-T2,No prior results,Not participated,2.0,2.0,0.0
+AU-ST0166|2026-T1,2026-T1,Moderate,Participated,2.0,3.0,1.0
+AU-ST0167|2026-T1,2026-T1,No prior results,Not participated,0.5,0.0,-0.5
+AU-ST0168|2024-T1,2024-T1,No prior results,Not participated,3.33,3.0,-0.33
+AU-ST0168|2024-T2,2024-T2,Low,Not participated,3.0,2.0,-1.0
+AU-ST0168|2025-T1,2025-T1,Low,Not participated,2.0,0.5,-1.5
+AU-ST0169|2025-T2,2025-T2,No prior results,Not participated,1.75,1.25,-0.5
+AU-ST0169|2026-T1,2026-T1,Moderate,Not participated,1.25,0.67,-0.58
+AU-ST0170|2025-T1,2025-T1,No prior results,Not participated,3.5,0.75,-2.75
+AU-ST0170|2025-T2,2025-T2,Low,Not participated,0.75,1.33,0.58
+AU-ST0171|2025-T1,2025-T1,No prior results,Not participated,2.0,1.5,-0.5
+AU-ST0171|2025-T2,2025-T2,Moderate,Not participated,1.5,2.0,0.5
+AU-ST0171|2026-T1,2026-T1,High,Not participated,2.0,2.67,0.67
+AU-ST0172|2026-T1,2026-T1,No prior results,Not participated,2.0,0.5,-1.5
+AU-ST0173|2024-T1,2024-T1,No prior results,Not participated,1.67,3.0,1.33
+AU-ST0173|2024-T2,2024-T2,High,Not participated,3.0,0.33,-2.67
+AU-ST0173|2025-T1,2025-T1,Low,Not participated,0.33,1.67,1.34
+AU-ST0173|2025-T2,2025-T2,High,Not participated,1.67,1.0,-0.67
+AU-ST0173|2026-T1,2026-T1,High,Participated,1.0,0.0,-1.0
+AU-ST0174|2024-T2,2024-T2,No prior results,Not participated,1.25,2.0,0.75
+AU-ST0174|2025-T1,2025-T1,High,Not participated,2.0,2.33,0.33
+AU-ST0174|2025-T2,2025-T2,Moderate,Not participated,2.33,2.75,0.42
+AU-ST0174|2026-T1,2026-T1,Moderate,Not participated,2.75,2.67,-0.08
+AU-ST0176|2024-T1,2024-T1,No prior results,Participated,0.33,0.33,0.0
+AU-ST0176|2024-T2,2024-T2,High,Not participated,0.33,1.75,1.42
+AU-ST0176|2025-T1,2025-T1,High,Participated,1.75,1.5,-0.25
+AU-ST0176|2025-T2,2025-T2,Moderate,Not participated,1.5,0.33,-1.17
+AU-ST0176|2026-T1,2026-T1,High,Not participated,0.33,1.25,0.92
+AU-ST0177|2025-T1,2025-T1,No prior results,Not participated,2.75,2.33,-0.42
+AU-ST0177|2025-T2,2025-T2,Low,Not participated,2.33,4.0,1.67
+AU-ST0177|2026-T1,2026-T1,Moderate,Not participated,4.0,3.75,-0.25
+AU-ST0179|2026-T1,2026-T1,No prior results,Participated,3.0,3.0,0.0
+AU-ST0180|2026-T1,2026-T1,No prior results,Not participated,2.0,2.0,0.0
+AU-ST0182|2025-T1,2025-T1,No prior results,Not participated,3.0,2.33,-0.67
+AU-ST0182|2025-T2,2025-T2,Low,Not participated,2.33,2.0,-0.33
+AU-ST0182|2026-T1,2026-T1,Moderate,Not participated,2.0,4.0,2.0
+AU-ST0183|2024-T1,2024-T1,No prior results,Not participated,3.0,2.5,-0.5
+AU-ST0183|2024-T2,2024-T2,Low,Not participated,2.5,1.5,-1.0
+AU-ST0183|2025-T1,2025-T1,Low,Not participated,1.5,2.0,0.5
+AU-ST0183|2025-T2,2025-T2,High,Participated,2.0,2.0,0.0
+AU-ST0183|2026-T1,2026-T1,Moderate,Participated,2.0,4.0,2.0
+AU-ST0184|2024-T1,2024-T1,No prior results,Not participated,2.0,3.0,1.0
+AU-ST0184|2024-T2,2024-T2,Moderate,Not participated,3.0,4.0,1.0
+AU-ST0184|2025-T1,2025-T1,Low,Not participated,4.0,1.0,-3.0
+AU-ST0184|2025-T2,2025-T2,Low,Not participated,1.0,1.0,0.0
+AU-ST0184|2026-T1,2026-T1,High,Not participated,1.0,0.5,-0.5
+AU-ST0185|2026-T1,2026-T1,No prior results,Not participated,1.67,0.33,-1.34
+AU-ST0186|2025-T1,2025-T1,No prior results,Not participated,2.0,3.0,1.0
+AU-ST0186|2025-T2,2025-T2,Moderate,Participated,3.0,2.0,-1.0
+AU-ST0186|2026-T1,2026-T1,Low,Not participated,2.0,1.5,-0.5
+AU-ST0187|2025-T1,2025-T1,No prior results,Not participated,1.25,3.25,2.0
+AU-ST0187|2025-T2,2025-T2,High,Participated,3.25,2.0,-1.25
+AU-ST0187|2026-T1,2026-T1,Low,Not participated,2.0,4.0,2.0
+AU-ST0188|2024-T1,2024-T1,No prior results,Not participated,0.0,0.0,0.0
+AU-ST0188|2024-T2,2024-T2,High,Not participated,0.0,0.0,0.0
+AU-ST0188|2025-T1,2025-T1,High,Not participated,0.0,0.0,0.0
+AU-ST0188|2025-T2,2025-T2,High,Not participated,0.0,0.0,0.0
+AU-ST0189|2024-T2,2024-T2,No prior results,Not participated,3.0,1.0,-2.0
+AU-ST0189|2025-T1,2025-T1,Low,Not participated,1.0,2.0,1.0
+AU-ST0189|2025-T2,2025-T2,High,Not participated,2.0,3.33,1.33
+AU-ST0189|2026-T1,2026-T1,Moderate,Not participated,3.33,0.33,-3.0
+AU-ST0190|2025-T1,2025-T1,No prior results,Not participated,2.0,0.5,-1.5
+AU-ST0191|2026-T1,2026-T1,No prior results,Not participated,0.0,0.67,0.67
+AU-ST0192|2024-T1,2024-T1,No prior results,Not participated,0.5,0.25,-0.25
+AU-ST0192|2024-T2,2024-T2,High,Not participated,0.25,0.5,0.25
+AU-ST0192|2026-T1,2026-T1,High,Participated,0.0,0.5,0.5
+AU-ST0193|2025-T2,2025-T2,No prior results,Not participated,2.0,1.0,-1.0
+AU-ST0193|2026-T1,2026-T1,Moderate,Not participated,1.0,2.25,1.25
+AU-ST0194|2026-T1,2026-T1,No prior results,Not participated,3.0,1.5,-1.5
+AU-ST0195|2025-T1,2025-T1,No prior results,Not participated,2.67,1.75,-0.92
+AU-ST0195|2025-T2,2025-T2,Low,Not participated,1.75,3.0,1.25
+AU-ST0195|2026-T1,2026-T1,Moderate,Not participated,3.0,3.25,0.25
+AU-ST0196|2025-T1,2025-T1,No prior results,Not participated,2.5,0.75,-1.75
+AU-ST0196|2025-T2,2025-T2,Moderate,Not participated,0.75,0.5,-0.25
+AU-ST0197|2025-T1,2025-T1,No prior results,Not participated,0.5,0.75,0.25
+AU-ST0197|2025-T2,2025-T2,High,Participated,0.75,2.0,1.25
+AU-ST0197|2026-T1,2026-T1,High,Not participated,2.0,1.5,-0.5
+AU-ST0198|2024-T2,2024-T2,No prior results,Not participated,2.0,2.0,0.0
+AU-ST0198|2025-T1,2025-T1,Moderate,Not participated,2.0,2.0,0.0
+AU-ST0198|2025-T2,2025-T2,Moderate,Not participated,2.0,3.0,1.0
+AU-ST0198|2026-T1,2026-T1,Moderate,Not participated,3.0,2.25,-0.75
+AU-ST0199|2024-T1,2024-T1,No prior results,Not participated,2.0,1.25,-0.75
+AU-ST0199|2024-T2,2024-T2,Moderate,Not participated,1.25,2.67,1.42
+AU-ST0199|2025-T1,2025-T1,High,Not participated,2.67,1.75,-0.92
+AU-ST0199|2025-T2,2025-T2,Moderate,Not participated,1.75,2.0,0.25
+AU-ST0199|2026-T1,2026-T1,Moderate,Not participated,2.0,2.0,0.0
+AU-ST0200|2025-T2,2025-T2,No prior results,Not participated,2.25,2.0,-0.25
+AU-ST0200|2026-T1,2026-T1,Moderate,Not participated,2.0,3.0,1.0
+AU-ST0201|2024-T1,2024-T1,No prior results,Not participated,2.25,2.67,0.42
+AU-ST0201|2024-T2,2024-T2,Moderate,Not participated,2.67,4.0,1.33
+AU-ST0201|2025-T1,2025-T1,Low,Not participated,4.0,3.0,-1.0
+AU-ST0201|2025-T2,2025-T2,Low,Not participated,3.0,3.5,0.5
+AU-ST0201|2026-T1,2026-T1,Low,Not participated,3.5,3.25,-0.25
+AU-ST0202|2024-T2,2024-T2,No prior results,Not participated,1.5,2.0,0.5
+AU-ST0202|2025-T1,2025-T1,High,Participated,2.0,1.0,-1.0
+AU-ST0203|2025-T1,2025-T1,No prior results,Not participated,0.75,0.5,-0.25
+AU-ST0203|2025-T2,2025-T2,High,Participated,0.5,0.67,0.17
+AU-ST0203|2026-T1,2026-T1,High,Participated,0.67,0.25,-0.42
+AU-ST0204|2025-T2,2025-T2,No prior results,Not participated,1.67,3.0,1.33
+AU-ST0204|2026-T1,2026-T1,High,Not participated,3.0,1.67,-1.33
+AU-ST0205|2024-T2,2024-T2,No prior results,Not participated,2.25,1.75,-0.5
+AU-ST0205|2025-T1,2025-T1,Moderate,Not participated,1.75,1.33,-0.42
+AU-ST0205|2025-T2,2025-T2,Moderate,Not participated,1.33,2.33,1.0
+AU-ST0205|2026-T1,2026-T1,High,Participated,2.33,2.67,0.34
+AU-ST0206|2025-T1,2025-T1,No prior results,Participated,3.25,2.33,-0.92
+AU-ST0206|2025-T2,2025-T2,Low,Participated,2.33,2.0,-0.33
+AU-ST0206|2026-T1,2026-T1,Moderate,Not participated,2.0,2.25,0.25
+AU-ST0207|2024-T2,2024-T2,No prior results,Not participated,2.75,2.0,-0.75
+AU-ST0207|2025-T1,2025-T1,Low,Not participated,2.0,2.75,0.75
+AU-ST0207|2025-T2,2025-T2,Moderate,Not participated,2.75,3.0,0.25
+AU-ST0207|2026-T1,2026-T1,Moderate,Not participated,3.0,2.75,-0.25
+AU-ST0208|2025-T1,2025-T1,No prior results,Not participated,2.0,3.0,1.0
+AU-ST0208|2025-T2,2025-T2,Moderate,Not participated,3.0,0.67,-2.33
+AU-ST0208|2026-T1,2026-T1,Low,Not participated,0.67,1.67,1.0
+AU-ST0209|2025-T1,2025-T1,No prior results,Not participated,1.0,0.0,-1.0
+AU-ST0209|2025-T2,2025-T2,High,Participated,0.0,0.5,0.5
+AU-ST0209|2026-T1,2026-T1,High,Not participated,0.5,0.5,0.0
+AU-ST0210|2025-T2,2025-T2,No prior results,Not participated,0.0,3.0,3.0
+AU-ST0210|2026-T1,2026-T1,High,Participated,3.0,1.5,-1.5
+AU-ST0211|2026-T1,2026-T1,No prior results,Not participated,3.0,2.67,-0.33
+AU-ST0212|2025-T1,2025-T1,No prior results,Participated,1.33,2.0,0.67
+AU-ST0212|2025-T2,2025-T2,High,Not participated,2.0,1.25,-0.75
+AU-ST0212|2026-T1,2026-T1,Moderate,Not participated,1.25,1.67,0.42
+AU-ST0213|2024-T2,2024-T2,No prior results,Not participated,3.0,1.67,-1.33
+AU-ST0213|2025-T1,2025-T1,Low,Not participated,1.67,0.5,-1.17
+AU-ST0213|2025-T2,2025-T2,High,Not participated,0.5,3.0,2.5
+AU-ST0213|2026-T1,2026-T1,High,Participated,3.0,0.5,-2.5
+AU-ST0214|2024-T1,2024-T1,No prior results,Not participated,0.33,2.5,2.17
+AU-ST0214|2024-T2,2024-T2,High,Not participated,2.5,1.75,-0.75
+AU-ST0214|2025-T1,2025-T1,Low,Not participated,1.75,2.0,0.25
+AU-ST0214|2025-T2,2025-T2,Moderate,Not participated,2.0,2.67,0.67
+AU-ST0214|2026-T1,2026-T1,Moderate,Participated,2.67,0.5,-2.17
+AU-ST0215|2026-T1,2026-T1,No prior results,Not participated,3.75,3.33,-0.42
+AU-ST0216|2024-T1,2024-T1,No prior results,Not participated,4.0,3.67,-0.33
+AU-ST0216|2024-T2,2024-T2,Low,Not participated,3.67,3.0,-0.67
+AU-ST0216|2025-T1,2025-T1,Low,Not participated,3.0,2.5,-0.5
+AU-ST0216|2025-T2,2025-T2,Low,Participated,2.5,3.0,0.5
+AU-ST0216|2026-T1,2026-T1,Low,Not participated,3.0,4.0,1.0
+AU-ST0217|2024-T1,2024-T1,No prior results,Not participated,1.67,1.33,-0.34
+AU-ST0217|2024-T2,2024-T2,High,Not participated,1.33,2.0,0.67
+AU-ST0217|2025-T1,2025-T1,High,Not participated,2.0,2.75,0.75
+AU-ST0217|2025-T2,2025-T2,Moderate,Not participated,2.75,3.5,0.75
+AU-ST0217|2026-T1,2026-T1,Low,Not participated,3.5,3.5,0.0
+AU-ST0218|2024-T2,2024-T2,No prior results,Not participated,0.67,0.67,0.0
+AU-ST0218|2025-T1,2025-T1,High,Participated,0.67,0.5,-0.17
+AU-ST0218|2025-T2,2025-T2,High,Not participated,0.5,1.75,1.25
+AU-ST0218|2026-T1,2026-T1,High,Not participated,1.75,1.0,-0.75
+AU-ST0220|2024-T1,2024-T1,No prior results,Not participated,1.33,1.75,0.42
+AU-ST0220|2024-T2,2024-T2,High,Not participated,1.75,3.25,1.5
+AU-ST0220|2025-T1,2025-T1,Moderate,Not participated,3.25,1.75,-1.5
+AU-ST0220|2025-T2,2025-T2,Low,Not participated,1.75,1.33,-0.42
+AU-ST0220|2026-T1,2026-T1,Moderate,Participated,1.33,2.0,0.67
+AU-ST0221|2025-T1,2025-T1,No prior results,Not participated,0.33,1.67,1.34
+AU-ST0221|2025-T2,2025-T2,High,Not participated,1.67,2.0,0.33
+AU-ST0221|2026-T1,2026-T1,High,Not participated,2.0,2.25,0.25
+AU-ST0222|2026-T1,2026-T1,No prior results,Participated,0.0,0.5,0.5
+AU-ST0223|2026-T1,2026-T1,No prior results,Not participated,4.0,4.0,0.0
+AU-ST0224|2026-T1,2026-T1,No prior results,Participated,1.33,2.0,0.67
+AU-ST0225|2025-T1,2025-T1,No prior results,Not participated,2.0,1.0,-1.0
+AU-ST0225|2025-T2,2025-T2,Moderate,Participated,1.0,1.33,0.33
+AU-ST0226|2024-T1,2024-T1,No prior results,Not participated,1.0,2.0,1.0
+AU-ST0226|2024-T2,2024-T2,High,Participated,2.0,0.0,-2.0
+AU-ST0226|2025-T1,2025-T1,Moderate,Not participated,0.0,0.0,0.0
+AU-ST0226|2025-T2,2025-T2,High,Not participated,0.0,0.0,0.0
+AU-ST0226|2026-T1,2026-T1,High,Not participated,0.0,0.5,0.5
+AU-ST0228|2024-T1,2024-T1,No prior results,Not participated,2.25,0.67,-1.58
+AU-ST0228|2024-T2,2024-T2,Moderate,Not participated,0.67,1.5,0.83
+AU-ST0228|2025-T1,2025-T1,High,Not participated,1.5,1.67,0.17
+AU-ST0230|2025-T1,2025-T1,No prior results,Not participated,2.67,1.67,-1.0
+AU-ST0230|2025-T2,2025-T2,Low,Not participated,1.67,1.5,-0.17
+AU-ST0230|2026-T1,2026-T1,High,Not participated,1.5,3.0,1.5
+AU-ST0232|2025-T1,2025-T1,No prior results,Participated,2.0,3.0,1.0
+AU-ST0232|2025-T2,2025-T2,Moderate,Participated,3.0,1.0,-2.0
+AU-ST0232|2026-T1,2026-T1,Low,Not participated,1.0,1.33,0.33
+AU-ST0233|2024-T1,2024-T1,No prior results,Not participated,3.0,2.0,-1.0
+AU-ST0233|2024-T2,2024-T2,Low,Not participated,2.0,2.25,0.25
+AU-ST0233|2025-T1,2025-T1,Moderate,Participated,2.25,0.67,-1.58
+AU-ST0233|2025-T2,2025-T2,Moderate,Not participated,0.67,3.67,3.0
+AU-ST0233|2026-T1,2026-T1,High,Not participated,3.67,2.67,-1.0
+AU-ST0234|2025-T2,2025-T2,No prior results,Not participated,4.0,4.0,0.0
+AU-ST0234|2026-T1,2026-T1,Low,Not participated,4.0,2.0,-2.0
+AU-ST0236|2026-T1,2026-T1,No prior results,Not participated,4.0,3.67,-0.33
+AU-ST0237|2025-T2,2025-T2,No prior results,Not participated,1.0,1.75,0.75
+AU-ST0237|2026-T1,2026-T1,High,Not participated,1.75,3.25,1.5
+AU-ST0239|2024-T1,2024-T1,No prior results,Not participated,0.0,0.5,0.5
+AU-ST0239|2024-T2,2024-T2,High,Participated,0.5,1.0,0.5
+AU-ST0239|2025-T1,2025-T1,High,Participated,1.0,1.0,0.0
+AU-ST0239|2025-T2,2025-T2,High,Not participated,1.0,1.0,0.0
+AU-ST0239|2026-T1,2026-T1,High,Not participated,1.0,0.33,-0.67
+AU-ST0240|2025-T1,2025-T1,No prior results,Not participated,3.67,3.33,-0.34
+AU-ST0240|2025-T2,2025-T2,Low,Not participated,3.33,1.75,-1.58
+AU-ST0240|2026-T1,2026-T1,Low,Not participated,1.75,1.33,-0.42
+AU-ST0242|2024-T1,2024-T1,No prior results,Not participated,0.0,0.5,0.5
+AU-ST0242|2024-T2,2024-T2,High,Participated,0.5,0.33,-0.17
+AU-ST0243|2025-T1,2025-T1,No prior results,Not participated,0.0,0.0,0.0
+AU-ST0243|2025-T2,2025-T2,High,Not participated,0.0,0.0,0.0
+AU-ST0243|2026-T1,2026-T1,High,Participated,0.0,0.0,0.0
+AU-ST0244|2024-T1,2024-T1,No prior results,Not participated,2.0,1.0,-1.0
+AU-ST0244|2024-T2,2024-T2,Moderate,Participated,1.0,3.0,2.0
+AU-ST0244|2025-T1,2025-T1,High,Not participated,3.0,2.5,-0.5
+AU-ST0244|2025-T2,2025-T2,Low,Not participated,2.5,2.25,-0.25
+AU-ST0244|2026-T1,2026-T1,Low,Not participated,2.25,2.25,0.0
+AU-ST0245|2024-T1,2024-T1,No prior results,Not participated,0.0,1.67,1.67
+AU-ST0245|2024-T2,2024-T2,High,Not participated,1.67,2.67,1.0
+AU-ST0245|2025-T1,2025-T1,High,Not participated,2.67,1.67,-1.0
+AU-ST0245|2025-T2,2025-T2,Low,Not participated,1.67,1.25,-0.42
+AU-ST0245|2026-T1,2026-T1,High,Not participated,1.25,1.0,-0.25
+AU-ST0246|2024-T2,2024-T2,No prior results,Not participated,1.5,1.0,-0.5
+AU-ST0246|2025-T1,2025-T1,High,Not participated,1.0,4.0,3.0
+AU-ST0246|2025-T2,2025-T2,High,Not participated,4.0,2.0,-2.0
+AU-ST0246|2026-T1,2026-T1,Low,Not participated,2.0,3.0,1.0
+AU-ST0247|2024-T1,2024-T1,No prior results,Not participated,4.0,3.0,-1.0
+AU-ST0247|2024-T2,2024-T2,Low,Not participated,3.0,4.0,1.0
+AU-ST0247|2025-T1,2025-T1,Low,Not participated,4.0,3.0,-1.0
+AU-ST0247|2025-T2,2025-T2,Low,Not participated,3.0,2.0,-1.0
+AU-ST0247|2026-T1,2026-T1,Low,Not participated,2.0,2.5,0.5
+AU-ST0248|2024-T2,2024-T2,No prior results,Not participated,2.5,2.0,-0.5
+AU-ST0248|2025-T1,2025-T1,Low,Not participated,2.0,2.33,0.33
+AU-ST0248|2025-T2,2025-T2,Moderate,Not participated,2.33,2.0,-0.33
+AU-ST0248|2026-T1,2026-T1,Moderate,Not participated,2.0,3.0,1.0
+AU-ST0249|2026-T1,2026-T1,No prior results,Participated,3.33,3.5,0.17
+AU-ST0250|2024-T1,2024-T1,No prior results,Not participated,3.75,3.67,-0.08
+AU-ST0250|2024-T2,2024-T2,Low,Not participated,3.67,3.75,0.08
+AU-ST0250|2025-T1,2025-T1,Low,Not participated,3.75,2.75,-1.0
+AU-ST0250|2025-T2,2025-T2,Low,Not participated,2.75,3.67,0.92
+AU-ST0250|2026-T1,2026-T1,Low,Not participated,3.67,3.75,0.08
+AU-ST0251|2025-T2,2025-T2,No prior results,Not participated,1.0,1.33,0.33
+AU-ST0251|2026-T1,2026-T1,High,Not participated,1.33,2.25,0.92
+AU-ST0252|2025-T1,2025-T1,No prior results,Not participated,0.5,1.67,1.17
+AU-ST0252|2025-T2,2025-T2,High,Not participated,1.67,0.33,-1.34
+AU-ST0252|2026-T1,2026-T1,High,Not participated,0.33,0.67,0.34
+AU-ST0253|2024-T2,2024-T2,No prior results,Not participated,0.0,0.0,0.0
+AU-ST0253|2025-T1,2025-T1,High,Participated,0.0,0.33,0.33
+AU-ST0253|2025-T2,2025-T2,High,Not participated,0.33,0.75,0.42
+AU-ST0253|2026-T1,2026-T1,High,Participated,0.75,1.67,0.92
+AU-ST0254|2024-T1,2024-T1,No prior results,Not participated,3.67,3.0,-0.67
+AU-ST0254|2024-T2,2024-T2,Low,Not participated,3.0,3.5,0.5
+AU-ST0254|2025-T1,2025-T1,Low,Not participated,3.5,3.25,-0.25
+AU-ST0257|2026-T1,2026-T1,No prior results,Not participated,1.33,1.33,0.0
+AU-ST0258|2024-T1,2024-T1,No prior results,Not participated,1.33,1.25,-0.08
+AU-ST0258|2024-T2,2024-T2,High,Not participated,1.25,1.0,-0.25
+AU-ST0258|2025-T1,2025-T1,High,Not participated,1.0,1.33,0.33
+AU-ST0258|2025-T2,2025-T2,High,Not participated,1.33,0.5,-0.83
+AU-ST0258|2026-T1,2026-T1,High,Participated,0.5,1.0,0.5
+AU-ST0259|2026-T1,2026-T1,No prior results,Not participated,0.25,0.67,0.42
+AU-ST0260|2025-T1,2025-T1,No prior results,Not participated,0.0,1.5,1.5
+AU-ST0260|2025-T2,2025-T2,High,Participated,1.5,1.0,-0.5
+AU-ST0260|2026-T1,2026-T1,High,Not participated,1.0,3.0,2.0
+AU-ST0261|2025-T1,2025-T1,No prior results,Not participated,1.67,3.33,1.66
+AU-ST0261|2025-T2,2025-T2,High,Not participated,3.33,3.0,-0.33
+AU-ST0261|2026-T1,2026-T1,Low,Not participated,3.0,3.25,0.25
+AU-ST0262|2024-T2,2024-T2,No prior results,Not participated,2.33,2.33,0.0
+AU-ST0262|2025-T1,2025-T1,Moderate,Not participated,2.33,3.67,1.34
+AU-ST0262|2025-T2,2025-T2,Moderate,Not participated,3.67,3.5,-0.17
+AU-ST0262|2026-T1,2026-T1,Low,Participated,3.5,3.75,0.25
+AU-ST0263|2025-T1,2025-T1,No prior results,Not participated,2.0,3.0,1.0
+AU-ST0263|2025-T2,2025-T2,Moderate,Not participated,3.0,2.5,-0.5
+AU-ST0263|2026-T1,2026-T1,Low,Not participated,2.5,0.5,-2.0
+AU-ST0264|2024-T1,2024-T1,No prior results,Not participated,4.0,0.0,-4.0
+AU-ST0264|2024-T2,2024-T2,Low,Not participated,0.0,1.0,1.0
+AU-ST0264|2025-T1,2025-T1,High,Participated,1.0,2.0,1.0
+AU-ST0264|2025-T2,2025-T2,High,Participated,2.0,1.5,-0.5
+AU-ST0265|2025-T1,2025-T1,No prior results,Not participated,2.0,4.0,2.0
+AU-ST0265|2025-T2,2025-T2,Moderate,Participated,4.0,3.0,-1.0
+AU-ST0265|2026-T1,2026-T1,Low,Not participated,3.0,4.0,1.0
+AU-ST0266|2025-T2,2025-T2,No prior results,Not participated,3.0,3.0,0.0
+AU-ST0266|2026-T1,2026-T1,Low,Not participated,3.0,2.75,-0.25
+AU-ST0267|2026-T1,2026-T1,No prior results,Not participated,1.0,2.25,1.25
+AU-ST0268|2024-T1,2024-T1,No prior results,Not participated,1.0,2.0,1.0
+AU-ST0268|2024-T2,2024-T2,High,Not participated,2.0,2.0,0.0
+AU-ST0268|2025-T1,2025-T1,Moderate,Not participated,2.0,0.5,-1.5
+AU-ST0268|2025-T2,2025-T2,Moderate,Not participated,0.5,0.5,0.0
+AU-ST0269|2025-T1,2025-T1,No prior results,Not participated,1.25,1.0,-0.25
+AU-ST0269|2025-T2,2025-T2,High,Not participated,1.0,2.25,1.25
+AU-ST0269|2026-T1,2026-T1,High,Not participated,2.25,2.0,-0.25
+AU-ST0270|2024-T1,2024-T1,No prior results,Not participated,2.67,2.0,-0.67
+AU-ST0270|2024-T2,2024-T2,Low,Not participated,2.0,3.0,1.0
+AU-ST0270|2025-T1,2025-T1,Moderate,Participated,3.0,2.67,-0.33
+AU-ST0270|2025-T2,2025-T2,Low,Not participated,2.67,1.67,-1.0
+AU-ST0270|2026-T1,2026-T1,Low,Not participated,1.67,2.67,1.0
+AU-ST0271|2024-T2,2024-T2,No prior results,Not participated,1.0,2.0,1.0
+AU-ST0271|2025-T1,2025-T1,High,Participated,2.0,3.0,1.0
+AU-ST0271|2025-T2,2025-T2,Moderate,Not participated,3.0,1.5,-1.5
+AU-ST0271|2026-T1,2026-T1,Moderate,Not participated,1.5,2.0,0.5
+AU-ST0272|2024-T1,2024-T1,No prior results,Not participated,0.0,0.5,0.5
+AU-ST0272|2024-T2,2024-T2,High,Participated,0.5,0.33,-0.17
+AU-ST0272|2025-T1,2025-T1,High,Participated,0.33,1.0,0.67
+AU-ST0272|2025-T2,2025-T2,High,Not participated,1.0,0.5,-0.5
+AU-ST0272|2026-T1,2026-T1,High,Not participated,0.5,0.0,-0.5
+AU-ST0274|2024-T2,2024-T2,No prior results,Not participated,2.5,0.0,-2.5
+AU-ST0274|2025-T1,2025-T1,Low,Not participated,0.0,4.0,4.0
+AU-ST0274|2025-T2,2025-T2,High,Not participated,4.0,0.5,-3.5
+AU-ST0274|2026-T1,2026-T1,Low,Not participated,0.5,3.0,2.5
+AU-ST0275|2024-T1,2024-T1,No prior results,Not participated,3.0,2.5,-0.5
+AU-ST0275|2024-T2,2024-T2,Low,Not participated,2.5,3.0,0.5
+AU-ST0275|2025-T1,2025-T1,Moderate,Not participated,3.0,4.0,1.0
+AU-ST0275|2025-T2,2025-T2,Low,Not participated,4.0,2.67,-1.33
+AU-ST0275|2026-T1,2026-T1,Low,Not participated,2.67,0.5,-2.17
+AU-ST0276|2025-T1,2025-T1,No prior results,Not participated,3.0,3.5,0.5
+AU-ST0276|2025-T2,2025-T2,Low,Not participated,3.5,2.0,-1.5
+AU-ST0276|2026-T1,2026-T1,Low,Not participated,2.0,1.75,-0.25
+AU-ST0277|2024-T1,2024-T1,No prior results,Not participated,3.67,4.0,0.33
+AU-ST0277|2024-T2,2024-T2,Low,Not participated,4.0,3.5,-0.5
+AU-ST0277|2025-T1,2025-T1,Low,Not participated,3.5,3.75,0.25
+AU-ST0277|2025-T2,2025-T2,Low,Not participated,3.75,2.5,-1.25
+AU-ST0277|2026-T1,2026-T1,Low,Not participated,2.5,2.67,0.17
+AU-ST0278|2025-T1,2025-T1,No prior results,Not participated,1.0,0.75,-0.25
+AU-ST0278|2025-T2,2025-T2,High,Not participated,0.75,0.0,-0.75
+AU-ST0279|2025-T1,2025-T1,No prior results,Participated,1.0,0.5,-0.5
+AU-ST0279|2025-T2,2025-T2,High,Participated,0.5,0.67,0.17
+AU-ST0279|2026-T1,2026-T1,High,Not participated,0.67,1.67,1.0
+AU-ST0280|2024-T1,2024-T1,No prior results,Not participated,3.5,3.67,0.17
+AU-ST0280|2024-T2,2024-T2,Low,Not participated,3.67,2.67,-1.0
+AU-ST0280|2025-T1,2025-T1,Low,Not participated,2.67,1.5,-1.17
+AU-ST0280|2025-T2,2025-T2,Low,Participated,1.5,4.0,2.5
+AU-ST0280|2026-T1,2026-T1,High,Not participated,4.0,4.0,0.0
+AU-ST0281|2024-T1,2024-T1,No prior results,Not participated,2.5,1.25,-1.25
+AU-ST0281|2024-T2,2024-T2,Low,Not participated,1.25,2.0,0.75
+AU-ST0281|2025-T1,2025-T1,High,Not participated,2.0,1.0,-1.0
+AU-ST0281|2025-T2,2025-T2,Moderate,Participated,1.0,2.33,1.33
+AU-ST0281|2026-T1,2026-T1,High,Not participated,2.33,1.0,-1.33
+AU-ST0282|2024-T1,2024-T1,No prior results,Not participated,1.5,1.5,0.0
+AU-ST0282|2024-T2,2024-T2,High,Participated,1.5,0.5,-1.0
+AU-ST0282|2025-T1,2025-T1,High,Participated,0.5,0.5,0.0
+AU-ST0282|2025-T2,2025-T2,High,Not participated,0.5,1.0,0.5
+AU-ST0282|2026-T1,2026-T1,High,Not participated,1.0,0.0,-1.0
+AU-ST0283|2024-T1,2024-T1,No prior results,Not participated,0.0,1.0,1.0
+AU-ST0283|2024-T2,2024-T2,High,Participated,1.0,0.0,-1.0
+AU-ST0283|2025-T1,2025-T1,High,Not participated,0.0,0.0,0.0
+AU-ST0283|2025-T2,2025-T2,High,Participated,0.0,2.0,2.0
+AU-ST0283|2026-T1,2026-T1,High,Not participated,2.0,1.0,-1.0
+AU-ST0284|2025-T1,2025-T1,No prior results,Not participated,3.0,2.67,-0.33
+AU-ST0284|2025-T2,2025-T2,Low,Not participated,2.67,3.5,0.83
+AU-ST0284|2026-T1,2026-T1,Low,Not participated,3.5,1.33,-2.17
+AU-ST0285|2024-T1,2024-T1,No prior results,Not participated,0.67,3.67,3.0
+AU-ST0285|2024-T2,2024-T2,High,Participated,3.67,2.33,-1.34
+AU-ST0285|2025-T1,2025-T1,Low,Not participated,2.33,2.33,0.0
+AU-ST0285|2025-T2,2025-T2,Moderate,Not participated,2.33,2.0,-0.33
+AU-ST0285|2026-T1,2026-T1,Moderate,Not participated,2.0,2.33,0.33
+AU-ST0286|2025-T2,2025-T2,No prior results,Not participated,2.75,4.0,1.25
+AU-ST0287|2025-T2,2025-T2,No prior results,Not participated,1.0,1.5,0.5
+AU-ST0287|2026-T1,2026-T1,High,Not participated,1.5,2.0,0.5
+AU-ST0288|2025-T1,2025-T1,No prior results,Not participated,2.33,1.33,-1.0
+AU-ST0288|2025-T2,2025-T2,Moderate,Participated,1.33,0.5,-0.83
+AU-ST0288|2026-T1,2026-T1,High,Participated,0.5,0.0,-0.5
+AU-ST0290|2024-T2,2024-T2,No prior results,Not participated,2.5,2.0,-0.5
+AU-ST0290|2025-T1,2025-T1,Low,Not participated,2.0,2.0,0.0
+AU-ST0290|2025-T2,2025-T2,Moderate,Not participated,2.0,1.25,-0.75
+AU-ST0290|2026-T1,2026-T1,Moderate,Not participated,1.25,0.25,-1.0
+AU-ST0291|2024-T1,2024-T1,No prior results,Not participated,3.67,4.0,0.33
+AU-ST0291|2024-T2,2024-T2,Low,Not participated,4.0,3.33,-0.67
+AU-ST0291|2025-T1,2025-T1,Low,Not participated,3.33,4.0,0.67
+AU-ST0291|2025-T2,2025-T2,Low,Not participated,4.0,3.5,-0.5
+AU-ST0291|2026-T1,2026-T1,Low,Not participated,3.5,3.75,0.25
+AU-ST0292|2026-T1,2026-T1,No prior results,Not participated,3.0,3.25,0.25
+AU-ST0294|2024-T1,2024-T1,No prior results,Not participated,2.0,2.67,0.67
+AU-ST0294|2024-T2,2024-T2,Moderate,Not participated,2.67,2.25,-0.42
+AU-ST0294|2025-T1,2025-T1,Low,Not participated,2.25,2.0,-0.25
+AU-ST0294|2025-T2,2025-T2,Moderate,Participated,2.0,2.67,0.67
+AU-ST0294|2026-T1,2026-T1,Moderate,Not participated,2.67,2.0,-0.67
+AU-ST0296|2024-T2,2024-T2,No prior results,Not participated,3.0,3.25,0.25
+AU-ST0296|2025-T1,2025-T1,Low,Not participated,3.25,2.0,-1.25
+AU-ST0296|2025-T2,2025-T2,Low,Not participated,2.0,2.67,0.67
+AU-ST0296|2026-T1,2026-T1,Moderate,Not participated,2.67,2.0,-0.67
+AU-ST0299|2025-T1,2025-T1,No prior results,Not participated,1.33,0.67,-0.66
+AU-ST0299|2025-T2,2025-T2,High,Not participated,0.67,2.0,1.33
+AU-ST0299|2026-T1,2026-T1,High,Participated,2.0,2.25,0.25
+AU-ST0300|2024-T2,2024-T2,No prior results,Not participated,1.33,2.0,0.67
+AU-ST0300|2025-T1,2025-T1,High,Participated,2.0,2.33,0.33
+AU-ST0300|2025-T2,2025-T2,Moderate,Not participated,2.33,2.0,-0.33
+AU-ST0301|2024-T2,2024-T2,No prior results,Not participated,2.5,1.0,-1.5
+AU-ST0301|2025-T1,2025-T1,Moderate,Not participated,1.0,0.5,-0.5
+AU-ST0301|2025-T2,2025-T2,High,Participated,0.5,1.75,1.25
+AU-ST0301|2026-T1,2026-T1,High,Not participated,1.75,2.25,0.5
+AU-ST0302|2024-T1,2024-T1,No prior results,Not participated,3.0,3.0,0.0
+AU-ST0302|2025-T2,2025-T2,Low,Not participated,3.5,3.0,-0.5
+AU-ST0302|2026-T1,2026-T1,Low,Not participated,3.0,4.0,1.0
+AU-ST0303|2025-T1,2025-T1,No prior results,Not participated,3.0,2.33,-0.67
+AU-ST0303|2025-T2,2025-T2,Low,Not participated,2.33,1.67,-0.66
+AU-ST0303|2026-T1,2026-T1,Moderate,Not participated,1.67,1.0,-0.67
+AU-ST0304|2024-T1,2024-T1,No prior results,Not participated,2.0,2.0,0.0
+AU-ST0304|2024-T2,2024-T2,Moderate,Not participated,2.0,2.5,0.5
+AU-ST0305|2025-T2,2025-T2,No prior results,Not participated,2.25,1.75,-0.5
+AU-ST0305|2026-T1,2026-T1,Moderate,Participated,1.75,1.0,-0.75
+AU-ST0306|2024-T1,2024-T1,No prior results,Not participated,1.67,1.75,0.08
+AU-ST0306|2024-T2,2024-T2,High,Participated,1.75,2.33,0.58
+AU-ST0306|2025-T1,2025-T1,Moderate,Participated,2.33,2.25,-0.08
+AU-ST0306|2025-T2,2025-T2,Moderate,Not participated,2.25,1.33,-0.92
+AU-ST0306|2026-T1,2026-T1,Moderate,Not participated,1.33,2.67,1.34
+AU-ST0308|2024-T1,2024-T1,No prior results,Not participated,2.67,3.0,0.33
+AU-ST0308|2024-T2,2024-T2,Low,Not participated,3.0,4.0,1.0
+AU-ST0308|2025-T1,2025-T1,Low,Not participated,4.0,2.33,-1.67
+AU-ST0308|2025-T2,2025-T2,Low,Participated,2.33,3.0,0.67
+AU-ST0308|2026-T1,2026-T1,Moderate,Not participated,3.0,2.67,-0.33
+AU-ST0309|2026-T1,2026-T1,No prior results,Not participated,1.25,3.5,2.25
+AU-ST0310|2024-T1,2024-T1,No prior results,Not participated,2.25,2.33,0.08
+AU-ST0310|2024-T2,2024-T2,Moderate,Not participated,2.33,1.5,-0.83
+AU-ST0310|2025-T1,2025-T1,Moderate,Not participated,1.5,3.25,1.75
+AU-ST0310|2025-T2,2025-T2,High,Participated,3.25,1.25,-2.0
+AU-ST0310|2026-T1,2026-T1,Low,Not participated,1.25,1.33,0.08
+AU-ST0311|2024-T1,2024-T1,No prior results,Not participated,1.0,0.33,-0.67
+AU-ST0311|2024-T2,2024-T2,High,Participated,0.33,0.5,0.17
+AU-ST0311|2025-T1,2025-T1,High,Participated,0.5,0.75,0.25
+AU-ST0311|2025-T2,2025-T2,High,Not participated,0.75,0.0,-0.75
+AU-ST0311|2026-T1,2026-T1,High,Not participated,0.0,0.0,0.0
+AU-ST0312|2024-T1,2024-T1,No prior results,Not participated,4.0,3.0,-1.0
+AU-ST0312|2024-T2,2024-T2,Low,Not participated,3.0,2.67,-0.33
+AU-ST0312|2025-T1,2025-T1,Low,Not participated,2.67,3.0,0.33
+AU-ST0312|2025-T2,2025-T2,Moderate,Not participated,3.0,3.25,0.25
+AU-ST0312|2026-T1,2026-T1,Low,Not participated,3.25,2.67,-0.58
+AU-ST0313|2024-T2,2024-T2,No prior results,Not participated,2.0,4.0,2.0
+AU-ST0313|2025-T1,2025-T1,Moderate,Not participated,4.0,2.0,-2.0
+AU-ST0313|2025-T2,2025-T2,Low,Not participated,2.0,1.5,-0.5
+AU-ST0313|2026-T1,2026-T1,Moderate,Not participated,1.5,1.5,0.0
+AU-ST0314|2025-T1,2025-T1,No prior results,Not participated,4.0,1.5,-2.5
+AU-ST0314|2025-T2,2025-T2,Low,Not participated,1.5,2.5,1.0
+AU-ST0314|2026-T1,2026-T1,High,Participated,2.5,0.5,-2.0
+AU-ST0315|2024-T1,2024-T1,No prior results,Participated,1.0,2.5,1.5
+AU-ST0315|2024-T2,2024-T2,High,Not participated,2.5,3.0,0.5
+AU-ST0315|2025-T1,2025-T1,Low,Not participated,3.0,2.0,-1.0
+AU-ST0315|2025-T2,2025-T2,Low,Not participated,2.0,1.5,-0.5
+AU-ST0315|2026-T1,2026-T1,Moderate,Not participated,1.5,3.0,1.5
+AU-ST0316|2024-T1,2024-T1,No prior results,Participated,1.0,3.0,2.0
+AU-ST0316|2024-T2,2024-T2,High,Not participated,3.0,4.0,1.0
+AU-ST0316|2025-T1,2025-T1,Low,Participated,4.0,3.5,-0.5
+AU-ST0316|2025-T2,2025-T2,Low,Participated,3.5,2.0,-1.5
+AU-ST0316|2026-T1,2026-T1,Low,Not participated,2.0,2.0,0.0
+AU-ST0317|2024-T1,2024-T1,No prior results,Not participated,2.0,1.5,-0.5
+AU-ST0317|2024-T2,2024-T2,Moderate,Not participated,1.5,1.5,0.0
+AU-ST0317|2025-T1,2025-T1,High,Not participated,1.5,0.0,-1.5
+AU-ST0317|2025-T2,2025-T2,High,Not participated,0.0,3.5,3.5
+AU-ST0317|2026-T1,2026-T1,High,Not participated,3.5,4.0,0.5
+AU-ST0318|2026-T1,2026-T1,No prior results,Not participated,1.5,0.0,-1.5
+AU-ST0320|2025-T1,2025-T1,High,Participated,3.5,1.0,-2.5
+AU-ST0320|2025-T2,2025-T2,Low,Not participated,1.0,1.5,0.5
+AU-ST0320|2026-T1,2026-T1,High,Not participated,1.5,2.5,1.0
+AU-ST0321|2025-T1,2025-T1,No prior results,Not participated,3.0,3.33,0.33
+AU-ST0321|2025-T2,2025-T2,Low,Not participated,3.33,2.33,-1.0
+AU-ST0321|2026-T1,2026-T1,Low,Not participated,2.33,2.75,0.42
+AU-ST0322|2025-T2,2025-T2,No prior results,Not participated,3.33,3.0,-0.33
+AU-ST0322|2026-T1,2026-T1,Low,Not participated,3.0,3.25,0.25
+AU-ST0323|2025-T2,2025-T2,No prior results,Not participated,4.0,4.0,0.0
+AU-ST0323|2026-T1,2026-T1,Low,Not participated,4.0,3.75,-0.25
+AU-ST0324|2024-T1,2024-T1,No prior results,Not participated,1.5,2.33,0.83
+AU-ST0324|2024-T2,2024-T2,High,Not participated,2.33,2.25,-0.08
+AU-ST0324|2025-T1,2025-T1,Moderate,Not participated,2.25,2.75,0.5
+AU-ST0324|2025-T2,2025-T2,Moderate,Not participated,2.75,3.0,0.25
+AU-ST0324|2026-T1,2026-T1,Low,Not participated,3.0,0.67,-2.33
+AU-ST0325|2024-T1,2024-T1,No prior results,Not participated,0.0,0.25,0.25
+AU-ST0325|2024-T2,2024-T2,High,Not participated,0.25,0.0,-0.25
+AU-ST0325|2025-T1,2025-T1,High,Not participated,0.0,0.0,0.0
+AU-ST0325|2025-T2,2025-T2,High,Not participated,0.0,0.25,0.25
+AU-ST0325|2026-T1,2026-T1,High,Participated,0.25,1.0,0.75
+AU-ST0326|2025-T1,2025-T1,No prior results,Not participated,2.0,3.5,1.5
+AU-ST0326|2025-T2,2025-T2,Moderate,Not participated,3.5,2.0,-1.5
+AU-ST0326|2026-T1,2026-T1,Moderate,Not participated,2.0,1.5,-0.5
+AU-ST0327|2026-T1,2026-T1,No prior results,Not participated,3.75,3.5,-0.25
+AU-ST0328|2024-T1,2024-T1,No prior results,Not participated,2.0,2.5,0.5
+AU-ST0328|2024-T2,2024-T2,Moderate,Not participated,2.5,3.5,1.0
+AU-ST0328|2025-T1,2025-T1,Low,Not participated,3.5,0.0,-3.5
+AU-ST0328|2025-T2,2025-T2,Low,Not participated,0.0,3.0,3.0
+AU-ST0329|2026-T1,2026-T1,No prior results,Not participated,3.0,1.0,-2.0
+AU-ST0330|2026-T1,2026-T1,No prior results,Not participated,1.75,3.5,1.75
+AU-ST0331|2026-T1,2026-T1,Moderate,Not participated,2.25,2.33,0.08
+AU-ST0332|2025-T1,2025-T1,No prior results,Not participated,0.5,1.0,0.5
+AU-ST0332|2025-T2,2025-T2,High,Not participated,1.0,1.25,0.25
+AU-ST0332|2026-T1,2026-T1,High,Not participated,1.25,0.25,-1.0
+AU-ST0334|2026-T1,2026-T1,No prior results,Not participated,0.0,0.0,0.0
+AU-ST0335|2025-T1,2025-T1,No prior results,Not participated,1.0,1.25,0.25
+AU-ST0335|2025-T2,2025-T2,High,Not participated,1.25,2.0,0.75
+AU-ST0336|2024-T1,2024-T1,No prior results,Not participated,2.33,3.25,0.92
+AU-ST0336|2024-T2,2024-T2,Moderate,Not participated,3.25,3.33,0.08
+AU-ST0336|2025-T1,2025-T1,Low,Not participated,3.33,3.5,0.17
+AU-ST0336|2025-T2,2025-T2,Low,Participated,3.5,3.0,-0.5
+AU-ST0336|2026-T1,2026-T1,Low,Participated,3.0,4.0,1.0
+AU-ST0337|2024-T1,2024-T1,No prior results,Not participated,1.0,1.0,0.0
+AU-ST0337|2024-T2,2024-T2,High,Participated,1.0,1.67,0.67
+AU-ST0337|2025-T1,2025-T1,High,Participated,1.67,1.5,-0.17
+AU-ST0337|2025-T2,2025-T2,High,Participated,1.5,0.75,-0.75
+AU-ST0337|2026-T1,2026-T1,High,Participated,0.75,1.25,0.5
+AU-ST0338|2025-T1,2025-T1,No prior results,Not participated,3.33,4.0,0.67
+AU-ST0338|2025-T2,2025-T2,Low,Participated,4.0,4.0,0.0
+AU-ST0338|2026-T1,2026-T1,Low,Not participated,4.0,4.0,0.0
+AU-ST0339|2024-T1,2024-T1,No prior results,Not participated,4.0,4.0,0.0
+AU-ST0339|2024-T2,2024-T2,Low,Not participated,4.0,3.5,-0.5
+AU-ST0339|2026-T1,2026-T1,Low,Not participated,4.0,4.0,0.0
+AU-ST0340|2026-T1,2026-T1,No prior results,Not participated,2.33,1.67,-0.66
+AU-ST0341|2025-T1,2025-T1,No prior results,Not participated,3.67,2.33,-1.34
+AU-ST0341|2025-T2,2025-T2,Low,Not participated,2.33,3.25,0.92
+AU-ST0341|2026-T1,2026-T1,Moderate,Not participated,3.25,4.0,0.75
+AU-ST0342|2026-T1,2026-T1,No prior results,Not participated,3.0,4.0,1.0
+AU-ST0343|2024-T1,2024-T1,No prior results,Not participated,4.0,4.0,0.0
+AU-ST0343|2024-T2,2024-T2,Low,Not participated,4.0,4.0,0.0
+AU-ST0343|2025-T1,2025-T1,Low,Not participated,4.0,4.0,0.0
+AU-ST0343|2025-T2,2025-T2,Low,Participated,4.0,3.0,-1.0
+AU-ST0343|2026-T1,2026-T1,Low,Not participated,3.0,4.0,1.0
+AU-ST0344|2024-T1,2024-T1,No prior results,Not participated,0.0,1.0,1.0
+AU-ST0344|2024-T2,2024-T2,High,Not participated,1.0,0.5,-0.5
+AU-ST0344|2026-T1,2026-T1,High,Not participated,1.67,2.0,0.33
+AU-ST0345|2024-T1,2024-T1,No prior results,Not participated,1.0,2.0,1.0
+AU-ST0345|2024-T2,2024-T2,High,Participated,2.0,0.25,-1.75
+AU-ST0345|2025-T1,2025-T1,Moderate,Not participated,0.25,2.5,2.25
+AU-ST0345|2025-T2,2025-T2,High,Not participated,2.5,3.0,0.5
+AU-ST0345|2026-T1,2026-T1,Low,Not participated,3.0,2.25,-0.75
+AU-ST0346|2025-T2,2025-T2,No prior results,Not participated,0.0,2.0,2.0
+AU-ST0346|2026-T1,2026-T1,High,Not participated,2.0,2.75,0.75
+AU-ST0347|2024-T1,2024-T1,No prior results,Not participated,0.33,1.67,1.34
+AU-ST0347|2024-T2,2024-T2,High,Not participated,1.67,1.5,-0.17
+AU-ST0347|2025-T1,2025-T1,High,Not participated,1.5,2.5,1.0
+AU-ST0347|2025-T2,2025-T2,High,Not participated,2.5,1.33,-1.17
+AU-ST0347|2026-T1,2026-T1,Moderate,Participated,1.33,3.67,2.34
+AU-ST0348|2025-T1,2025-T1,No prior results,Not participated,0.5,2.0,1.5
+AU-ST0348|2025-T2,2025-T2,High,Not participated,2.0,3.0,1.0
+AU-ST0348|2026-T1,2026-T1,Moderate,Not participated,3.0,2.5,-0.5
+AU-ST0349|2024-T2,2024-T2,No prior results,Not participated,3.0,3.33,0.33
+AU-ST0349|2025-T1,2025-T1,Low,Not participated,3.33,3.25,-0.08
+AU-ST0349|2025-T2,2025-T2,Low,Not participated,3.25,4.0,0.75
+AU-ST0349|2026-T1,2026-T1,Low,Not participated,4.0,4.0,0.0
+AU-ST0350|2024-T1,2024-T1,No prior results,Participated,1.75,2.5,0.75
+AU-ST0350|2024-T2,2024-T2,Moderate,Not participated,2.5,1.33,-1.17
+AU-ST0350|2025-T1,2025-T1,Low,Participated,1.33,1.25,-0.08
+AU-ST0350|2025-T2,2025-T2,High,Not participated,1.25,2.25,1.0
+AU-ST0350|2026-T1,2026-T1,High,Participated,2.25,1.0,-1.25
+AU-ST0351|2025-T1,2025-T1,No prior results,Not participated,3.0,4.0,1.0
+AU-ST0351|2025-T2,2025-T2,Low,Not participated,4.0,3.33,-0.67
+AU-ST0351|2026-T1,2026-T1,Low,Not participated,3.33,3.0,-0.33
+AU-ST0353|2024-T1,2024-T1,No prior results,Not participated,2.5,3.0,0.5
+AU-ST0353|2024-T2,2024-T2,Low,Not participated,3.0,2.75,-0.25
+AU-ST0353|2025-T1,2025-T1,Low,Not participated,2.75,1.0,-1.75
+AU-ST0353|2025-T2,2025-T2,Low,Not participated,1.0,2.5,1.5
+AU-ST0353|2026-T1,2026-T1,High,Not participated,2.5,2.33,-0.17
+AU-ST0354|2024-T1,2024-T1,No prior results,Not participated,2.0,2.5,0.5
+AU-ST0354|2024-T2,2024-T2,Moderate,Not participated,2.5,2.0,-0.5
+AU-ST0354|2025-T1,2025-T1,Moderate,Not participated,2.0,2.0,0.0
+AU-ST0354|2025-T2,2025-T2,Moderate,Not participated,2.0,2.5,0.5
+AU-ST0354|2026-T1,2026-T1,Moderate,Not participated,2.5,1.0,-1.5
+AU-ST0355|2024-T1,2024-T1,No prior results,Not participated,0.0,1.0,1.0
+AU-ST0355|2024-T2,2024-T2,High,Participated,1.0,0.5,-0.5
+AU-ST0355|2025-T1,2025-T1,High,Participated,0.5,0.0,-0.5
+AU-ST0355|2025-T2,2025-T2,High,Not participated,0.0,0.25,0.25
+AU-ST0355|2026-T1,2026-T1,High,Not participated,0.25,0.67,0.42
+AU-ST0356|2024-T1,2024-T1,No prior results,Not participated,2.25,0.25,-2.0
+AU-ST0356|2024-T2,2024-T2,Moderate,Not participated,0.25,1.33,1.08
+AU-ST0356|2025-T1,2025-T1,High,Participated,1.33,2.0,0.67
+AU-ST0356|2025-T2,2025-T2,High,Participated,2.0,2.0,0.0
+AU-ST0356|2026-T1,2026-T1,Moderate,Participated,2.0,0.75,-1.25
+AU-ST0357|2025-T1,2025-T1,No prior results,Not participated,1.0,1.0,0.0
+AU-ST0357|2025-T2,2025-T2,High,Not participated,1.0,1.0,0.0
+AU-ST0357|2026-T1,2026-T1,High,Not participated,1.0,4.0,3.0
+AU-ST0358|2024-T2,2024-T2,No prior results,Not participated,2.5,3.75,1.25
+AU-ST0358|2025-T1,2025-T1,Low,Not participated,3.75,2.33,-1.42
+AU-ST0358|2025-T2,2025-T2,Low,Not participated,2.33,2.33,0.0
+AU-ST0358|2026-T1,2026-T1,Moderate,Not participated,2.33,2.5,0.17
+AU-ST0359|2024-T2,2024-T2,No prior results,Participated,3.0,3.33,0.33
+AU-ST0359|2025-T1,2025-T1,Low,Not participated,3.33,3.0,-0.33
+AU-ST0359|2025-T2,2025-T2,Low,Not participated,3.0,2.67,-0.33
+AU-ST0359|2026-T1,2026-T1,Low,Not participated,2.67,4.0,1.33
+AU-ST0360|2025-T1,2025-T1,No prior results,Participated,0.33,2.25,1.92
+AU-ST0360|2025-T2,2025-T2,High,Participated,2.25,1.67,-0.58
+AU-ST0360|2026-T1,2026-T1,Moderate,Participated,1.67,0.75,-0.92
+AU-ST0361|2024-T1,2024-T1,No prior results,Not participated,1.5,1.0,-0.5
+AU-ST0361|2024-T2,2024-T2,High,Not participated,1.0,2.5,1.5
+AU-ST0361|2025-T1,2025-T1,High,Participated,2.5,2.0,-0.5
+AU-ST0361|2025-T2,2025-T2,Low,Not participated,2.0,3.0,1.0
+AU-ST0361|2026-T1,2026-T1,Moderate,Not participated,3.0,1.0,-2.0
+AU-ST0363|2024-T2,2024-T2,No prior results,Not participated,4.0,4.0,0.0
+AU-ST0363|2025-T1,2025-T1,Low,Not participated,4.0,3.67,-0.33
+AU-ST0363|2025-T2,2025-T2,Low,Not participated,3.67,4.0,0.33
+AU-ST0363|2026-T1,2026-T1,Low,Not participated,4.0,4.0,0.0
+AU-ST0364|2026-T1,2026-T1,No prior results,Not participated,4.0,2.67,-1.33
+AU-ST0365|2024-T2,2024-T2,No prior results,Not participated,0.67,1.5,0.83
+AU-ST0365|2025-T1,2025-T1,High,Participated,1.5,0.0,-1.5
+AU-ST0365|2025-T2,2025-T2,High,Not participated,0.0,0.75,0.75
+AU-ST0365|2026-T1,2026-T1,High,Not participated,0.75,0.5,-0.25
+AU-ST0366|2024-T2,2024-T2,No prior results,Not participated,2.0,1.0,-1.0
+AU-ST0366|2025-T1,2025-T1,Moderate,Participated,1.0,1.75,0.75
+AU-ST0366|2025-T2,2025-T2,High,Participated,1.75,1.67,-0.08
+AU-ST0366|2026-T1,2026-T1,Moderate,Participated,1.67,0.67,-1.0
+AU-ST0367|2025-T1,2025-T1,Low,Not participated,3.0,2.0,-1.0
+AU-ST0367|2025-T2,2025-T2,Low,Not participated,2.0,3.5,1.5
+AU-ST0367|2026-T1,2026-T1,Moderate,Not participated,3.5,2.25,-1.25
+AU-ST0368|2025-T1,2025-T1,No prior results,Not participated,1.75,2.67,0.92
+AU-ST0368|2025-T2,2025-T2,Moderate,Not participated,2.67,2.0,-0.67
+AU-ST0368|2026-T1,2026-T1,Moderate,Participated,2.0,3.25,1.25
+AU-ST0370|2025-T2,2025-T2,No prior results,Not participated,1.75,1.0,-0.75
+AU-ST0370|2026-T1,2026-T1,Moderate,Not participated,1.0,2.0,1.0
+AU-ST0371|2025-T1,2025-T1,No prior results,Not participated,1.0,1.0,0.0
+AU-ST0371|2025-T2,2025-T2,High,Not participated,1.0,0.67,-0.33
+AU-ST0371|2026-T1,2026-T1,High,Not participated,0.67,0.5,-0.17
+AU-ST0372|2024-T1,2024-T1,No prior results,Not participated,2.33,2.33,0.0
+AU-ST0372|2024-T2,2024-T2,Moderate,Not participated,2.33,0.75,-1.58
+AU-ST0372|2025-T1,2025-T1,Moderate,Not participated,0.75,1.5,0.75
+AU-ST0372|2025-T2,2025-T2,High,Not participated,1.5,3.33,1.83
+AU-ST0372|2026-T1,2026-T1,High,Not participated,3.33,1.67,-1.66
+AU-ST0373|2026-T1,2026-T1,No prior results,Not participated,1.0,1.75,0.75
+AU-ST0374|2026-T1,2026-T1,No prior results,Not participated,0.5,1.5,1.0
+AU-ST0375|2025-T1,2025-T1,No prior results,Not participated,2.5,1.33,-1.17
+AU-ST0375|2025-T2,2025-T2,Moderate,Not participated,1.33,2.75,1.42
+AU-ST0375|2026-T1,2026-T1,High,Participated,2.75,1.75,-1.0
+AU-ST0376|2024-T1,2024-T1,No prior results,Not participated,2.67,2.33,-0.34
+AU-ST0376|2024-T2,2024-T2,Moderate,Not participated,2.33,0.33,-2.0
+AU-ST0376|2025-T1,2025-T1,Moderate,Not participated,0.33,2.0,1.67
+AU-ST0376|2025-T2,2025-T2,High,Not participated,2.0,1.0,-1.0
+AU-ST0376|2026-T1,2026-T1,Moderate,Not participated,1.0,0.5,-0.5
+AU-ST0377|2025-T1,2025-T1,No prior results,Not participated,0.75,0.25,-0.5
+AU-ST0377|2025-T2,2025-T2,High,Participated,0.25,1.5,1.25
+AU-ST0377|2026-T1,2026-T1,High,Not participated,1.5,1.0,-0.5
+AU-ST0378|2025-T1,2025-T1,No prior results,Not participated,1.0,1.25,0.25
+AU-ST0378|2025-T2,2025-T2,High,Not participated,1.25,1.5,0.25
+AU-ST0378|2026-T1,2026-T1,High,Participated,1.5,0.67,-0.83
+AU-ST0379|2026-T1,2026-T1,Low,Not participated,2.75,3.67,0.92
+AU-ST0380|2025-T2,2025-T2,Low,Not participated,2.0,2.5,0.5
+AU-ST0380|2026-T1,2026-T1,Moderate,Not participated,2.5,3.33,0.83
+AU-ST0381|2024-T1,2024-T1,No prior results,Participated,0.33,0.33,0.0
+AU-ST0381|2024-T2,2024-T2,High,Not participated,0.33,0.33,0.0
+AU-ST0381|2025-T1,2025-T1,High,Participated,0.33,0.0,-0.33
+AU-ST0381|2025-T2,2025-T2,High,Not participated,0.0,0.25,0.25
+AU-ST0381|2026-T1,2026-T1,High,Not participated,0.25,0.25,0.0
+AU-ST0382|2025-T1,2025-T1,No prior results,Not participated,0.5,1.0,0.5
+AU-ST0382|2025-T2,2025-T2,High,Not participated,1.0,1.0,0.0
+AU-ST0382|2026-T1,2026-T1,High,Participated,1.0,3.0,2.0
+AU-ST0383|2024-T1,2024-T1,No prior results,Not participated,2.0,1.5,-0.5
+AU-ST0383|2024-T2,2024-T2,Moderate,Participated,1.5,2.75,1.25
+AU-ST0383|2025-T1,2025-T1,High,Participated,2.75,3.67,0.92
+AU-ST0383|2025-T2,2025-T2,Low,Participated,3.67,1.0,-2.67
+AU-ST0383|2026-T1,2026-T1,Low,Not participated,1.0,3.0,2.0
+AU-ST0384|2024-T1,2024-T1,No prior results,Not participated,0.0,1.0,1.0
+AU-ST0384|2024-T2,2024-T2,High,Not participated,1.0,0.0,-1.0
+AU-ST0384|2025-T1,2025-T1,High,Not participated,0.0,0.0,0.0
+AU-ST0384|2025-T2,2025-T2,High,Not participated,0.0,0.0,0.0
+AU-ST0384|2026-T1,2026-T1,High,Participated,0.0,0.0,0.0
+AU-ST0385|2026-T1,2026-T1,No prior results,Not participated,3.0,3.5,0.5
+AU-ST0386|2025-T1,2025-T1,No prior results,Not participated,1.67,1.25,-0.42
+AU-ST0386|2025-T2,2025-T2,High,Participated,1.25,1.0,-0.25
+AU-ST0386|2026-T1,2026-T1,High,Participated,1.0,1.0,0.0
+AU-ST0387|2024-T1,2024-T1,No prior results,Not participated,3.67,1.67,-2.0
+AU-ST0387|2024-T2,2024-T2,Low,Participated,1.67,3.0,1.33
+AU-ST0387|2025-T1,2025-T1,High,Participated,3.0,2.67,-0.33
+AU-ST0387|2025-T2,2025-T2,Low,Not participated,2.67,3.33,0.66
+AU-ST0387|2026-T1,2026-T1,Low,Not participated,3.33,2.0,-1.33
+AU-ST0388|2024-T1,2024-T1,No prior results,Not participated,1.5,2.0,0.5
+AU-ST0388|2024-T2,2024-T2,High,Not participated,2.0,1.0,-1.0
+AU-ST0388|2025-T1,2025-T1,Moderate,Not participated,1.0,1.5,0.5
+AU-ST0388|2025-T2,2025-T2,High,Not participated,1.5,3.0,1.5
+AU-ST0388|2026-T1,2026-T1,High,Not participated,3.0,0.0,-3.0
+AU-ST0389|2024-T2,2024-T2,No prior results,Not participated,0.5,1.75,1.25
+AU-ST0389|2025-T1,2025-T1,High,Participated,1.75,1.33,-0.42
+AU-ST0389|2025-T2,2025-T2,Moderate,Not participated,1.33,1.0,-0.33
+AU-ST0389|2026-T1,2026-T1,High,Not participated,1.0,2.67,1.67
+AU-ST0390|2025-T1,2025-T1,No prior results,Not participated,4.0,3.0,-1.0
+AU-ST0391|2025-T2,2025-T2,No prior results,Not participated,3.0,2.33,-0.67
+AU-ST0391|2026-T1,2026-T1,Low,Not participated,2.33,2.33,0.0
+AU-ST0392|2025-T1,2025-T1,No prior results,Not participated,2.0,1.67,-0.33
+AU-ST0392|2025-T2,2025-T2,Moderate,Not participated,1.67,0.33,-1.34
+AU-ST0392|2026-T1,2026-T1,High,Participated,0.33,0.75,0.42
+AU-ST0393|2024-T1,2024-T1,No prior results,Not participated,1.0,0.67,-0.33
+AU-ST0393|2024-T2,2024-T2,High,Not participated,0.67,0.25,-0.42
+AU-ST0393|2025-T1,2025-T1,High,Not participated,0.25,1.0,0.75
+AU-ST0393|2025-T2,2025-T2,High,Participated,1.0,0.33,-0.67
+AU-ST0393|2026-T1,2026-T1,High,Not participated,0.33,0.0,-0.33
+AU-ST0394|2025-T1,2025-T1,No prior results,Not participated,2.0,3.0,1.0
+AU-ST0395|2025-T2,2025-T2,No prior results,Not participated,0.0,0.75,0.75
+AU-ST0395|2026-T1,2026-T1,High,Not participated,0.75,1.0,0.25
+AU-ST0396|2025-T1,2025-T1,No prior results,Not participated,4.0,4.0,0.0
+AU-ST0396|2025-T2,2025-T2,Low,Not participated,4.0,2.0,-2.0
+AU-ST0396|2026-T1,2026-T1,Low,Not participated,2.0,3.67,1.67
+AU-ST0397|2025-T1,2025-T1,No prior results,Not participated,1.5,1.5,0.0
+AU-ST0397|2025-T2,2025-T2,High,Not participated,1.5,2.5,1.0
+AU-ST0397|2026-T1,2026-T1,High,Not participated,2.5,3.5,1.0
+AU-ST0398|2024-T1,2024-T1,No prior results,Not participated,0.75,1.0,0.25
+AU-ST0398|2024-T2,2024-T2,High,Not participated,1.0,0.67,-0.33
+AU-ST0398|2025-T1,2025-T1,High,Participated,0.67,0.25,-0.42
+AU-ST0399|2025-T2,2025-T2,No prior results,Not participated,3.0,2.0,-1.0
+AU-ST0399|2026-T1,2026-T1,High,Not participated,2.0,4.0,2.0
+AU-ST0401|2026-T1,2026-T1,No prior results,Not participated,3.0,2.5,-0.5
+AU-ST0402|2025-T1,2025-T1,No prior results,Not participated,3.0,4.0,1.0
+AU-ST0402|2025-T2,2025-T2,Low,Not participated,4.0,2.0,-2.0
+AU-ST0403|2026-T1,2026-T1,No prior results,Not participated,4.0,2.0,-2.0
+AU-ST0404|2025-T1,2025-T1,No prior results,Participated,1.0,2.0,1.0
+AU-ST0404|2025-T2,2025-T2,High,Participated,2.0,1.0,-1.0
+AU-ST0406|2024-T1,2024-T1,No prior results,Not participated,1.75,0.5,-1.25
+AU-ST0406|2024-T2,2024-T2,Moderate,Participated,0.5,2.33,1.83
+AU-ST0406|2025-T1,2025-T1,High,Not participated,2.33,1.0,-1.33
+AU-ST0406|2025-T2,2025-T2,Moderate,Not participated,1.0,2.33,1.33
+AU-ST0407|2024-T2,2024-T2,No prior results,Not participated,1.0,3.33,2.33
+AU-ST0407|2025-T1,2025-T1,High,Participated,3.33,3.0,-0.33
+AU-ST0407|2025-T2,2025-T2,Low,Not participated,3.0,1.33,-1.67
+AU-ST0407|2026-T1,2026-T1,Low,Not participated,1.33,1.0,-0.33
+AU-ST0408|2024-T1,2024-T1,No prior results,Not participated,3.75,1.5,-2.25
+AU-ST0408|2024-T2,2024-T2,Low,Not participated,1.5,2.33,0.83
+AU-ST0408|2025-T1,2025-T1,High,Not participated,2.33,2.5,0.17
+AU-ST0408|2025-T2,2025-T2,Moderate,Not participated,2.5,3.25,0.75
+AU-ST0408|2026-T1,2026-T1,Low,Not participated,3.25,3.67,0.42
+AU-ST0409|2025-T2,2025-T2,No prior results,Not participated,1.67,2.0,0.33
+AU-ST0409|2026-T1,2026-T1,High,Not participated,2.0,1.0,-1.0
+AU-ST0410|2025-T2,2025-T2,No prior results,Not participated,1.75,2.33,0.58
+AU-ST0410|2026-T1,2026-T1,Moderate,Not participated,2.33,0.0,-2.33
+AU-ST0411|2024-T1,2024-T1,No prior results,Not participated,1.67,1.25,-0.42
+AU-ST0411|2024-T2,2024-T2,High,Not participated,1.25,2.0,0.75
+AU-ST0411|2025-T1,2025-T1,High,Participated,2.0,1.33,-0.67
+AU-ST0411|2025-T2,2025-T2,Moderate,Participated,1.33,1.5,0.17
+AU-ST0411|2026-T1,2026-T1,High,Participated,1.5,2.67,1.17
+AU-ST0412|2024-T1,2024-T1,No prior results,Not participated,0.0,1.33,1.33
+AU-ST0412|2024-T2,2024-T2,High,Not participated,1.33,0.0,-1.33
+AU-ST0412|2025-T1,2025-T1,High,Not participated,0.0,0.0,0.0
+AU-ST0412|2025-T2,2025-T2,High,Not participated,0.0,0.33,0.33
+AU-ST0412|2026-T1,2026-T1,High,Participated,0.33,0.67,0.34
+AU-ST0414|2024-T1,2024-T1,No prior results,Not participated,2.33,3.0,0.67
+AU-ST0414|2024-T2,2024-T2,Moderate,Not participated,3.0,1.0,-2.0
+AU-ST0414|2025-T1,2025-T1,Low,Not participated,1.0,2.67,1.67
+AU-ST0414|2025-T2,2025-T2,High,Not participated,2.67,1.0,-1.67
+AU-ST0414|2026-T1,2026-T1,Low,Not participated,1.0,3.25,2.25
+AU-ST0415|2025-T2,2025-T2,No prior results,Not participated,0.0,0.5,0.5
+AU-ST0415|2026-T1,2026-T1,High,Not participated,0.5,0.0,-0.5
+AU-ST0416|2024-T1,2024-T1,No prior results,Not participated,0.0,0.67,0.67
+AU-ST0416|2024-T2,2024-T2,High,Not participated,0.67,0.0,-0.67
+AU-ST0416|2025-T1,2025-T1,High,Participated,0.0,0.0,0.0
+AU-ST0416|2025-T2,2025-T2,High,Participated,0.0,1.25,1.25
+AU-ST0416|2026-T1,2026-T1,High,Not participated,1.25,0.0,-1.25
+AU-ST0417|2024-T2,2024-T2,No prior results,Not participated,0.5,0.0,-0.5
+AU-ST0417|2025-T1,2025-T1,High,Not participated,0.0,1.0,1.0
+AU-ST0417|2025-T2,2025-T2,High,Not participated,1.0,3.0,2.0
+AU-ST0417|2026-T1,2026-T1,High,Not participated,3.0,3.0,0.0
+AU-ST0419|2024-T2,2024-T2,No prior results,Not participated,0.25,0.0,-0.25
+AU-ST0419|2025-T1,2025-T1,High,Not participated,0.0,0.0,0.0
+AU-ST0420|2024-T1,2024-T1,No prior results,Not participated,1.25,1.0,-0.25
+AU-ST0420|2024-T2,2024-T2,High,Not participated,1.0,1.5,0.5
+AU-ST0420|2025-T1,2025-T1,High,Not participated,1.5,0.5,-1.0
+AU-ST0420|2025-T2,2025-T2,High,Participated,0.5,0.75,0.25
+AU-ST0420|2026-T1,2026-T1,High,Not participated,0.75,2.0,1.25
+AU-ST0421|2024-T1,2024-T1,No prior results,Not participated,2.25,1.33,-0.92
+AU-ST0421|2024-T2,2024-T2,Moderate,Not participated,1.33,0.5,-0.83
+AU-ST0421|2025-T1,2025-T1,High,Not participated,0.5,0.33,-0.17
+AU-ST0421|2025-T2,2025-T2,High,Participated,0.33,3.67,3.34
+AU-ST0421|2026-T1,2026-T1,High,Not participated,3.67,3.0,-0.67
+AU-ST0422|2024-T2,2024-T2,No prior results,Not participated,4.0,4.0,0.0
+AU-ST0422|2025-T1,2025-T1,Low,Not participated,4.0,3.0,-1.0
+AU-ST0422|2025-T2,2025-T2,Low,Not participated,3.0,0.0,-3.0
+AU-ST0422|2026-T1,2026-T1,Low,Not participated,0.0,1.0,1.0
+AU-ST0423|2026-T1,2026-T1,No prior results,Not participated,2.0,2.0,0.0
+AU-ST0424|2026-T1,2026-T1,No prior results,Participated,0.75,2.25,1.5
+AU-ST0425|2025-T1,2025-T1,No prior results,Not participated,2.0,3.25,1.25
+AU-ST0425|2025-T2,2025-T2,Moderate,Not participated,3.25,2.0,-1.25
+AU-ST0425|2026-T1,2026-T1,Low,Not participated,2.0,2.75,0.75
+AU-ST0426|2025-T2,2025-T2,No prior results,Not participated,0.5,1.67,1.17
+AU-ST0426|2026-T1,2026-T1,High,Participated,1.67,0.33,-1.34
+AU-ST0427|2025-T1,2025-T1,No prior results,Not participated,3.0,2.0,-1.0
+AU-ST0427|2025-T2,2025-T2,Low,Not participated,2.0,2.5,0.5
+AU-ST0427|2026-T1,2026-T1,Moderate,Not participated,2.5,4.0,1.5
+AU-ST0428|2024-T1,2024-T1,No prior results,Not participated,2.33,1.5,-0.83
+AU-ST0428|2024-T2,2024-T2,Moderate,Not participated,1.5,2.33,0.83
+AU-ST0428|2025-T1,2025-T1,High,Participated,2.33,3.25,0.92
+AU-ST0428|2025-T2,2025-T2,Moderate,Not participated,3.25,3.0,-0.25
+AU-ST0428|2026-T1,2026-T1,Low,Not participated,3.0,2.75,-0.25
+AU-ST0429|2024-T1,2024-T1,No prior results,Not participated,1.0,1.0,0.0
+AU-ST0429|2024-T2,2024-T2,High,Not participated,1.0,2.5,1.5
+AU-ST0429|2025-T1,2025-T1,High,Participated,2.5,0.0,-2.5
+AU-ST0429|2025-T2,2025-T2,Low,Not participated,0.0,2.0,2.0
+AU-ST0429|2026-T1,2026-T1,High,Not participated,2.0,0.5,-1.5
+AU-ST0430|2025-T2,2025-T2,No prior results,Not participated,4.0,1.0,-3.0
+AU-ST0430|2026-T1,2026-T1,Low,Not participated,1.0,3.0,2.0
+AU-ST0431|2024-T1,2024-T1,No prior results,Not participated,4.0,1.0,-3.0
+AU-ST0431|2024-T2,2024-T2,Low,Not participated,1.0,3.0,2.0
+AU-ST0431|2025-T1,2025-T1,High,Not participated,3.0,2.67,-0.33
+AU-ST0432|2024-T2,2024-T2,No prior results,Not participated,2.75,3.5,0.75
+AU-ST0432|2025-T1,2025-T1,Low,Not participated,3.5,2.5,-1.0
+AU-ST0432|2025-T2,2025-T2,Low,Not participated,2.5,3.0,0.5
+AU-ST0432|2026-T1,2026-T1,Low,Not participated,3.0,3.75,0.75
+AU-ST0433|2025-T2,2025-T2,No prior results,Not participated,2.67,2.0,-0.67
+AU-ST0433|2026-T1,2026-T1,Low,Participated,2.0,1.5,-0.5
+AU-ST0434|2025-T1,2025-T1,No prior results,Not participated,1.5,0.67,-0.83
+AU-ST0434|2025-T2,2025-T2,High,Not participated,0.67,0.67,0.0
+AU-ST0435|2026-T1,2026-T1,No prior results,Not participated,2.0,1.0,-1.0
+AU-ST0436|2025-T1,2025-T1,No prior results,Not participated,3.75,3.0,-0.75
+AU-ST0436|2025-T2,2025-T2,Low,Not participated,3.0,2.0,-1.0
+AU-ST0436|2026-T1,2026-T1,Low,Not participated,2.0,3.0,1.0
+AU-ST0437|2025-T2,2025-T2,No prior results,Not participated,2.0,2.0,0.0
+AU-ST0437|2026-T1,2026-T1,Moderate,Not participated,2.0,1.5,-0.5
+AU-ST0438|2025-T2,2025-T2,No prior results,Not participated,2.0,3.0,1.0
+AU-ST0438|2026-T1,2026-T1,Moderate,Not participated,3.0,2.5,-0.5
+AU-ST0439|2024-T1,2024-T1,No prior results,Not participated,1.25,0.75,-0.5
+AU-ST0439|2024-T2,2024-T2,High,Not participated,0.75,1.0,0.25
+AU-ST0439|2025-T1,2025-T1,High,Participated,1.0,0.5,-0.5
+AU-ST0439|2025-T2,2025-T2,High,Participated,0.5,1.33,0.83
+AU-ST0439|2026-T1,2026-T1,High,Participated,1.33,0.75,-0.58
+AU-ST0440|2025-T1,2025-T1,No prior results,Not participated,0.0,0.5,0.5
+AU-ST0440|2025-T2,2025-T2,High,Not participated,0.5,0.33,-0.17
+AU-ST0440|2026-T1,2026-T1,High,Not participated,0.33,0.33,0.0
+AU-ST0441|2025-T2,2025-T2,No prior results,Participated,2.33,3.25,0.92
+AU-ST0441|2026-T1,2026-T1,Moderate,Not participated,3.25,1.75,-1.5
+AU-ST0442|2024-T2,2024-T2,No prior results,Not participated,3.5,3.0,-0.5
+AU-ST0442|2025-T1,2025-T1,Low,Not participated,3.0,4.0,1.0
+AU-ST0442|2025-T2,2025-T2,Low,Not participated,4.0,2.75,-1.25
+AU-ST0442|2026-T1,2026-T1,Low,Not participated,2.75,4.0,1.25
+AU-ST0443|2025-T1,2025-T1,No prior results,Not participated,0.75,1.0,0.25
+AU-ST0443|2025-T2,2025-T2,High,Not participated,1.0,0.5,-0.5
+AU-ST0443|2026-T1,2026-T1,High,Participated,0.5,1.0,0.5
+AU-ST0444|2024-T2,2024-T2,No prior results,Not participated,1.75,2.5,0.75
+AU-ST0444|2025-T1,2025-T1,Moderate,Not participated,2.5,1.75,-0.75
+AU-ST0444|2025-T2,2025-T2,Low,Not participated,1.75,2.75,1.0
+AU-ST0444|2026-T1,2026-T1,Moderate,Not participated,2.75,1.0,-1.75
+AU-ST0445|2026-T1,2026-T1,No prior results,Not participated,2.25,2.5,0.25
+AU-ST0446|2024-T1,2024-T1,No prior results,Not participated,1.5,0.33,-1.17
+AU-ST0446|2024-T2,2024-T2,High,Participated,0.33,1.0,0.67
+AU-ST0446|2025-T1,2025-T1,High,Participated,1.0,0.75,-0.25
+AU-ST0446|2025-T2,2025-T2,High,Not participated,0.75,0.67,-0.08
+AU-ST0446|2026-T1,2026-T1,High,Participated,0.67,0.33,-0.34
+AU-ST0447|2025-T2,2025-T2,No prior results,Not participated,0.0,0.25,0.25
+AU-ST0447|2026-T1,2026-T1,High,Not participated,0.25,0.0,-0.25
+AU-ST0448|2026-T1,2026-T1,No prior results,Not participated,1.67,2.25,0.58
+AU-ST0450|2025-T1,2025-T1,No prior results,Not participated,2.0,1.0,-1.0
+AU-ST0450|2025-T2,2025-T2,Moderate,Not participated,1.0,2.25,1.25
+AU-ST0450|2026-T1,2026-T1,High,Not participated,2.25,2.0,-0.25
+AU-ST0451|2025-T2,2025-T2,No prior results,Not participated,2.33,3.67,1.34
+AU-ST0451|2026-T1,2026-T1,Moderate,Not participated,3.67,3.0,-0.67
+AU-ST0452|2026-T1,2026-T1,No prior results,Not participated,2.0,2.0,0.0
+AU-ST0453|2025-T1,2025-T1,No prior results,Not participated,4.0,2.0,-2.0
+AU-ST0453|2025-T2,2025-T2,Low,Not participated,2.0,3.67,1.67
+AU-ST0453|2026-T1,2026-T1,Moderate,Not participated,3.67,3.75,0.08
+AU-ST0454|2026-T1,2026-T1,No prior results,Not participated,3.0,3.0,0.0
+AU-ST0455|2024-T1,2024-T1,No prior results,Not participated,0.67,0.0,-0.67
+AU-ST0455|2024-T2,2024-T2,High,Participated,0.0,0.0,0.0
+AU-ST0455|2025-T1,2025-T1,High,Participated,0.0,0.33,0.33
+AU-ST0455|2025-T2,2025-T2,High,Not participated,0.33,0.67,0.34
+AU-ST0455|2026-T1,2026-T1,High,Not participated,0.67,0.33,-0.34
+AU-ST0456|2026-T1,2026-T1,No prior results,Not participated,3.33,3.75,0.42
+AU-ST0457|2024-T2,2024-T2,No prior results,Not participated,3.5,3.0,-0.5
+AU-ST0457|2025-T1,2025-T1,Low,Not participated,3.0,3.5,0.5
+AU-ST0457|2025-T2,2025-T2,Low,Not participated,3.5,3.5,0.0
+AU-ST0458|2025-T1,2025-T1,No prior results,Not participated,1.67,1.33,-0.34
+AU-ST0458|2025-T2,2025-T2,High,Not participated,1.33,2.67,1.34
+AU-ST0458|2026-T1,2026-T1,High,Not participated,2.67,1.75,-0.92
+AU-ST0459|2026-T1,2026-T1,No prior results,Not participated,2.5,0.75,-1.75
+AU-ST0460|2024-T2,2024-T2,No prior results,Not participated,2.0,0.25,-1.75
+AU-ST0460|2025-T1,2025-T1,Moderate,Participated,0.25,1.25,1.0
+AU-ST0460|2025-T2,2025-T2,High,Participated,1.25,1.25,0.0
+AU-ST0460|2026-T1,2026-T1,High,Not participated,1.25,0.5,-0.75
+AU-ST0461|2024-T2,2024-T2,No prior results,Not participated,2.33,1.0,-1.33
+AU-ST0461|2025-T1,2025-T1,Moderate,Not participated,1.0,1.33,0.33
+AU-ST0461|2025-T2,2025-T2,High,Participated,1.33,0.33,-1.0
+AU-ST0461|2026-T1,2026-T1,High,Not participated,0.33,0.5,0.17
+AU-ST0462|2024-T1,2024-T1,No prior results,Not participated,1.25,2.0,0.75
+AU-ST0462|2024-T2,2024-T2,High,Participated,2.0,1.5,-0.5
+AU-ST0462|2025-T1,2025-T1,Moderate,Not participated,1.5,0.25,-1.25
+AU-ST0462|2025-T2,2025-T2,High,Participated,0.25,1.0,0.75
+AU-ST0462|2026-T1,2026-T1,High,Not participated,1.0,0.0,-1.0
+AU-ST0463|2025-T1,2025-T1,No prior results,Not participated,2.5,2.5,0.0
+AU-ST0463|2025-T2,2025-T2,Moderate,Not participated,2.5,2.25,-0.25
+AU-ST0463|2026-T1,2026-T1,Low,Not participated,2.25,2.75,0.5
+AU-ST0464|2025-T1,2025-T1,No prior results,Not participated,2.5,1.25,-1.25
+AU-ST0464|2025-T2,2025-T2,Low,Not participated,1.25,1.33,0.08
+AU-ST0464|2026-T1,2026-T1,High,Participated,1.33,2.0,0.67
+AU-ST0465|2026-T1,2026-T1,No prior results,Not participated,3.0,0.0,-3.0
+AU-ST0467|2024-T1,2024-T1,No prior results,Participated,1.67,1.0,-0.67
+AU-ST0467|2024-T2,2024-T2,High,Participated,1.0,0.5,-0.5
+AU-ST0467|2025-T1,2025-T1,High,Not participated,0.5,0.0,-0.5
+AU-ST0467|2025-T2,2025-T2,High,Participated,0.0,0.25,0.25
+AU-ST0467|2026-T1,2026-T1,High,Not participated,0.25,0.5,0.25
+AU-ST0468|2024-T1,2024-T1,No prior results,Not participated,0.5,0.0,-0.5
+AU-ST0468|2024-T2,2024-T2,High,Not participated,0.0,0.0,0.0
+AU-ST0468|2025-T1,2025-T1,High,Not participated,0.0,0.33,0.33
+AU-ST0468|2025-T2,2025-T2,High,Not participated,0.33,0.25,-0.08
+AU-ST0468|2026-T1,2026-T1,High,Not participated,0.25,0.33,0.08
+AU-ST0469|2026-T1,2026-T1,No prior results,Not participated,1.25,3.0,1.75
+AU-ST0470|2024-T1,2024-T1,No prior results,Not participated,1.75,2.5,0.75
+AU-ST0470|2024-T2,2024-T2,Moderate,Not participated,2.5,0.5,-2.0
+AU-ST0470|2025-T1,2025-T1,Low,Not participated,0.5,1.0,0.5
+AU-ST0470|2025-T2,2025-T2,High,Not participated,1.0,3.0,2.0
+AU-ST0470|2026-T1,2026-T1,High,Not participated,3.0,1.75,-1.25
+AU-ST0471|2024-T1,2024-T1,No prior results,Not participated,2.5,2.0,-0.5
+AU-ST0471|2024-T2,2024-T2,Low,Not participated,2.0,4.0,2.0
+AU-ST0471|2025-T1,2025-T1,Moderate,Participated,4.0,4.0,0.0
+AU-ST0471|2025-T2,2025-T2,Low,Participated,4.0,3.0,-1.0
+AU-ST0471|2026-T1,2026-T1,Low,Not participated,3.0,2.0,-1.0
+AU-ST0472|2025-T1,2025-T1,No prior results,Participated,0.75,2.0,1.25
+AU-ST0472|2025-T2,2025-T2,High,Not participated,2.0,1.75,-0.25
+AU-ST0473|2026-T1,2026-T1,No prior results,Not participated,1.25,2.67,1.42
+AU-ST0474|2024-T1,2024-T1,No prior results,Not participated,1.0,1.67,0.67
+AU-ST0474|2024-T2,2024-T2,High,Participated,1.67,1.67,0.0
+AU-ST0474|2025-T1,2025-T1,High,Participated,1.67,1.0,-0.67
+AU-ST0474|2025-T2,2025-T2,High,Participated,1.0,2.0,1.0
+AU-ST0474|2026-T1,2026-T1,High,Not participated,2.0,2.0,0.0
+AU-ST0475|2025-T2,2025-T2,No prior results,Not participated,2.33,1.0,-1.33
+AU-ST0475|2026-T1,2026-T1,Moderate,Not participated,1.0,1.0,0.0
+AU-ST0476|2024-T1,2024-T1,No prior results,Not participated,1.5,1.33,-0.17
+AU-ST0476|2024-T2,2024-T2,High,Not participated,1.33,0.5,-0.83
+AU-ST0479|2024-T1,2024-T1,No prior results,Not participated,3.5,3.0,-0.5
+AU-ST0479|2024-T2,2024-T2,Low,Not participated,3.0,3.5,0.5
+AU-ST0479|2025-T1,2025-T1,Low,Not participated,3.5,2.0,-1.5
+AU-ST0479|2025-T2,2025-T2,Low,Not participated,2.0,4.0,2.0
+AU-ST0479|2026-T1,2026-T1,Moderate,Participated,4.0,0.0,-4.0
+AU-ST0480|2024-T2,2024-T2,No prior results,Not participated,3.0,1.5,-1.5
+AU-ST0480|2025-T1,2025-T1,Low,Not participated,1.5,1.0,-0.5
+AU-ST0480|2025-T2,2025-T2,High,Not participated,1.0,1.75,0.75
+AU-ST0480|2026-T1,2026-T1,High,Not participated,1.75,1.5,-0.25
+AU-ST0481|2024-T2,2024-T2,No prior results,Not participated,1.0,0.67,-0.33
+AU-ST0481|2025-T1,2025-T1,High,Participated,0.67,0.5,-0.17
+AU-ST0481|2025-T2,2025-T2,High,Not participated,0.5,0.67,0.17
+AU-ST0481|2026-T1,2026-T1,High,Participated,0.67,2.0,1.33
+AU-ST0482|2024-T1,2024-T1,No prior results,Not participated,1.25,1.25,0.0
+AU-ST0482|2024-T2,2024-T2,High,Not participated,1.25,0.67,-0.58
+AU-ST0482|2025-T1,2025-T1,High,Not participated,0.67,1.33,0.66
+AU-ST0482|2025-T2,2025-T2,High,Not participated,1.33,0.5,-0.83
+AU-ST0482|2026-T1,2026-T1,High,Participated,0.5,2.33,1.83
+AU-ST0483|2024-T1,2024-T1,No prior results,Not participated,3.0,2.0,-1.0
+AU-ST0483|2024-T2,2024-T2,Low,Not participated,2.0,1.33,-0.67
+AU-ST0483|2025-T1,2025-T1,Moderate,Participated,1.33,2.0,0.67
+AU-ST0483|2025-T2,2025-T2,High,Not participated,2.0,1.75,-0.25
+AU-ST0483|2026-T1,2026-T1,Moderate,Not participated,1.75,1.67,-0.08
+AU-ST0484|2025-T1,2025-T1,No prior results,Not participated,3.0,3.25,0.25
+AU-ST0484|2025-T2,2025-T2,Low,Not participated,3.25,2.75,-0.5
+AU-ST0484|2026-T1,2026-T1,Low,Not participated,2.75,2.0,-0.75
+AU-ST0485|2024-T2,2024-T2,No prior results,Not participated,3.33,3.25,-0.08
+AU-ST0485|2025-T1,2025-T1,Low,Not participated,3.25,3.0,-0.25
+AU-ST0485|2025-T2,2025-T2,Low,Not participated,3.0,3.33,0.33
+AU-ST0485|2026-T1,2026-T1,Low,Not participated,3.33,3.25,-0.08
+AU-ST0486|2025-T1,2025-T1,No prior results,Not participated,0.0,3.5,3.5
+AU-ST0486|2025-T2,2025-T2,High,Participated,3.5,2.0,-1.5
+AU-ST0486|2026-T1,2026-T1,Low,Not participated,2.0,1.0,-1.0
+AU-ST0487|2025-T1,2025-T1,No prior results,Not participated,1.5,0.25,-1.25
+AU-ST0487|2025-T2,2025-T2,High,Participated,0.25,1.67,1.42
+AU-ST0487|2026-T1,2026-T1,High,Participated,1.67,0.25,-1.42
+AU-ST0488|2025-T2,2025-T2,Low,Not participated,1.0,1.5,0.5
+AU-ST0489|2025-T1,2025-T1,No prior results,Not participated,2.5,3.0,0.5
+AU-ST0490|2026-T1,2026-T1,No prior results,Not participated,0.33,1.0,0.67
+AU-ST0491|2024-T2,2024-T2,No prior results,Not participated,3.5,3.0,-0.5
+AU-ST0491|2025-T1,2025-T1,Low,Not participated,3.0,3.5,0.5
+AU-ST0491|2025-T2,2025-T2,Low,Not participated,3.5,3.33,-0.17
+AU-ST0491|2026-T1,2026-T1,Low,Not participated,3.33,3.0,-0.33
+AU-ST0492|2024-T1,2024-T1,No prior results,Not participated,2.0,1.75,-0.25
+AU-ST0492|2024-T2,2024-T2,Moderate,Not participated,1.75,1.0,-0.75
+AU-ST0492|2025-T1,2025-T1,Moderate,Not participated,1.0,1.0,0.0
+AU-ST0492|2025-T2,2025-T2,High,Participated,1.0,1.0,0.0
+AU-ST0492|2026-T1,2026-T1,High,Participated,1.0,0.0,-1.0
+AU-ST0493|2024-T1,2024-T1,No prior results,Not participated,4.0,3.33,-0.67
+AU-ST0493|2024-T2,2024-T2,Low,Not participated,3.33,3.5,0.17
+AU-ST0493|2025-T1,2025-T1,Low,Not participated,3.5,2.33,-1.17
+AU-ST0493|2025-T2,2025-T2,Low,Not participated,2.33,3.33,1.0
+AU-ST0493|2026-T1,2026-T1,Moderate,Not participated,3.33,2.0,-1.33
+AU-ST0494|2024-T1,2024-T1,No prior results,Not participated,0.0,0.0,0.0
+AU-ST0494|2024-T2,2024-T2,High,Participated,0.0,0.0,0.0
+AU-ST0494|2025-T1,2025-T1,High,Participated,0.0,0.0,0.0
+AU-ST0494|2025-T2,2025-T2,High,Participated,0.0,0.0,0.0
+AU-ST0494|2026-T1,2026-T1,High,Not participated,0.0,0.0,0.0
+AU-ST0495|2025-T2,2025-T2,No prior results,Not participated,3.67,2.5,-1.17
+AU-ST0495|2026-T1,2026-T1,Low,Not participated,2.5,3.0,0.5
+AU-ST0496|2025-T2,2025-T2,No prior results,Not participated,2.67,2.75,0.08
+AU-ST0496|2026-T1,2026-T1,Low,Not participated,2.75,3.75,1.0
+AU-ST0497|2026-T1,2026-T1,No prior results,Not participated,3.0,2.75,-0.25
+AU-ST0498|2026-T1,2026-T1,No prior results,Not participated,0.75,0.75,0.0
+AU-ST0499|2025-T1,2025-T1,No prior results,Not participated,1.5,0.0,-1.5
+AU-ST0499|2025-T2,2025-T2,High,Not participated,0.0,1.5,1.5
+AU-ST0499|2026-T1,2026-T1,High,Not participated,1.5,0.0,-1.5
+AU-ST0500|2025-T1,2025-T1,No prior results,Not participated,2.25,2.25,0.0
+AU-ST0500|2025-T2,2025-T2,Moderate,Not participated,2.25,3.67,1.42
+AU-ST0500|2026-T1,2026-T1,Moderate,Participated,3.67,1.0,-2.67
