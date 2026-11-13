@@ -1,0 +1,79 @@
+﻿Table,Field,Data_Type,Nullable,Key_Role,Business_Definition
+DimFaculty,Faculty_ID,Text,No,PK,Primary or foreign key identifying teaching faculty.
+DimFaculty,Faculty_Name,Text,No,Attribute,Fictional teaching faculty name.
+DimProgram,Program_ID,Text,No,PK,Primary/foreign key identifying major degree program.
+DimProgram,Program_Name,Text,No,Attribute,Program name.
+DimProgram,Faculty_ID,Text,No,Reference only — no active relationship,Primary or foreign key identifying teaching faculty.
+DimProgram,Nominal_Full_Time_Terms,Integer,No,Attribute,Assumed nominal six study terms; students may pause or exit.
+DimCourse,Course_ID,Text,No,PK,Catalogue course identifier.
+DimCourse,Course_Name,Text,No,Attribute,Course display title.
+DimCourse,Faculty_ID,Text,No,Active relationship FK,Primary or foreign key identifying teaching faculty.
+DimCourse,Course_Level,Integer,No,Attribute,"Course stage, 1 foundational through 3 advanced."
+DimCourse,Credit_Points,Integer,No,Attribute,Fictional unit credit points; six per course.
+DimTerm,Term_ID,Text,No,PK,Study period key YYYY-T1 or YYYY-T2.
+DimTerm,Academic_Year,Integer,No,Attribute,Calendar year.
+DimTerm,Study_Period,Text,No,Attribute,T1 or T2.
+DimTerm,Start_Date,Date,No,Attribute,Term start.
+DimTerm,Census_Date,Date,No,Attribute,Simulated census date.
+DimTerm,End_Date,Date,No,Attribute,Term end.
+DimTerm,Result_Release_Date,Date,Yes,Attribute,Result release date; blank on ungraded enrolment rows.
+DimTerm,Term_Order,Integer,No,Attribute,Chronological 1–6 sort key.
+DimStudent,Student_ID,Text,No,PK,Fictional student identifier; never a real identity.
+DimStudent,Program_ID,Text,No,Active relationship FK,Primary/foreign key identifying major degree program.
+DimStudent,Entry_Term_ID,Text,No,Reference only — no active relationship,First enrolling study term.
+DimStudent,Entry_Date,Date,No,Attribute,"Student start date, equal to entry term start."
+DimStudent,Entry_Age,Integer,No,Attribute,Simulated age at entry. Not a basis for individual ability decisions.
+DimStudent,Study_Load,Text,No,Attribute,Full-time or Part-time study plan.
+DimStudent,Entry_Score,Decimal,No,Attribute,"Artificial 0–100 entry assessment, used only for synthetic entry context."
+DimStudent,Scholarship_Type,Text,No,Attribute,"None, Merit or Access. Access is a fictional scholarship category."
+DimStudent,Latest_Study_Status,Text,No,Attribute,"Continuing, Paused, Exited at the dataset cut-off."
+FactEnrollment,Enrollment_ID,Text,No,PK,Unique enrolment attempt key.
+FactEnrollment,Student_ID,Text,No,Active relationship FK,Fictional student identifier; never a real identity.
+FactEnrollment,Term_ID,Text,No,Active relationship FK,Study period key YYYY-T1 or YYYY-T2.
+FactEnrollment,Course_ID,Text,No,Active relationship FK,Catalogue course identifier.
+FactEnrollment,StudentTermKey,Text,No,Reference only — no active relationship,"Unique student|term key, links student-term and support facts."
+FactEnrollment,Attempt_No,Integer,No,Attribute,Sequential number for a student taking a particular course; repeats only after F/W/I.
+FactEnrollment,Enrollment_Status,Text,No,Attribute,"Completed, Withdrawn or Incomplete."
+FactEnrollment,Final_Mark,Decimal,Yes,Attribute,Assessment mark on 0–100 scale; blank for W/I.
+FactEnrollment,Final_Grade,Text,No,Attribute,HD≥80; D≥70; C≥60; P≥50; F<50; W withdrawal; I incomplete.
+FactEnrollment,Grade_Points,Integer,Yes,Attribute,"HD 4, D 3, C 2, P 1, F 0; blank for W/I."
+FactEnrollment,Attendance_Pct,Decimal,No,Attribute,"End-term observed attendance from 0 to 100, even for W/I."
+FactEnrollment,Week4_Attendance_Pct,Decimal,No,Attribute,Early attendance observed around week 4; available before support referral.
+FactEnrollment,Study_Hours_Per_Week,Decimal,No,Attribute,Estimated average weekly independent study hours.
+FactEnrollment,Exam_Preparation,Text,No,Attribute,"Early, Regular, Last minute or None; self-reported-style category."
+FactEnrollment,Result_Release_Date,Date,Yes,Attribute,Result release date; blank on ungraded enrolment rows.
+FactStudentTerm,StudentTermKey,Text,No,PK,"Unique student|term key, links student-term and support facts."
+FactStudentTerm,Student_ID,Text,No,Active relationship FK,Fictional student identifier; never a real identity.
+FactStudentTerm,Term_ID,Text,No,Active relationship FK,Study period key YYYY-T1 or YYYY-T2.
+FactStudentTerm,First_Observed_Term,Integer,No,Attribute,"1 for first observed student term, else 0."
+FactStudentTerm,Prior_Graded_Results,Integer,No,Attribute,Graded course attempts strictly before term start.
+FactStudentTerm,Prior_Cumulative_GPA,Decimal,Yes,Attribute,Prior credit-weighted GPA from earlier eligible results; null for new students.
+FactStudentTerm,Prior_Term_GPA,Decimal,Yes,Attribute,"Credit-weighted GPA from most recent observed term, if available."
+FactStudentTerm,Prior_Term_Attendance_Pct,Decimal,Yes,Attribute,Average attendance in previous observed term.
+FactStudentTerm,Prior_Term_Failed_Results,Integer,No,Attribute,Number of F grades in previous observed term.
+FactStudentTerm,Risk_Band_At_Term_Start,Text,No,Attribute,"No prior results/Low/Moderate/High, computed only from prior-term information."
+FactStudentTerm,Term_Graded_Results,Integer,No,Attribute,Number of course attempts with HD/D/C/P/F in that student term.
+FactStudentTerm,Term_Passing_Results,Integer,No,Attribute,Number of HD/D/C/P course attempts in that student term.
+FactStudentTerm,Term_Failed_Results,Integer,No,Attribute,Number of F course attempts in that student term.
+FactStudentTerm,Term_GPA,Decimal,Yes,Attribute,Credit-weighted mean grade points for graded attempts in this term; null if none.
+FactStudentTerm,Cumulative_GPA_End,Decimal,Yes,Attribute,Credit-weighted mean grade points for all graded attempts up to and including term.
+FactStudentTerm,Term_Avg_Attendance_Pct,Decimal,No,Attribute,Mean attendance across this student term’s enrolled courses.
+FactStudentTerm,Cumulative_Graded_Results,Integer,No,Attribute,All graded attempts up to current term.
+FactStudentTerm,Cumulative_Graded_Credit_Points,Integer,No,Attribute,"All graded credits up to current term, including retake attempts."
+FactSupportCase,Support_ID,Text,No,PK,Unique offer/case ID.
+FactSupportCase,StudentTermKey,Text,No,Active relationship FK,"Unique student|term key, links student-term and support facts."
+FactSupportCase,Support_Type,Text,No,Attribute,"Peer tutoring, Study planning or Academic skills workshop."
+FactSupportCase,Referral_Reason,Text,No,Attribute,Simulated stated reason for support referral.
+FactSupportCase,Referral_Date,Date,No,Attribute,Offer/referral date after week 4.
+FactSupportCase,First_Session_Date,Date,Yes,Attribute,First attended support session; blank if none attended.
+FactSupportCase,Sessions_Attended,Integer,No,Attribute,"Observed attended support sessions, 0–5."
+FactSupportCase,Support_Status,Text,No,Attribute,"Completed, Partially attended, Declined or Did not attend."
+FactSupportCase,Follow_Up_Date,Date,Yes,Attribute,Follow-up date if support attended; blank otherwise.
+FactSupportCase,Follow_Up_Status,Text,No,Attribute,Follow-up recorded or Not applicable.
+FactSupportFollowup,StudentTermKey,Text,No,PK,"Unique student|term key, links student-term and support facts."
+FactSupportFollowup,Term_ID,Text,No,Reference only — no active relationship,Study period key YYYY-T1 or YYYY-T2.
+FactSupportFollowup,Risk_Band_At_Term_Start,Text,No,Attribute,"No prior results/Low/Moderate/High, computed only from prior-term information."
+FactSupportFollowup,Support_Participation,Text,No,Attribute,Participated if attended sessions >0; otherwise Not participated.
+FactSupportFollowup,Term_GPA,Decimal,Yes,Attribute,Credit-weighted mean grade points for graded attempts in this term; null if none.
+FactSupportFollowup,Next_Term_GPA,Decimal,No,Attribute,GPA in next chronological term if a student enrolled again and has grades.
+FactSupportFollowup,Next_Term_GPA_Change,Decimal,No,Attribute,Next term GPA minus current term GPA. Descriptive only.

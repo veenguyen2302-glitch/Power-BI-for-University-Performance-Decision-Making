@@ -1,0 +1,208 @@
+{
+  "dataset": "Aurora Faculty V2 \u2014 500 fully synthetic students",
+  "checks": [
+    {
+      "Check": "Exactly 500 unique students",
+      "Status": "PASS",
+      "Details": "500"
+    },
+    {
+      "Check": "Unique Faculty_ID",
+      "Status": "PASS",
+      "Details": "3 records"
+    },
+    {
+      "Check": "Unique Program_ID",
+      "Status": "PASS",
+      "Details": "6 records"
+    },
+    {
+      "Check": "Unique Course_ID",
+      "Status": "PASS",
+      "Details": "44 records"
+    },
+    {
+      "Check": "Unique Term_ID",
+      "Status": "PASS",
+      "Details": "6 records"
+    },
+    {
+      "Check": "Unique Enrollment_ID",
+      "Status": "PASS",
+      "Details": "6061 records"
+    },
+    {
+      "Check": "Unique StudentTermKey",
+      "Status": "PASS",
+      "Details": "1955 records"
+    },
+    {
+      "Check": "Unique Support_ID",
+      "Status": "PASS",
+      "Details": "534 records"
+    },
+    {
+      "Check": "Enrollment Student-Course-Term unique",
+      "Status": "PASS",
+      "Details": "6061"
+    },
+    {
+      "Check": "Student ID FK",
+      "Status": "PASS",
+      "Details": ""
+    },
+    {
+      "Check": "Course ID FK",
+      "Status": "PASS",
+      "Details": ""
+    },
+    {
+      "Check": "Term ID FK",
+      "Status": "PASS",
+      "Details": ""
+    },
+    {
+      "Check": "Program Faculty FKs",
+      "Status": "PASS",
+      "Details": ""
+    },
+    {
+      "Check": "Course Faculty FKs",
+      "Status": "PASS",
+      "Details": ""
+    },
+    {
+      "Check": "Student Program FK",
+      "Status": "PASS",
+      "Details": ""
+    },
+    {
+      "Check": "Student Entry Term FK",
+      "Status": "PASS",
+      "Details": ""
+    },
+    {
+      "Check": "FactStudentTerm FKs",
+      "Status": "PASS",
+      "Details": ""
+    },
+    {
+      "Check": "Support StudentTerm FK",
+      "Status": "PASS",
+      "Details": ""
+    },
+    {
+      "Check": "Enrol StudentTerm correct",
+      "Status": "PASS",
+      "Details": ""
+    },
+    {
+      "Check": "Snapshot StudentTerm correct",
+      "Status": "PASS",
+      "Details": ""
+    },
+    {
+      "Check": "Term chronological ordering",
+      "Status": "PASS",
+      "Details": ""
+    },
+    {
+      "Check": "Student not enrolled before entry",
+      "Status": "PASS",
+      "Details": ""
+    },
+    {
+      "Check": "Student entry date matches term",
+      "Status": "PASS",
+      "Details": ""
+    },
+    {
+      "Check": "Student status domain",
+      "Status": "PASS",
+      "Details": ""
+    },
+    {
+      "Check": "Study load domain",
+      "Status": "PASS",
+      "Details": ""
+    },
+    {
+      "Check": "Scholarship domain",
+      "Status": "PASS",
+      "Details": ""
+    },
+    {
+      "Check": "No out-of-range source metrics",
+      "Status": "PASS",
+      "Details": ""
+    },
+    {
+      "Check": "Grade and enrollment status consistent",
+      "Status": "PASS",
+      "Details": ""
+    },
+    {
+      "Check": "Grade matches published simulated threshold",
+      "Status": "PASS",
+      "Details": ""
+    },
+    {
+      "Check": "Grade points match mapping",
+      "Status": "PASS",
+      "Details": ""
+    },
+    {
+      "Check": "Attempt_No is sequential",
+      "Status": "PASS",
+      "Details": "0 errors"
+    },
+    {
+      "Check": "Retakes only after F/W/I",
+      "Status": "PASS",
+      "Details": "0 errors"
+    },
+    {
+      "Check": "Retake capped at 3 attempts",
+      "Status": "PASS",
+      "Details": ""
+    },
+    {
+      "Check": "Support offer max one per student-term",
+      "Status": "PASS",
+      "Details": ""
+    },
+    {
+      "Check": "Support temporal logic, activity and statuses",
+      "Status": "PASS",
+      "Details": ""
+    },
+    {
+      "Check": "Term and cumulative GPA reconcile independently",
+      "Status": "PASS",
+      "Details": "0 errors"
+    },
+    {
+      "Check": "Prior-term risk has no future/result leakage",
+      "Status": "PASS",
+      "Details": "0 errors"
+    },
+    {
+      "Check": "Term result counts reconcile",
+      "Status": "PASS",
+      "Details": "0 errors"
+    },
+    {
+      "Check": "No invalid GPA",
+      "Status": "PASS",
+      "Details": ""
+    }
+  ],
+  "passed": 39,
+  "failed": 0,
+  "notes": [
+    "A PASS validates simulated integrity against documented rules, not real-world representativeness.",
+    "No observed treatment effect is claimed; support participation is non-random.",
+    "Course grades and pass rates exclude W and I and include graded retake attempts.",
+    "All original academic data remain unchanged."
+  ]
+}

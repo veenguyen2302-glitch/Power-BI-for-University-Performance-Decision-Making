@@ -1,0 +1,56 @@
+// AURORA FACULTY V2 — SYNTHETIC DATA ONLY
+// Copy each definition separately into Power BI > New measure.
+// Model relationships: faculty/technical/data-model.md
+// Use FactEnrollment for course/term outcomes, FactStudentTerm for GPA.
+
+Enrolled Students =
+DISTINCTCOUNT('FactEnrollment'[Student_ID])
+
+Graded Results =
+CALCULATE(
+    COUNTROWS('FactEnrollment'),
+    REMOVEFILTERS('FactEnrollment'[Final_Grade]),
+    'FactEnrollment'[Enrollment_Status] = "Completed",
+    'FactEnrollment'[Final_Grade] IN {"HD", "D", "C", "P", "F"}
+)
+
+Passing Results =
+CALCULATE(
+    COUNTROWS('FactEnrollment'),
+    REMOVEFILTERS('FactEnrollment'[Final_Grade]),
+    'FactEnrollment'[Enrollment_Status] = "Completed",
+    'FactEnrollment'[Final_Grade] IN {"HD", "D", "C", "P"}
+)
+
+Pass Rate =
+DIVIDE([Passing Results], [Graded Results])
+
+// For stacked grade charts; KEEPFILTERS preserves individual grade segments.
+// Never use [Graded Results] as the stacked grade chart's value.
+Grade Count =
+CALCULATE(
+    COUNTROWS('FactEnrollment'),
+    KEEPFILTERS('FactEnrollment'[Enrollment_Status] = "Completed"),
+    KEEPFILTERS('FactEnrollment'[Final_Grade] IN {"HD", "D", "C", "P", "F"})
+)
+
+Average Course Mark =
+AVERAGE('FactEnrollment'[Final_Mark])
+
+// Attendance is attempt-weighted and includes W and I.
+Average Attendance =
+DIVIDE(AVERAGE('FactEnrollment'[Attendance_Pct]), 100)
+
+Average Study Hours =
+AVERAGE('FactEnrollment'[Study_Hours_Per_Week])
+
+// Student-term grain; never use this in a course pass rate calculation.
+Average Student-Term GPA =
+AVERAGE('FactStudentTerm'[Term_GPA])
+
+Support Offers = COUNTROWS('FactSupportCase')
+
+Support Participants =
+CALCULATE(COUNTROWS('FactSupportCase'), 'FactSupportCase'[Sessions_Attended] > 0)
+
+Support Uptake Rate = DIVIDE([Support Participants], [Support Offers])

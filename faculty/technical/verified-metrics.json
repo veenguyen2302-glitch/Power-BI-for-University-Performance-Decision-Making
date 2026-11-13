@@ -1,0 +1,175 @@
+{
+  "scope": "Synthetic Faculty V2 only",
+  "students": 500,
+  "courses": 44,
+  "terms": 6,
+  "enrolment_attempts": 6061,
+  "graded_results": 5742,
+  "passing_results": 4501,
+  "pass_rate_percent": 78.39,
+  "average_course_mark": 63.4,
+  "average_attendance_pct": 74.47,
+  "average_study_hours": 10.29,
+  "withdrawn_attempts": 177,
+  "incomplete_attempts": 142,
+  "grade_count": {
+    "HD": 960,
+    "D": 1061,
+    "F": 1241,
+    "C": 1349,
+    "P": 1131
+  },
+  "support_offers": 534,
+  "support_participated_offers": 370,
+  "support_uptake_percent": 69.29,
+  "lowest_10_courses_n_at_least_50": [
+    {
+      "id": "SCI102",
+      "name": "Fundamentals of Physics",
+      "n": 144,
+      "pass_n": 93,
+      "rate": 64.58333333333333
+    },
+    {
+      "id": "CMP103",
+      "name": "Database Fundamentals",
+      "n": 264,
+      "pass_n": 171,
+      "rate": 64.77272727272727
+    },
+    {
+      "id": "BUS102",
+      "name": "Principles of Marketing",
+      "n": 180,
+      "pass_n": 120,
+      "rate": 66.66666666666667
+    },
+    {
+      "id": "BUS104",
+      "name": "Business Law",
+      "n": 173,
+      "pass_n": 116,
+      "rate": 67.05202312138728
+    },
+    {
+      "id": "CMP204",
+      "name": "Cybersecurity",
+      "n": 103,
+      "pass_n": 70,
+      "rate": 67.96116504854369
+    },
+    {
+      "id": "SCI204",
+      "name": "Systems Design",
+      "n": 76,
+      "pass_n": 52,
+      "rate": 68.42105263157895
+    },
+    {
+      "id": "BUS101",
+      "name": "Accounting",
+      "n": 148,
+      "pass_n": 106,
+      "rate": 71.62162162162163
+    },
+    {
+      "id": "SCI301",
+      "name": "Operations Research",
+      "n": 97,
+      "pass_n": 70,
+      "rate": 72.16494845360825
+    },
+    {
+      "id": "SCI206",
+      "name": "Project Management",
+      "n": 120,
+      "pass_n": 89,
+      "rate": 74.16666666666667
+    },
+    {
+      "id": "BUS202",
+      "name": "Financial Reporting",
+      "n": 83,
+      "pass_n": 62,
+      "rate": 74.6987951807229
+    }
+  ],
+  "term_metrics": [
+    {
+      "term": "2024-T1",
+      "order": 1,
+      "n": 454,
+      "passing": 347,
+      "rate": 76.431718061674
+    },
+    {
+      "term": "2024-T2",
+      "order": 2,
+      "n": 641,
+      "passing": 491,
+      "rate": 76.5990639625585
+    },
+    {
+      "term": "2025-T1",
+      "order": 3,
+      "n": 974,
+      "passing": 741,
+      "rate": 76.07802874743327
+    },
+    {
+      "term": "2025-T2",
+      "order": 4,
+      "n": 1102,
+      "passing": 865,
+      "rate": 78.49364791288566
+    },
+    {
+      "term": "2026-T1",
+      "order": 5,
+      "n": 1265,
+      "passing": 1012,
+      "rate": 80.0
+    },
+    {
+      "term": "2026-T2",
+      "order": 6,
+      "n": 1306,
+      "passing": 1045,
+      "rate": 80.01531393568148
+    }
+  ],
+  "attendance_bands": [
+    {
+      "band": "<60%",
+      "n": 1016,
+      "passing": 492,
+      "rate": 48.425196850393704
+    },
+    {
+      "band": "60–<75%",
+      "n": 1845,
+      "passing": 1352,
+      "rate": 73.27913279132791
+    },
+    {
+      "band": "75–<85%",
+      "n": 1342,
+      "passing": 1171,
+      "rate": 87.25782414307004
+    },
+    {
+      "band": "85–100%",
+      "n": 1539,
+      "passing": 1486,
+      "rate": 96.55620532813515
+    }
+  ],
+  "source": "faculty/data/*.csv",
+  "caveats": [
+    "All data are synthetic",
+    "DAX has not been executed in Power BI during this packaging",
+    "Course pass rate is attempt-level, not unique student pass rate",
+    "Attendance average includes withdrawals and incompletes",
+    "Original coursework and older repository demo are separate from V2"
+  ]
+}
