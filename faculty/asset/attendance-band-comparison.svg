@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="550" viewBox="0 0 1040 550" role="img" aria-label="Attendance bands | observed passing share">
+<rect x="0" y="0" width="1040" height="550" rx="0" fill="#FFFFFF"/>
+<rect x="0" y="0" width="1040" height="67" rx="0" fill="#15385E"/>
+<text x="26" y="43" fill="#FFFFFF" font-size="25" font-weight="700" text-anchor="start" font-family="Arial, Helvetica, sans-serif">Attendance bands | observed passing share</text>
+<text x="27" y="94" fill="#63758A" font-size="14" font-weight="400" text-anchor="start" font-family="Arial, Helvetica, sans-serif">Descriptive association in generated data; not evidence of a causal effect</text>
+<line x1="296.0" y1="147" x2="296.0" y2="467" stroke="#E0E8F0" stroke-width="1"/>
+<text x="296.0" y="490" fill="#63758A" font-size="14" font-weight="400" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">0%</text>
+<line x1="447.5" y1="147" x2="447.5" y2="467" stroke="#E0E8F0" stroke-width="1"/>
+<text x="447.5" y="490" fill="#63758A" font-size="14" font-weight="400" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">25%</text>
+<line x1="599.0" y1="147" x2="599.0" y2="467" stroke="#E0E8F0" stroke-width="1"/>
+<text x="599.0" y="490" fill="#63758A" font-size="14" font-weight="400" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">50%</text>
+<line x1="750.5" y1="147" x2="750.5" y2="467" stroke="#E0E8F0" stroke-width="1"/>
+<text x="750.5" y="490" fill="#63758A" font-size="14" font-weight="400" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">75%</text>
+<line x1="902.0" y1="147" x2="902.0" y2="467" stroke="#E0E8F0" stroke-width="1"/>
+<text x="902.0" y="490" fill="#63758A" font-size="14" font-weight="400" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">100%</text>
+<line x1="771.0271682340647" y1="143" x2="771.0271682340647" y2="466" stroke="#F0A448" stroke-width="2" stroke-dasharray="5,4"/>
+<text x="276" y="190" fill="#172B42" font-size="19" font-weight="600" text-anchor="end" font-family="Arial, Helvetica, sans-serif">&lt;60%</text>
+<rect x="296" y="166" width="293.45669291338584" height="36" rx="5" fill="#2876C7"/>
+<text x="920" y="191" fill="#172B42" font-size="18" font-weight="700" text-anchor="start" font-family="Arial, Helvetica, sans-serif">48.43%</text>
+<text x="301" y="222" fill="#63758A" font-size="12" font-weight="400" text-anchor="start" font-family="Arial, Helvetica, sans-serif">N=1,016 graded attempts</text>
+<text x="276" y="270" fill="#172B42" font-size="19" font-weight="600" text-anchor="end" font-family="Arial, Helvetica, sans-serif">60–&lt;75%</text>
+<rect x="296" y="246" width="444.07154471544715" height="36" rx="5" fill="#2876C7"/>
+<text x="920" y="271" fill="#172B42" font-size="18" font-weight="700" text-anchor="start" font-family="Arial, Helvetica, sans-serif">73.28%</text>
+<text x="301" y="302" fill="#63758A" font-size="12" font-weight="400" text-anchor="start" font-family="Arial, Helvetica, sans-serif">N=1,845 graded attempts</text>
+<text x="276" y="350" fill="#172B42" font-size="19" font-weight="600" text-anchor="end" font-family="Arial, Helvetica, sans-serif">75–&lt;85%</text>
+<rect x="296" y="326" width="528.7824143070044" height="36" rx="5" fill="#2EA8A0"/>
+<text x="920" y="351" fill="#172B42" font-size="18" font-weight="700" text-anchor="start" font-family="Arial, Helvetica, sans-serif">87.26%</text>
+<text x="301" y="382" fill="#63758A" font-size="12" font-weight="400" text-anchor="start" font-family="Arial, Helvetica, sans-serif">N=1,342 graded attempts</text>
+<text x="276" y="430" fill="#172B42" font-size="19" font-weight="600" text-anchor="end" font-family="Arial, Helvetica, sans-serif">85–100%</text>
+<rect x="296" y="406" width="585.1306042884991" height="36" rx="5" fill="#2EA8A0"/>
+<text x="920" y="431" fill="#172B42" font-size="18" font-weight="700" text-anchor="start" font-family="Arial, Helvetica, sans-serif">96.56%</text>
+<text x="301" y="462" fill="#63758A" font-size="12" font-weight="400" text-anchor="start" font-family="Arial, Helvetica, sans-serif">N=1,539 graded attempts</text>
+<rect x="694" y="98" width="315" height="34" rx="7" fill="#FFF3E2"/>
+<text x="709" y="120" fill="#8D5714" font-size="14" font-weight="600" text-anchor="start" font-family="Arial, Helvetica, sans-serif">Overall passing share: 78.39%</text>
+<text x="26" y="525" fill="#63758A" font-size="12" font-weight="400" text-anchor="start" font-family="Arial, Helvetica, sans-serif">Source: Faculty V2 • attendance measured over course attempts • synthetic generator includes shared engagement effects</text>
+</svg>

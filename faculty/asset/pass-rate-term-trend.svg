@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="550" viewBox="0 0 1040 550" role="img" aria-label="Pass rate across six academic terms">
+<rect x="0" y="0" width="1040" height="550" rx="0" fill="#FFFFFF"/>
+<rect x="0" y="0" width="1040" height="67" rx="0" fill="#15385E"/>
+<text x="26" y="43" fill="#FFFFFF" font-size="25" font-weight="700" text-anchor="start" font-family="Arial, Helvetica, sans-serif">Pass rate across six academic terms</text>
+<text x="27" y="94" fill="#63758A" font-size="14" font-weight="400" text-anchor="start" font-family="Arial, Helvetica, sans-serif">Overall eligible attempts by term (cohort and course mix can change)</text>
+<line x1="112" y1="426.0" x2="950" y2="426.0" stroke="#E0E8F0" stroke-width="1"/>
+<text x="90" y="431.0" fill="#63758A" font-size="14" font-weight="400" text-anchor="end" font-family="Arial, Helvetica, sans-serif">70%</text>
+<line x1="112" y1="332.33333333333337" x2="950" y2="332.33333333333337" stroke="#E0E8F0" stroke-width="1"/>
+<text x="90" y="337.33333333333337" fill="#63758A" font-size="14" font-weight="400" text-anchor="end" font-family="Arial, Helvetica, sans-serif">75%</text>
+<line x1="112" y1="238.66666666666669" x2="950" y2="238.66666666666669" stroke="#E0E8F0" stroke-width="1"/>
+<text x="90" y="243.66666666666669" fill="#63758A" font-size="14" font-weight="400" text-anchor="end" font-family="Arial, Helvetica, sans-serif">80%</text>
+<line x1="112" y1="145.0" x2="950" y2="145.0" stroke="#E0E8F0" stroke-width="1"/>
+<text x="90" y="150.0" fill="#63758A" font-size="14" font-weight="400" text-anchor="end" font-family="Arial, Helvetica, sans-serif">85%</text>
+<path d="M112.0,305.5 L279.6,302.4 L447.2,312.1 L614.8,266.9 L782.4,238.7 L950.0,238.4" fill="none" stroke="#2876C7" stroke-width="4" stroke-linejoin="round"/>
+<circle cx="112.0" cy="305.51248164464033" r="7" fill="white" stroke="#2876C7" stroke-width="3"><title>2024-T1: 76.43% (N=454)</title></circle>
+<text x="112.0" y="289.51248164464033" fill="#172B42" font-size="16" font-weight="700" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">76.43%</text>
+<text x="112.0" y="459" fill="#172B42" font-size="15" font-weight="500" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">2024-T1</text>
+<text x="112.0" y="481" fill="#63758A" font-size="12" font-weight="400" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">N=454</text>
+<circle cx="279.6" cy="302.377535101404" r="7" fill="white" stroke="#2876C7" stroke-width="3"><title>2024-T2: 76.60% (N=641)</title></circle>
+<text x="279.6" y="286.377535101404" fill="#172B42" font-size="16" font-weight="700" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">76.60%</text>
+<text x="279.6" y="459" fill="#172B42" font-size="15" font-weight="500" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">2024-T2</text>
+<text x="279.6" y="481" fill="#63758A" font-size="12" font-weight="400" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">N=641</text>
+<circle cx="447.2" cy="312.13826146475014" r="7" fill="white" stroke="#2876C7" stroke-width="3"><title>2025-T1: 76.08% (N=974)</title></circle>
+<text x="447.2" y="296.13826146475014" fill="#172B42" font-size="16" font-weight="700" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">76.08%</text>
+<text x="447.2" y="459" fill="#172B42" font-size="15" font-weight="500" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">2025-T1</text>
+<text x="447.2" y="481" fill="#63758A" font-size="12" font-weight="400" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">N=974</text>
+<circle cx="614.8" cy="266.8856624319419" r="7" fill="white" stroke="#2876C7" stroke-width="3"><title>2025-T2: 78.49% (N=1102)</title></circle>
+<text x="614.8" y="250.8856624319419" fill="#172B42" font-size="16" font-weight="700" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">78.49%</text>
+<text x="614.8" y="459" fill="#172B42" font-size="15" font-weight="500" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">2025-T2</text>
+<text x="614.8" y="481" fill="#63758A" font-size="12" font-weight="400" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">N=1102</text>
+<circle cx="782.4" cy="238.66666666666669" r="7" fill="white" stroke="#2876C7" stroke-width="3"><title>2026-T1: 80.00% (N=1265)</title></circle>
+<text x="782.4" y="222.66666666666669" fill="#172B42" font-size="16" font-weight="700" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">80.00%</text>
+<text x="782.4" y="459" fill="#172B42" font-size="15" font-weight="500" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">2026-T1</text>
+<text x="782.4" y="481" fill="#63758A" font-size="12" font-weight="400" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">N=1265</text>
+<circle cx="950.0" cy="238.37978560490032" r="7" fill="white" stroke="#2876C7" stroke-width="3"><title>2026-T2: 80.02% (N=1306)</title></circle>
+<text x="950.0" y="222.37978560490032" fill="#172B42" font-size="16" font-weight="700" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">80.02%</text>
+<text x="950.0" y="459" fill="#172B42" font-size="15" font-weight="500" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">2026-T2</text>
+<text x="950.0" y="481" fill="#63758A" font-size="12" font-weight="400" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">N=1306</text>
+<rect x="656" y="94" width="353" height="34" rx="7" fill="#FFF3E2"/>
+<text x="673" y="117" fill="#8D5714" font-size="14" font-weight="600" text-anchor="start" font-family="Arial, Helvetica, sans-serif">Y-axis begins at 70%; not zero</text>
+<text x="24" y="528" fill="#63758A" font-size="13" font-weight="400" text-anchor="start" font-family="Arial, Helvetica, sans-serif">Source: Faculty V2 • term rates are descriptive; not an intervention effect</text>
+</svg>

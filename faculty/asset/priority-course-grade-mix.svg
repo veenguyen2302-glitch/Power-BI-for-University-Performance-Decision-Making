@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="565" viewBox="0 0 1050 565" role="img" aria-label="Grade mix | four courses prioritised for review">
+<rect x="0" y="0" width="1050" height="565" rx="0" fill="#FFFFFF"/>
+<rect x="0" y="0" width="1050" height="67" rx="0" fill="#15385E"/>
+<text x="26" y="43" fill="#FFFFFF" font-size="25" font-weight="700" text-anchor="start" font-family="Arial, Helvetica, sans-serif">Grade mix | four courses prioritised for review</text>
+<text x="27" y="94" fill="#63758A" font-size="14" font-weight="400" text-anchor="start" font-family="Arial, Helvetica, sans-serif">Each bar shows 100% of graded results; labels are counts of course attempts</text>
+<rect x="236" y="113" width="17" height="17" rx="3" fill="#15385E"/>
+<text x="261" y="127" fill="#172B42" font-size="15" font-weight="700" text-anchor="start" font-family="Arial, Helvetica, sans-serif">HD</text>
+<rect x="353" y="113" width="17" height="17" rx="3" fill="#2876C7"/>
+<text x="378" y="127" fill="#172B42" font-size="15" font-weight="700" text-anchor="start" font-family="Arial, Helvetica, sans-serif">D</text>
+<rect x="470" y="113" width="17" height="17" rx="3" fill="#2EA8A0"/>
+<text x="495" y="127" fill="#172B42" font-size="15" font-weight="700" text-anchor="start" font-family="Arial, Helvetica, sans-serif">C</text>
+<rect x="587" y="113" width="17" height="17" rx="3" fill="#A9D0F2"/>
+<text x="612" y="127" fill="#172B42" font-size="15" font-weight="700" text-anchor="start" font-family="Arial, Helvetica, sans-serif">P</text>
+<rect x="704" y="113" width="17" height="17" rx="3" fill="#F0A448"/>
+<text x="729" y="127" fill="#172B42" font-size="15" font-weight="700" text-anchor="start" font-family="Arial, Helvetica, sans-serif">F</text>
+<text x="303" y="209" fill="#172B42" font-size="17" font-weight="600" text-anchor="end" font-family="Arial, Helvetica, sans-serif">Fundamentals of Physics</text>
+<rect x="330" y="182" width="73.34" height="42" rx="0" fill="#15385E"/>
+<text x="366.59722222222223" y="209" fill="#FFFFFF" font-size="16" font-weight="700" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">17</text>
+<rect x="403.19" y="182" width="103.48" height="42" rx="0" fill="#2876C7"/>
+<text x="454.86111111111114" y="209" fill="#FFFFFF" font-size="16" font-weight="700" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">24</text>
+<rect x="506.53" y="182" width="94.87" height="42" rx="0" fill="#2EA8A0"/>
+<text x="553.8888888888889" y="209" fill="#FFFFFF" font-size="16" font-weight="700" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">22</text>
+<rect x="601.25" y="182" width="129.32" height="42" rx="0" fill="#A9D0F2"/>
+<text x="665.8333333333334" y="209" fill="#172B42" font-size="16" font-weight="700" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">30</text>
+<rect x="730.42" y="182" width="219.73000000000002" height="42" rx="0" fill="#F0A448"/>
+<text x="840.2083333333333" y="209" fill="#FFFFFF" font-size="16" font-weight="700" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">51</text>
+<text x="970" y="209" fill="#63758A" font-size="14" font-weight="400" text-anchor="start" font-family="Arial, Helvetica, sans-serif">N=144</text>
+<text x="303" y="290" fill="#172B42" font-size="17" font-weight="600" text-anchor="end" font-family="Arial, Helvetica, sans-serif">Database Fundamentals</text>
+<rect x="330" y="263" width="47.12" height="42" rx="0" fill="#15385E"/>
+<text x="353.4848484848485" y="290" fill="#FFFFFF" font-size="16" font-weight="700" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">20</text>
+<rect x="376.97" y="263" width="68.26" height="42" rx="0" fill="#2876C7"/>
+<text x="411.0227272727273" y="290" fill="#FFFFFF" font-size="16" font-weight="700" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">29</text>
+<rect x="445.08" y="263" width="148.1" height="42" rx="0" fill="#2EA8A0"/>
+<text x="519.0530303030304" y="290" fill="#FFFFFF" font-size="16" font-weight="700" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">63</text>
+<rect x="593.03" y="263" width="138.71" height="42" rx="0" fill="#A9D0F2"/>
+<text x="662.3106060606061" y="290" fill="#172B42" font-size="16" font-weight="700" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">59</text>
+<rect x="731.59" y="263" width="218.56" height="42" rx="0" fill="#F0A448"/>
+<text x="840.7954545454547" y="290" fill="#FFFFFF" font-size="16" font-weight="700" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">93</text>
+<text x="970" y="290" fill="#63758A" font-size="14" font-weight="400" text-anchor="start" font-family="Arial, Helvetica, sans-serif">N=264</text>
+<text x="303" y="371" fill="#172B42" font-size="17" font-weight="600" text-anchor="end" font-family="Arial, Helvetica, sans-serif">Principles of Marketing</text>
+<rect x="330" y="344" width="55.26" height="42" rx="0" fill="#15385E"/>
+<text x="357.55555555555554" y="371" fill="#FFFFFF" font-size="16" font-weight="700" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">16</text>
+<rect x="385.11" y="344" width="69.04" height="42" rx="0" fill="#2876C7"/>
+<text x="419.55555555555554" y="371" fill="#FFFFFF" font-size="16" font-weight="700" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">20</text>
+<rect x="454.0" y="344" width="148.26000000000002" height="42" rx="0" fill="#2EA8A0"/>
+<text x="528.0555555555555" y="371" fill="#FFFFFF" font-size="16" font-weight="700" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">43</text>
+<rect x="602.11" y="344" width="141.37" height="42" rx="0" fill="#A9D0F2"/>
+<text x="672.7222222222222" y="371" fill="#172B42" font-size="16" font-weight="700" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">41</text>
+<rect x="743.33" y="344" width="206.82" height="42" rx="0" fill="#F0A448"/>
+<text x="846.6666666666666" y="371" fill="#FFFFFF" font-size="16" font-weight="700" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">60</text>
+<text x="970" y="371" fill="#63758A" font-size="14" font-weight="400" text-anchor="start" font-family="Arial, Helvetica, sans-serif">N=180</text>
+<text x="303" y="452" fill="#172B42" font-size="17" font-weight="600" text-anchor="end" font-family="Arial, Helvetica, sans-serif">Business Law</text>
+<rect x="330" y="425" width="53.91" height="42" rx="0" fill="#15385E"/>
+<text x="356.87861271676303" y="452" fill="#FFFFFF" font-size="16" font-weight="700" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">15</text>
+<rect x="383.76" y="425" width="100.5" height="42" rx="0" fill="#2876C7"/>
+<text x="433.9306358381503" y="452" fill="#FFFFFF" font-size="16" font-weight="700" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">28</text>
+<rect x="484.1" y="425" width="132.75" height="42" rx="0" fill="#2EA8A0"/>
+<text x="550.4046242774566" y="452" fill="#FFFFFF" font-size="16" font-weight="700" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">37</text>
+<rect x="616.71" y="425" width="129.17000000000002" height="42" rx="0" fill="#A9D0F2"/>
+<text x="681.2138728323699" y="452" fill="#172B42" font-size="16" font-weight="700" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">36</text>
+<rect x="745.72" y="425" width="204.43" height="42" rx="0" fill="#F0A448"/>
+<text x="847.8612716763006" y="452" fill="#FFFFFF" font-size="16" font-weight="700" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">57</text>
+<text x="970" y="452" fill="#63758A" font-size="14" font-weight="400" text-anchor="start" font-family="Arial, Helvetica, sans-serif">N=173</text>
+<line x1="330.0" y1="507" x2="330.0" y2="519" stroke="#E0E8F0" stroke-width="1"/>
+<text x="330.0" y="542" fill="#63758A" font-size="14" font-weight="400" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">0%</text>
+<line x1="485.0" y1="507" x2="485.0" y2="519" stroke="#E0E8F0" stroke-width="1"/>
+<text x="485.0" y="542" fill="#63758A" font-size="14" font-weight="400" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">25%</text>
+<line x1="640.0" y1="507" x2="640.0" y2="519" stroke="#E0E8F0" stroke-width="1"/>
+<text x="640.0" y="542" fill="#63758A" font-size="14" font-weight="400" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">50%</text>
+<line x1="795.0" y1="507" x2="795.0" y2="519" stroke="#E0E8F0" stroke-width="1"/>
+<text x="795.0" y="542" fill="#63758A" font-size="14" font-weight="400" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">75%</text>
+<line x1="950.0" y1="507" x2="950.0" y2="519" stroke="#E0E8F0" stroke-width="1"/>
+<text x="950.0" y="542" fill="#63758A" font-size="14" font-weight="400" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">100%</text>
+<line x1="330" y1="507" x2="950" y2="507" stroke="#E0E8F0" stroke-width="1"/>
+<text x="20" y="554" fill="#63758A" font-size="13" font-weight="400" text-anchor="start" font-family="Arial, Helvetica, sans-serif">Grades: HD 80+, D 70–&lt;80, C 60–&lt;70, P 50–&lt;60, F &lt;50 | Simulated rules</text>
+</svg>

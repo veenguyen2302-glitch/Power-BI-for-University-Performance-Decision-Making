@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="610" viewBox="0 0 1040 610" role="img" aria-label="Course pass rates | lowest 10 eligible courses">
+<rect x="0" y="0" width="1040" height="610" rx="0" fill="#FFFFFF"/>
+<rect x="0" y="0" width="1040" height="67" rx="0" fill="#15385E"/>
+<text x="26" y="43" fill="#FFFFFF" font-size="25" font-weight="700" text-anchor="start" font-family="Arial, Helvetica, sans-serif">Course pass rates | lowest 10 eligible courses</text>
+<text x="27" y="94" fill="#63758A" font-size="14" font-weight="400" text-anchor="start" font-family="Arial, Helvetica, sans-serif">Ranked by graded-attempt pass rate • Only courses with N ≥ 50</text>
+<line x1="315.0" y1="125" x2="315.0" y2="520" stroke="#E0E8F0" stroke-width="1"/>
+<text x="315.0" y="542" fill="#63758A" font-size="13" font-weight="400" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">0%</text>
+<line x1="420.0" y1="125" x2="420.0" y2="520" stroke="#E0E8F0" stroke-width="1"/>
+<text x="420.0" y="542" fill="#63758A" font-size="13" font-weight="400" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">20%</text>
+<line x1="525.0" y1="125" x2="525.0" y2="520" stroke="#E0E8F0" stroke-width="1"/>
+<text x="525.0" y="542" fill="#63758A" font-size="13" font-weight="400" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">40%</text>
+<line x1="630.0" y1="125" x2="630.0" y2="520" stroke="#E0E8F0" stroke-width="1"/>
+<text x="630.0" y="542" fill="#63758A" font-size="13" font-weight="400" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">60%</text>
+<line x1="735.0" y1="125" x2="735.0" y2="520" stroke="#E0E8F0" stroke-width="1"/>
+<text x="735.0" y="542" fill="#63758A" font-size="13" font-weight="400" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">80%</text>
+<line x1="840.0" y1="125" x2="840.0" y2="520" stroke="#E0E8F0" stroke-width="1"/>
+<text x="840.0" y="542" fill="#63758A" font-size="13" font-weight="400" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">100%</text>
+<line x1="726.5334378265413" y1="126" x2="726.5334378265413" y2="516" stroke="#F0A448" stroke-width="2.2" stroke-dasharray="5,4"/>
+<rect x="728" y="78" width="270" height="34" rx="7" fill="#FFF3E2"/>
+<text x="743" y="100" fill="#8D5714" font-size="15" font-weight="700" text-anchor="start" font-family="Arial, Helvetica, sans-serif">Overall pass rate 78.39%</text>
+<text x="296" y="162" fill="#172B42" font-size="16" font-weight="500" text-anchor="end" font-family="Arial, Helvetica, sans-serif">Fundamentals of Physics</text>
+<rect x="315" y="143" width="339.0625" height="23" rx="4" fill="#15385E"/>
+<text x="857" y="161" fill="#172B42" font-size="16" font-weight="700" text-anchor="start" font-family="Arial, Helvetica, sans-serif">64.58%</text>
+<text x="953" y="161" fill="#63758A" font-size="13" font-weight="400" text-anchor="start" font-family="Arial, Helvetica, sans-serif">N=144</text>
+<text x="296" y="200" fill="#172B42" font-size="16" font-weight="500" text-anchor="end" font-family="Arial, Helvetica, sans-serif">Database Fundamentals</text>
+<rect x="315" y="181" width="340.0568181818182" height="23" rx="4" fill="#15385E"/>
+<text x="857" y="199" fill="#172B42" font-size="16" font-weight="700" text-anchor="start" font-family="Arial, Helvetica, sans-serif">64.77%</text>
+<text x="953" y="199" fill="#63758A" font-size="13" font-weight="400" text-anchor="start" font-family="Arial, Helvetica, sans-serif">N=264</text>
+<text x="296" y="238" fill="#172B42" font-size="16" font-weight="500" text-anchor="end" font-family="Arial, Helvetica, sans-serif">Principles of Marketing</text>
+<rect x="315" y="219" width="350.0" height="23" rx="4" fill="#15385E"/>
+<text x="857" y="237" fill="#172B42" font-size="16" font-weight="700" text-anchor="start" font-family="Arial, Helvetica, sans-serif">66.67%</text>
+<text x="953" y="237" fill="#63758A" font-size="13" font-weight="400" text-anchor="start" font-family="Arial, Helvetica, sans-serif">N=180</text>
+<text x="296" y="276" fill="#172B42" font-size="16" font-weight="500" text-anchor="end" font-family="Arial, Helvetica, sans-serif">Business Law</text>
+<rect x="315" y="257" width="352.02312138728325" height="23" rx="4" fill="#15385E"/>
+<text x="857" y="275" fill="#172B42" font-size="16" font-weight="700" text-anchor="start" font-family="Arial, Helvetica, sans-serif">67.05%</text>
+<text x="953" y="275" fill="#63758A" font-size="13" font-weight="400" text-anchor="start" font-family="Arial, Helvetica, sans-serif">N=173</text>
+<text x="296" y="314" fill="#172B42" font-size="16" font-weight="500" text-anchor="end" font-family="Arial, Helvetica, sans-serif">Cybersecurity</text>
+<rect x="315" y="295" width="356.79611650485435" height="23" rx="4" fill="#2876C7"/>
+<text x="857" y="313" fill="#172B42" font-size="16" font-weight="700" text-anchor="start" font-family="Arial, Helvetica, sans-serif">67.96%</text>
+<text x="953" y="313" fill="#63758A" font-size="13" font-weight="400" text-anchor="start" font-family="Arial, Helvetica, sans-serif">N=103</text>
+<text x="296" y="352" fill="#172B42" font-size="16" font-weight="500" text-anchor="end" font-family="Arial, Helvetica, sans-serif">Systems Design</text>
+<rect x="315" y="333" width="359.2105263157895" height="23" rx="4" fill="#2876C7"/>
+<text x="857" y="351" fill="#172B42" font-size="16" font-weight="700" text-anchor="start" font-family="Arial, Helvetica, sans-serif">68.42%</text>
+<text x="953" y="351" fill="#63758A" font-size="13" font-weight="400" text-anchor="start" font-family="Arial, Helvetica, sans-serif">N=76</text>
+<text x="296" y="390" fill="#172B42" font-size="16" font-weight="500" text-anchor="end" font-family="Arial, Helvetica, sans-serif">Accounting</text>
+<rect x="315" y="371" width="376.01351351351354" height="23" rx="4" fill="#2876C7"/>
+<text x="857" y="389" fill="#172B42" font-size="16" font-weight="700" text-anchor="start" font-family="Arial, Helvetica, sans-serif">71.62%</text>
+<text x="953" y="389" fill="#63758A" font-size="13" font-weight="400" text-anchor="start" font-family="Arial, Helvetica, sans-serif">N=148</text>
+<text x="296" y="428" fill="#172B42" font-size="16" font-weight="500" text-anchor="end" font-family="Arial, Helvetica, sans-serif">Operations Research</text>
+<rect x="315" y="409" width="378.8659793814433" height="23" rx="4" fill="#2876C7"/>
+<text x="857" y="427" fill="#172B42" font-size="16" font-weight="700" text-anchor="start" font-family="Arial, Helvetica, sans-serif">72.16%</text>
+<text x="953" y="427" fill="#63758A" font-size="13" font-weight="400" text-anchor="start" font-family="Arial, Helvetica, sans-serif">N=97</text>
+<text x="296" y="466" fill="#172B42" font-size="16" font-weight="500" text-anchor="end" font-family="Arial, Helvetica, sans-serif">Project Management</text>
+<rect x="315" y="447" width="389.375" height="23" rx="4" fill="#2876C7"/>
+<text x="857" y="465" fill="#172B42" font-size="16" font-weight="700" text-anchor="start" font-family="Arial, Helvetica, sans-serif">74.17%</text>
+<text x="953" y="465" fill="#63758A" font-size="13" font-weight="400" text-anchor="start" font-family="Arial, Helvetica, sans-serif">N=120</text>
+<text x="296" y="504" fill="#172B42" font-size="16" font-weight="500" text-anchor="end" font-family="Arial, Helvetica, sans-serif">Financial Reporting</text>
+<rect x="315" y="485" width="392.1686746987952" height="23" rx="4" fill="#2876C7"/>
+<text x="857" y="503" fill="#172B42" font-size="16" font-weight="700" text-anchor="start" font-family="Arial, Helvetica, sans-serif">74.70%</text>
+<text x="953" y="503" fill="#63758A" font-size="13" font-weight="400" text-anchor="start" font-family="Arial, Helvetica, sans-serif">N=83</text>
+<text x="29" y="584" fill="#63758A" font-size="13" font-weight="400" text-anchor="start" font-family="Arial, Helvetica, sans-serif">Source: Faculty V2 • HD/D/C/P ÷ HD/D/C/P/F • Includes graded repeat attempts</text>
+</svg>
