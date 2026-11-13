@@ -10,7 +10,7 @@ This portfolio explores how a university could use business intelligence to reco
 
 The Faculty workstream is a rebuilt, reproducible simulation for **500 students, 44 courses and six teaching terms**. It examines **course pass rates, grade distributions, academic trends and attendance patterns** to answer a practical question: *which courses need further academic review, and what would an evidence-based follow-up look like?*
 
-![Data-derived ranking of priority courses](faculty/assets/lowest-course-pass-rates.svg)
+![Data-derived ranking of priority courses](faculty/asset/lowest-course-pass-rates.svg)
 
 **Verified V2 snapshot:** 5,742 graded attempts; **78.39%** passed (HD/D/C/P). These results are specific to V2 and are **not** improvements or declines relative to earlier coursework data.
 
