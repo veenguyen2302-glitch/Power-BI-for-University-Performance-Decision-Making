@@ -16,7 +16,7 @@ The data model contains **6,061 enrolment attempts** (including 177 withdrawals 
 
 ### Actual Power BI work-in-progress
 
-![Screenshot of the actual Power BI Service Faculty report under construction](faculty/assets/actual-power-bi-wip.png)
+![Screenshot of the actual Power BI Service Faculty report under construction](faculty/asset/actual-power-bi-wip.png)
 
 *Actual Power BI Service editing screenshot, 13 November 2026 — **work in progress**, not the final polished mockup or a verified `.pbix` deliverable. The evidence charts below are separately generated from the V2 CSVs, not screenshots of Power BI.*
 
@@ -24,7 +24,7 @@ The data model contains **6,061 enrolment attempts** (including 177 withdrawals 
 
 ### Course outcomes — investigate the gap, not just the ranking
 
-![Ten lowest course pass rates in V2, filtered to at least 50 eligible results](faculty/assets/lowest-course-pass-rates.svg)
+![Ten lowest course pass rates in V2, filtered to at least 50 eligible results](faculty/asset/lowest-course-pass-rates.svg)
 
 **Finding:** Fundamentals of Physics (**64.58%, N=144**), Database Fundamentals (**64.77%, N=264**), Principles of Marketing (**66.67%, N=180**) and Business Law (**67.05%, N=173**) all fall below the overall **78.39%** rate. Among these four, Database Fundamentals combines a low share of passes with the largest eligible result count.
 
@@ -32,19 +32,19 @@ The data model contains **6,061 enrolment attempts** (including 177 withdrawals 
 
 ### Grade composition — distinguish failed results from lower passes
 
-![Grade counts and proportional composition for the four review courses](faculty/assets/priority-course-grade-mix.svg)
+![Grade counts and proportional composition for the four review courses](faculty/asset/priority-course-grade-mix.svg)
 
 **Finding:** Database Fundamentals has **93 F grades among 264** graded attempts; Fundamentals of Physics has **51 F grades among 144**. Both imply over one-third of graded results failed. Read the grade mix alongside denominators, not as independent evidence of course difficulty.
 
 ### Trend — observe change, without attributing an intervention
 
-![Course-attempt pass rate across the six generated academic terms](faculty/assets/pass-rate-term-trend.svg)
+![Course-attempt pass rate across the six generated academic terms](faculty/asset/pass-rate-term-trend.svg)
 
 **Finding:** The overall rate moves from **76.43% (2024-T1, N=454)** to **80.02% (2026-T2, N=1,306)**. Later terms have more results and potentially different student/course composition; the comparison does **not** establish a causal improvement.
 
 ### Engagement — association is useful for triage, not diagnosis
 
-![Passing share by attendance band, source-generated results](faculty/assets/attendance-band-comparison.svg)
+![Passing share by attendance band, source-generated results](faculty/asset/attendance-band-comparison.svg)
 
 **Finding:** Attempts below **60% attendance** have a **48.43%** pass share (N=1,016); those at **85–100%** have **96.56%** (N=1,539). The synthetic generator builds related engagement and outcome signals into the data; this is **not** independent proof that higher attendance causes success.
 
@@ -64,7 +64,7 @@ The data model contains **6,061 enrolment attempts** (including 177 withdrawals 
 - **Model:** [entity relationships, data grain and Power BI field bindings](faculty/technical/data-model.md). Student-term GPA stays separate from course marks; support activity is student-term level.
 - **Measures:** [DAX definitions](technical/faculty-measures.dax) with explicit HD/D/C/P/F eligibility and a grade-count measure that preserves legend filtering.
 - **Validation:** [reconciled KPIs, 39 integrity checks, Power BI test plan and caveats](faculty/technical/validation.md), and [machine-readable metric evidence](faculty/technical/verified-metrics.json).
-- **Reproduction:** run [generator](faculty/scripts/generate_faculty_v2.py), then [validator](faculty/scripts/validate_and_analyse.py); charts provided as source-grounded SVG assets.
+- **Reproduction:** run [generator](faculty/scripts/generate_faculty_v2.py), then [validator](faculty/scripts/validate_and_analyse.py); charts provided as source-grounded SVG asset.
 
 **Portfolio boundary:** the original MIS781 coursework, the older repository demonstration and this enhanced V2 are separate versions. V2 figures should not be represented as historical university statistics or as verified impact. The actual Power BI report is still being styled and tested; no downloadable, validated V2 PBIX is claimed.
 
