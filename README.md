@@ -10,7 +10,9 @@ This portfolio explores how a university could use business intelligence to reco
 
 The Faculty workstream is a rebuilt, reproducible simulation for **500 students, 44 courses and six teaching terms**. It examines **course pass rates, grade distributions, academic trends and attendance patterns** to answer a practical question: *which courses need further academic review, and what would an evidence-based follow-up look like?*
 
-![Data-derived ranking of priority courses](faculty/asset/lowest-course-pass-rates.svg)
+![Aurora University Faculty Dashboard — visual design concept, not a Power BI screenshot](faculty/asset/dashboard-design-concept.png)
+
+*Dashboard layout concept (AI-generated). Source-verified analytical charts and the actual Power BI work-in-progress are documented in the [Faculty case study](faculty/README.md).*
 
 **Verified V2 snapshot:** 5,742 graded attempts; **78.39%** passed (HD/D/C/P). These results are specific to V2 and are **not** improvements or declines relative to earlier coursework data.
 
